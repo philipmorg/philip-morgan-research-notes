@@ -8,9 +8,10 @@ date: November 5, 2019 - v1.0
 
 **Abstract:**
 
-  A study of how self-employed software developers invest in their careers, and where they believe career opportunity comes from, by Philip Morgan Consulting.
+  A study of how self-employed software developers invest in their careers, and where they believe career opportunity comes from.
   
-  The question that motivated this study: How do self-employed software developers invest in their career?
+  The question that motivated this study: How do self-employed software developers invest in their career 
+  
   The answer: It's pretty much what you might think, but there are some surprises.
 
 # Key Findings
