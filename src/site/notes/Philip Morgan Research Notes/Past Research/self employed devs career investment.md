@@ -27,7 +27,7 @@ There are three specific questions from the survey that I'll focus on in this re
 
 ## 1) How do you invest in technical skills? 
 
-*The full question was: Please list ways you have you spent time and money for developing your technical skills.*
+(*The full question was: Please list ways you have you spent time and money for developing your technical skills.*)
 
 I standardized these responses to survey questions using a simple coding system: a response starting with "a-" is an action, while one starting with "s-" is a sentiment or belief. 
 
@@ -41,7 +41,7 @@ What you'll see below are the top 3 responses from each of my sample groups (one
 
 ## 2) How do you invest in business skills?
 
-*The full question was: Please list ways you have you spent time and money for business or self-employment skills.*
+(*The full question was: Please list ways you have you spent time and money for business or self-employment skills.*)
 
 | LinkedIn Sample | List Sample |
 |:--------------|:-----------|
@@ -51,7 +51,7 @@ What you'll see below are the top 3 responses from each of my sample groups (one
 
 ## 3) Where does opportunity come from?
 
-*The full question was: Consider your entire career as a self-employed software developer and times you have gotten new opportunities, better projects, or other forms of career improvement. What do you think led to these improvements in your career?*
+(*The full question was: Consider your entire career as a self-employed software developer and times you have gotten new opportunities, better projects, or other forms of career improvement. What do you think led to these improvements in your career?*)
 
 | LinkedIn Sample | List Sample |
 |:--------------|:-----------|
