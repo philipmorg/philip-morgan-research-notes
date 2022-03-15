@@ -2,7 +2,7 @@
 {"dg-home":true,"dg-publish":true,"dg-permalink":"home","permalink":"/home/","tags":"gardenEntry"}
 ---
 
-This is my (Philip Morgan's) research, meant to support entrepreneurial independent experts. Evolving and public.
+This is my (Philip Morgan's) research, meant to benefit entrepreneurial independent experts. Evolving and public.
 
 ## Questions I'm Researching
 
