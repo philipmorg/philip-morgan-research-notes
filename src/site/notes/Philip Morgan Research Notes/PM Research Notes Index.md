@@ -26,7 +26,7 @@ I'm not quite an [indie researcher](https://andymatuschak.org/2020/), not quite 
 
 <div class="transclusion">
 
-## My Email List
+### My Email List
 
 &nbsp;
 
@@ -39,7 +39,7 @@ I'm not quite an [indie researcher](https://andymatuschak.org/2020/), not quite 
 
 ---
 
-## Comments
+### Comments
 
 &nbsp;
 
