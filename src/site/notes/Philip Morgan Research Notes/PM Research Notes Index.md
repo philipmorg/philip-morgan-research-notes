@@ -6,9 +6,13 @@ This is my (Philip Morgan's) research, meant to support entrepreneurial independ
 
 ## Questions I'm Researching
 
-- [[Indie Experts Public Notes/Marketing/Marketing (topic index)|Marketing (topic index)]]
-- [[Indie Experts Public Notes/Entrepreneurship/Entrepreneurship (topic index)|Entrepreneurship (topic index)]]
-- [[Indie Experts Public Notes/Purely Tactical Stuff/Purely Tactical Stuff (topic index)|Purely Tactical Stuff (topic index)]]
+- [[Philip Morgan Research Notes/Marketing/For the indie expert what is marketing|For the indie expert what is marketing]]?
+- [[Philip Morgan Research Notes/Buy-Side Behavior/How do those who have spent more than $20000 on a consulting project that did not involve an RFP find the consultant they hired|How do those who have spent more than $20000 on a consulting project that did not involve an RFP find the consultant they hired]]?
+
+## Other Notes
+
+- [[Philip Morgan Research Notes/Entrepreneurship/Entrepreneurship (topic index)|Entrepreneurship (topic index)]]
+- [[Philip Morgan Research Notes/Purely Tactical Stuff/Purely Tactical Stuff (topic index)|Purely Tactical Stuff (topic index)]]
 
 
 ## About these notes
