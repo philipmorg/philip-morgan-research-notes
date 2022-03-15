@@ -4,15 +4,3 @@
 
 @TODO
 
----
-
-<script src="https://utteranc.es/client.js"
-        repo="philipmorg/philip-morgan-research-notes"
-        issue-term="pathname"
-        label="comment"
-        theme="github-dark-orange"
-        crossorigin="anonymous"
-        async>
-</script>
-
-&nbsp;
