@@ -1,12 +1,5 @@
 /*! Typebase.less v0.1.0 | MIT License */
 /* Setup */
-html {
-  /* Change default typefaces here */
-  font-family: serif;
-  font-size: 137.5%;
-  -webkit-font-smoothing: antialiased;
-}
-
 body {
   // Can't currently get Palatino looking good
   // font-family: Palatino, serif;
@@ -105,10 +98,9 @@ body {
   img {
       max-width: 100%;
   }
-}
-
-@media only screen and (max-width: 768px) {
-  body {
-      font-size: 300%;
+  @media only screen and (max-width: 768px) {
+        font-size: 300%;
   }
 }
+
+
