@@ -9,6 +9,11 @@ This is my (Philip Morgan's) research, meant to benefit entrepreneurial independ
 - [[Philip Morgan Research Notes/Marketing/For the indie expert what is marketing|For the indie expert, what is marketing?]]
 - [[Philip Morgan Research Notes/Buy-Side Behavior/RFP-less indie consulting dynamics|How do those who have spent more than $20000 on a consulting project that did not involve an RFP find the consultant they hired?]]
 - [[Philip Morgan Research Notes/Marketing/Is there a predictable path to thought leadership|Is there a predictable path to thought leadership?]]
+- [[Is there a standard path from implementation to strategy work|Is there a standard path from implementation to strategy work?]]
+
+## Previous Research
+
+- [[Philip Morgan Research Notes/Past Research/self employed devs career investment|How do self-employed developers invest in their career?]]
 
 ## Other Notes
 
