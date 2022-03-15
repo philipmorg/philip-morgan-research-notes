@@ -23,9 +23,14 @@ I'm not quite an [indie researcher](https://andymatuschak.org/2020/), not quite 
 
 - <https://notes.serverlessfirst.com/public/Welcome+to+my+public+notes>
 
+
+<div class="transclusion">
+
 ## My Email List
 
 <script async data-uid="7f3b9aa331" src="https://philip-morgan-consulting.ck.page/7f3b9aa331/index.js"></script>
+</div>
+
 
 
 <div class="transclusion">
@@ -33,6 +38,8 @@ I'm not quite an [indie researcher](https://andymatuschak.org/2020/), not quite 
 ---
 
 ## Comments
+
+&nbsp;
 
 <script src="https://utteranc.es/client.js"
         repo="philipmorg/philip-morgan-research-notes"
