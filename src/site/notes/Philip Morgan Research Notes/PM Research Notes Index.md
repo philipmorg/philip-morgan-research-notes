@@ -50,7 +50,7 @@ I'm not quite an [indie researcher](https://andymatuschak.org/2020/), not quite 
         repo="philipmorg/philip-morgan-research-notes"
         issue-term="pathname"
         label="comment"
-        theme="github-dark-orange"
+        theme="github-light"
         crossorigin="anonymous"
         async>
 </script>
