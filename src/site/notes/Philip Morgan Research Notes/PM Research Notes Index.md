@@ -23,7 +23,11 @@ I'm not quite an [indie researcher](https://andymatuschak.org/2020/), not quite 
 
 <script async data-uid="7f3b9aa331" src="https://philip-morgan-consulting.ck.page/7f3b9aa331/index.js"></script>
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 <script src="https://utteranc.es/client.js"
         repo="philipmorg/philip-morgan-research-notes"
