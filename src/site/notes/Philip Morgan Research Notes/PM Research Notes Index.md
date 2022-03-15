@@ -16,7 +16,7 @@ This is my (Philip Morgan's) research, meant to benefit entrepreneurial independ
 - [[Philip Morgan Research Notes/Purely Tactical Stuff/Purely Tactical Stuff (topic index)|Purely Tactical Stuff (topic index)]]
 
 
-## About these notes
+## About These Notes
 
 I'm not quite an [indie researcher](https://andymatuschak.org/2020/), not quite a consultant, and not quite an Internet authority. I am convinced that sharing my research, even in messy unfinished form, could be useful or interesting to some. If you find something of interest and would like to discuss more, send me a message on [Twitter](https://twitter.com/Philip_Morgan).
 
