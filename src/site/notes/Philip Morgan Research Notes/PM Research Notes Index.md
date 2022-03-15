@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/philip-morgan-research-notes/pm-research-notes-index/","tags":"gardenEntry"}
+{"dg-home":true,"dg-publish":true,"dg-permalink":"home","permalink":"/home/","tags":"gardenEntry"}
 ---
 
 Hello world
