@@ -4,10 +4,9 @@
 
 # How Do Self-Employed Software Developers Invest in Their Career?"
 
-
 date: November 5, 2019 - v1.0
 
-# Abstract:
+**Abstract:**
 
   A study of how self-employed software developers invest in their careers, and where they believe career opportunity comes from, by Philip Morgan Consulting.
   
@@ -27,7 +26,7 @@ There are three specific questions from the survey that I'll focus on in this re
 
 ## 1) How do you invest in technical skills? 
 
-`r tufte::margin_note('The full question was: Please list ways you have you spent time and money for developing your technical skills.')`
+*The full question was: Please list ways you have you spent time and money for developing your technical skills.*
 
 I standardized these responses to survey questions using a simple coding system: a response starting with "a-" is an action, while one starting with "s-" is a sentiment or belief. 
 
@@ -41,7 +40,7 @@ What you'll see below are the top 3 responses from each of my sample groups (one
 
 ## 2) How do you invest in business skills?
 
-`r tufte::margin_note('The full question was: Please list ways you have you spent time and money for business or self-employment skills.')`
+*The full question was: Please list ways you have you spent time and money for business or self-employment skills.*
 
 | LinkedIn Sample | List Sample |
 |:--------------|:-----------|
@@ -51,7 +50,7 @@ What you'll see below are the top 3 responses from each of my sample groups (one
 
 ## 3) Where does opportunity come from?
 
-`r tufte::margin_note('The full question was: Consider your entire career as a self-employed software developer and times you have gotten new opportunities, better projects, or other forms of career improvement. What do you think led to these improvements in your career?')`
+*The full question was: Consider your entire career as a self-employed software developer and times you have gotten new opportunities, better projects, or other forms of career improvement. What do you think led to these improvements in your career?*
 
 | LinkedIn Sample | List Sample |
 |:--------------|:-----------|
@@ -140,7 +139,7 @@ I've bolded the responses that indicate relationship assets, and italicized thos
 | 		 | 	s-divine-intervention - 1	 |
 | 		 | 	s-mindset - 1	 |
 | 		 | 	s-tough-streak - 1	 |
-				 |
+
 In the LinkedIn sample the differentiation between relationship and technical skill assets is not as obvious as in my email list sample, but the pattern is there in both samples: relationship assets (networking, maintaining relationships with past clients, and actively building a network) are more commonly listed as sources of opportunity than technical skills.
 
 An interesting and relevant followup study would focus on the ROI of some of these career assets. This would add nuance that's currently missing from my data.
@@ -172,11 +171,37 @@ You can inspect and use for your own purposes the anonymized survey responses ge
 
 I welcome discussion with you about the conclusions you might draw from this data, especially if they differ from mine.
 
-# Brought To You By Philip Morgan Consulting
 
-I'm Philip Morgan, and I'm focused on helping dev shops cultivate, commercialize, and monetize expertise. 
+<div class="transclusion">
 
-There's an underlying tension inherent in this expertise project: what dev shops need to do to cultivate exceptionally valuable expertise is often in direct conflict with what they need to do to serve clients -- and generate revenue -- today. My work helps resolve this tension. 
+---
 
-Learn more: 
-<https://philipmorganconsulting.com/research/>
+### My Email List
+
+80% interesting information about turning ideas into impact and then revenue, 20% shitposting about whatever.
+
+<script async data-uid="7f3b9aa331" src="https://philip-morgan-consulting.ck.page/7f3b9aa331/index.js"></script>
+</div>
+
+
+
+<div class="transclusion">
+
+---
+
+### Comments
+
+&nbsp;
+
+<script src="https://utteranc.es/client.js"
+        repo="philipmorg/philip-morgan-research-notes"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
+&nbsp;
+</div>
+
