@@ -56,7 +56,7 @@ Additional reading:
 
 ### My Email List
 
-&nbsp;
+80% interesting information about turning ideas into impact and then revenue, 20% shitposting about whatever.
 
 <script async data-uid="7f3b9aa331" src="https://philip-morgan-consulting.ck.page/7f3b9aa331/index.js"></script>
 </div>
