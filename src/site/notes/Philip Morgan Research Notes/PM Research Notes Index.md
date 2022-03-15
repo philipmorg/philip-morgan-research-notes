@@ -19,7 +19,7 @@ I'm not quite an [indie researcher](https://andymatuschak.org/2020/), not quite 
 
 - <https://notes.serverlessfirst.com/public/Welcome+to+my+public+notes>
 
-My email list:
+## My Email List
 
 <script async data-uid="7f3b9aa331" src="https://philip-morgan-consulting.ck.page/7f3b9aa331/index.js"></script>
 
@@ -29,7 +29,7 @@ My email list:
         repo="philipmorg/philip-morgan-research-notes"
         issue-term="pathname"
         label="comment"
-        theme="github-light"
+        theme="github-dark-orange"
         crossorigin="anonymous"
         async>
 </script>
