@@ -36,6 +36,8 @@ That's why the _first_ question you pose to any marketing advice-giver is "What 
 Another noteworthy distinction I want to make: it's common for people to use the word _marketing_ when they actually mean _advertising_. Advertising is actually a subset of marketing, but many people use the two words as synonyms. This is a consequential error because it confuses spending money to display a message at scale (advertising) with the work of earning visibility and trust for your services (marketing). Some people or organizations do no marketing beyond advertising, and in that one special case their advertising and marketing efforts would be the same thing, but in all other cases, advertising is a subset of marketing.
 
 This tweet thread is a good example of someone conflating advertising with marketing: 
+
+
 <div class="transclusion">
 
 
@@ -72,12 +74,27 @@ As the CMO for Shopify and Kijiji, two iconic brands, I spent very little time &
 
 [Tweet link](https://twitter.com/craigmillr/status/1491100580919803905)
 </div>
- It's very reasonable for them to use these words interchangeably because they're operating in the commodities context.
+ 
+
+It's very reasonable for them to use these words interchangeably because they're operating in the commodities context.
 
 ---
 
 Additional reading:
 
 - [https://commoncog.com/blog/the-consulting-business-model/](https://commoncog.com/blog/the-consulting-business-model/)
+
+---
+
+<script src="https://utteranc.es/client.js"
+        repo="philipmorg/philip-morgan-research-notes"
+        issue-term="pathname"
+        label="comment"
+        theme="github-dark-orange"
+        crossorigin="anonymous"
+        async>
+</script>
+
+&nbsp;
 
 
