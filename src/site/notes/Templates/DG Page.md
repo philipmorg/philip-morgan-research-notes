@@ -30,7 +30,7 @@
         repo="philipmorg/philip-morgan-research-notes"
         issue-term="pathname"
         label="comment"
-        theme="github-dark-orange"
+        theme="github-light"
         crossorigin="anonymous"
         async>
 </script>
