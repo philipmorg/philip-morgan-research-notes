@@ -6,9 +6,9 @@ This is my (Philip Morgan's) research, meant to benefit entrepreneurial independ
 
 ## Questions I'm Researching
 
-- [[Philip Morgan Research Notes/Marketing/For the indie expert what is marketing|For the indie expert what is marketing]]?
-- [[Philip Morgan Research Notes/Buy-Side Behavior/How do those who have spent more than $20000 on a consulting project that did not involve an RFP find the consultant they hired|How do those who have spent more than $20000 on a consulting project that did not involve an RFP find the consultant they hired]]?
-- [[Philip Morgan Research Notes/Marketing/Is there a predictable path to thought leadership|Is there a predictable path to thought leadership]]?
+- [[Philip Morgan Research Notes/Marketing/For the indie expert what is marketing|For the indie expert, what is marketing?]]
+- [[Philip Morgan Research Notes/Buy-Side Behavior/RFP-less indie consulting dynamics|How do those who have spent more than $20000 on a consulting project that did not involve an RFP find the consultant they hired?]]
+- [[Philip Morgan Research Notes/Marketing/Is there a predictable path to thought leadership|Is there a predictable path to thought leadership?]]
 
 ## Other Notes
 
