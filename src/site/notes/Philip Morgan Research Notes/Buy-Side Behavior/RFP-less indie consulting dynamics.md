@@ -11,7 +11,7 @@
 
 ### My Email List
 
-80% interesting information about turning ideas into impact and then revenue, 20% shitposting about whatever.
+80% me thinking out loud about turning ideas into impact and then revenue; 20% shitposting about whatever.
 
 <script async data-uid="7f3b9aa331" src="https://philip-morgan-consulting.ck.page/7f3b9aa331/index.js"></script>
 </div>
