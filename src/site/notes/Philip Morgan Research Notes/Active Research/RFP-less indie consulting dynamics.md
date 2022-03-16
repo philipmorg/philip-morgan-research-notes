@@ -15,6 +15,7 @@ Potential questions:
 	- How did the consultant you hired price the project in question?
 	- How did you first become aware of the consultant you hired?
 	- Approximately how many other consultants or other solutions did you consider for the project in question?
+		- If you considered multiple consultants for this project, how did you first become aware of the alternative consultants?
 	- Why did you choose the consultant you did for this project?
 - Your name & email address
 
