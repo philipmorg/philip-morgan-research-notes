@@ -9,7 +9,7 @@ Thinking through the recruitment:
 Potential questions:
 
 - Have you ever hired an independent consultant for a project larger than $20K without using a Request For Proposal (RFP)?
-	- Think of that project as you answer the following questions:
+- Think of that project as you answer the following questions:
 	- How much was this project worth to your business? (How much value or cost savings or other benefit did it create?)
 	- How much did you pay the consultant you hired?
 	- How did the consultant you hired price the project in question?
