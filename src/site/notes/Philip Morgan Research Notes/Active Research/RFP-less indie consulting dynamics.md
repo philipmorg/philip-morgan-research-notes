@@ -2,6 +2,25 @@
 {"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/rfp-less-indie-consulting-dynamics/"}
 ---
 
+## Background
+
+I think those of us in the marketing advice game deal with some challenging biases:
+
+- If we advise on the basis of local "best practice" (ex: "this worked for me", or "these firms I know about and admire are doing X and Y") then we may miss better options that are outside our local awareness.
+- If we advise based on aesthetics (ex: "content marketing feels like the most honest way to generate opportunity because....") then we may give poorly-matched or bad advice.
+- If we look at firm financial performance and model what the winners in that race do, we may model correctly for a certain context but incorrectly for a different context, or we may miss factors that are ultimately more influential than how those firms approach marketing.
+	- If we use the same sampling method and gather memory-based data from the winners, we may get Halo Effect-skewed data, though this is a minor risk given that many marketing activities have track-able results and somewhat more objectively-measurable inputs.
+
+I believe that researching the buying side of a consulting transaction may provide more useful data.
+
+## Intent
+
+@TODO
+
+---
+
+## Working Notes
+
 Thinking through the recruitment:
 
 ## LinkedIn in-connection message survey
@@ -17,6 +36,7 @@ Potential questions:
 	- Approximately how many other consultants or other solutions did you consider for the project in question?
 		- If you considered multiple consultants for this project, how did you first become aware of the alternative consultants?
 	- Why did you choose the consultant you did for this project?
+- Anything else you'd like to add about this?
 - Your name & email address
 
 
