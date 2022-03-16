@@ -24,3 +24,37 @@ I probably do not have clinical-level ADHD. But when I talk to folks with diagno
 - This resources, provided by Chris Ferdinandi, are helpful:
 	- The ["How to ADHD" YouTube channel](https://www.youtube.com/howtoadhd)
 	- [https://gomakethings.com/being-a-developer-with-adhd/](https://gomakethings.com/being-a-developer-with-adhd/)
+
+
+<div class="transclusion">
+
+---
+
+### My Email List
+
+80% me thinking out loud about turning ideas into impact and then revenue; 20% shitposting about whatever.
+
+<script async data-uid="7f3b9aa331" src="https://philip-morgan-consulting.ck.page/7f3b9aa331/index.js"></script>
+</div>
+
+
+
+<div class="transclusion">
+
+---
+
+### Comments
+
+&nbsp;
+
+<script src="https://utteranc.es/client.js"
+        repo="philipmorg/philip-morgan-research-notes"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
+&nbsp;
+</div>
