@@ -6,10 +6,10 @@
 
 I think those of us in the marketing advice game deal with some challenging biases:
 
-- If we advise on the basis of local "best practice" (ex: "this worked for me", or "these firms I know about and admire are doing X and Y") then we may miss better options that are outside our local awareness.
-- If we advise based on aesthetics (ex: "content marketing feels like the most honest way to generate opportunity because....") then we may give poorly-matched or bad advice.
-- If we look at firm financial performance and model what the winners in that race do, we may model correctly for a certain context but incorrectly for a different context, or we may miss factors that are ultimately more influential than how those firms approach marketing.
-	- If we use the same sampling method and gather memory-based data from the winners, we may get Halo Effect-skewed data, though this is a minor risk given that many marketing activities have track-able results and somewhat more objectively-measurable inputs.
+- If we advise on the basis of *our own local experience* (ex: "this worked for me", or "these firms I know about and admire are doing X and Y") then we may miss better options that are outside our local awareness.
+- If we advise based on *aesthetics* (ex: "content marketing feels like the most honest way to generate opportunity because....") then we may give poorly-matched or bad advice.
+- If we look at firm *financial performance and model what the winners in that race* do, we may model correctly for a certain context but incorrectly for a different context, or we may miss factors that are ultimately more influential than how those firms approach marketing.
+	- If we use the *same sampling method and gather memory-based data* from the winners, we may get Halo Effect-skewed data, though this is a minor risk given that many marketing activities have track-able results and somewhat more objectively-measurable inputs.
 
 I believe that researching the buying side of a consulting transaction may provide more useful data. This is somewhat in the spirit of *[[Philip Morgan Research Notes/Active Research/Marketing/Marketing For Non-Commodities/How Clients Buy - A Practical Guide to Business Development for Consulting and Professional Services|How Clients Buy - A Practical Guide to Business Development for Consulting and Professional Services]]*
 
