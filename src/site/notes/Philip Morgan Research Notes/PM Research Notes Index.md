@@ -6,20 +6,20 @@ This is my (Philip Morgan's) research, meant to benefit entrepreneurial independ
 
 ## Questions I'm Actively Researching
 
-- [[Philip Morgan Research Notes/Active Research/Marketing/For the indie expert what is marketing|For the indie expert, what is marketing?]]
-- [[Philip Morgan Research Notes/Active Research/RFP-less indie consulting dynamics|How do those who have spent more than $20000 on a consulting project that did not involve an RFP find the consultant they hired?]]
+1. [[Philip Morgan Research Notes/Active Research/Marketing/For the indie expert what is marketing|For the indie expert, what is marketing?]]
+2. [[Philip Morgan Research Notes/Active Research/RFP-less indie consulting dynamics|How do those who have spent more than $20000 on a consulting project that did not involve an RFP find the consultant they hired?]]
 
 ## Future Research Questions
 
-- [[Philip Morgan Research Notes/Future Research Questions/Is there a predictable path to thought leadership|Is there a predictable, reusable path to thought leadership?]]
-- [[Philip Morgan Research Notes/Future Research Questions/Is there a standard growth path from implementation to strategy work|Is there a standard growth path from implementation to strategy work?]]
-- How did those with a distinctive POV develop it?
-- How do you sell transformation?
-- How do people parse, remember, and intepret positioning content?
+1. [[Philip Morgan Research Notes/Future Research Questions/Is there a predictable path to thought leadership|Is there a predictable, reusable path to thought leadership?]]
+2. [[Philip Morgan Research Notes/Future Research Questions/Is there a standard growth path from implementation to strategy work|Is there a standard growth path from implementation to strategy work?]]
+3. How did those with a distinctive POV develop it?
+4. How do you sell transformation?
+5. How do people parse, remember, and intepret positioning content?
 
 ## Previous Research
 
-- [[Philip Morgan Research Notes/Past Research/self employed devs career investment|How do self-employed developers invest in their career?]]
+1. [[Philip Morgan Research Notes/Past Research/self employed devs career investment|How do self-employed developers invest in their career?]]
 
 ## Other Notes
 
