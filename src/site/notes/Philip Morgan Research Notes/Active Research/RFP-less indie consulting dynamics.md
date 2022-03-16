@@ -15,7 +15,9 @@ I believe that researching the buying side of a consulting transaction may provi
 
 ## Intent
 
-@TODO
+Use a grounded theory method. Interview 30 people who made the decision to buy >$20k of consulting services without using an RFP process. Recruit these interviewees using a medium-length survey that will gather qualitative data, incidentally producing well over 30 data points of a less rich and nuanced quality in the process.
+
+(A core assumption here is that "no RFP-involved" is a good proxy for "not-yet-commoditized or completely un-commoditized solution space".)
 
 ---
 
@@ -54,7 +56,7 @@ A3: No
 
 ---
 
-A core assumption here is that "no RFP-involved" is a good proxy for "not-yet-commoditized or completely un-commoditized solution space"
+
 
 
 
