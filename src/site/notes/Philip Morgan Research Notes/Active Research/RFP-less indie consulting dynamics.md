@@ -10,12 +10,13 @@ Potential questions:
 
 - Have you ever hired an independent consultant for a project larger than $20K without using a Request For Proposal (RFP)?
 	- Think of that project as you answer the following questions:
-- How much was this project worth to your business? (How much value or cost savings or other benefit did it create?)
-- How much did you pay the consultant you hired?
-- How did the consultant you hired price the project in question?
-- How did you first become aware of the consultant you hired?
-- Approximately how many other consultants or other solutions did you consider for the project in question?
-- Why did you choose the consultant you did for this project?
+	- How much was this project worth to your business? (How much value or cost savings or other benefit did it create?)
+	- How much did you pay the consultant you hired?
+	- How did the consultant you hired price the project in question?
+	- How did you first become aware of the consultant you hired?
+	- Approximately how many other consultants or other solutions did you consider for the project in question?
+	- Why did you choose the consultant you did for this project?
+- Your name & email address
 
 
 
