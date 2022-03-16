@@ -11,7 +11,7 @@ This is my (Philip Morgan's) research, meant to benefit entrepreneurial independ
 
 ## Future Research Questions
 
-- [[Philip Morgan Research Notes/Active Research/Marketing/Is there a predictable path to thought leadership|Is there a predictable, reusable path to thought leadership?]]
+- [[Philip Morgan Research Notes/Future Research Questions/Is there a predictable path to thought leadership|Is there a predictable, reusable path to thought leadership?]]
 - [[Philip Morgan Research Notes/Future Research Questions/Is there a standard growth path from implementation to strategy work|Is there a standard growth path from implementation to strategy work?]]
 
 ## Previous Research
