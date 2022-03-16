@@ -26,7 +26,7 @@ This is my (Philip Morgan's) research, meant to benefit entrepreneurial independ
 
 ## About These Notes
 
-I am convinced that sharing my research, even in messy unfinished form, could be useful or interesting to some. If you find something of interest and would like to discuss more, send me a message on [Twitter](https://twitter.com/Philip_Morgan).
+I am convinced that sharing my research, even in this in-progress form, can be useful or interesting to some. If you find something of interest and would like to discuss more, send me a message on [Twitter](https://twitter.com/Philip_Morgan).
 
 ## Other Useful Digital Gardens:
 
