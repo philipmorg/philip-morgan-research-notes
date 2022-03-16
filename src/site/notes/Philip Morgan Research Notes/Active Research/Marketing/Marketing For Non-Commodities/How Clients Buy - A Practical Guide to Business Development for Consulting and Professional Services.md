@@ -4,7 +4,7 @@
 
 - **Title**: How Clients Buy- A Practical Guide to Business Development for Consulting and Professional Services
 - **Author**: Tom McMakin and Doug Fletcher
-- **Amazon link**: https://amazon.com/dp/B079V5X876
+- **Amazon link**: [https://amazon.com/dp/B079V5X876](https://amazon.com/dp/B079V5X876)
 
 **Summary**: The best summary of this book might be the authors own words: "We believe that in consulting and professional services, you do not win new business by focusing on sales funnel–type activities but rather by starting from a place of empathy with your would-be clients. This empathy requires us to view the buying journey from the perspective of what prospective clients need before they can engage and only then to ask, “How can I support a potential client as they seek to satisfy these seven basic needs?” The seven elements of the client's journey are (again, the authors' own words):
 
@@ -39,7 +39,7 @@ I'm automatically interested in any book on sales/marketing that incorporates re
 
 **Overall**:
 
-This book joins the [canon](https://publish.obsidian.md/indieexperts/Indie+Experts+Public+Notes/Marketing/Marketing+For+Non-Commodities/Useful+Books+On+Marketing+And+Selling+Non-Commodities). Welcome! There are too few of this kind of book, and despite particular the ways it doesn't precisely fit my audience's context, it has a lot to offer and it touches on some important, fundamental truths.
+This book joins the [[Philip Morgan Research Notes/Active Research/Marketing/Marketing For Non-Commodities/Useful Books On Marketing And Selling Non-Commodities|canon]]. Welcome! There are too few of this kind of book, and despite particular the ways it doesn't precisely fit my audience's context, it has a lot to offer and it touches on some important, fundamental truths.
 
 
 [^1]: Here's an example of an indie consultant servicing 16 clients in a year at price points from $1.5K to $66k and earning $401,000 in about 9 months of work: https://twitter.com/aeduhm/status/1452665005602652173
