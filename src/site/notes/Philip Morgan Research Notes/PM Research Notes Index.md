@@ -44,3 +44,5 @@ I am convinced that sharing my research, even in messy unfinished form, could be
 <script async data-uid="7f3b9aa331" src="https://philip-morgan-consulting.ck.page/7f3b9aa331/index.js"></script>
 </div>
 
+
+&nbsp;
