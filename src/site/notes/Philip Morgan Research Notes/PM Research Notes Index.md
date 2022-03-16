@@ -14,6 +14,8 @@ This is my (Philip Morgan's) research, meant to benefit entrepreneurial independ
 - [[Philip Morgan Research Notes/Future Research Questions/Is there a predictable path to thought leadership|Is there a predictable, reusable path to thought leadership?]]
 - [[Philip Morgan Research Notes/Future Research Questions/Is there a standard growth path from implementation to strategy work|Is there a standard growth path from implementation to strategy work?]]
 - How did those with a distinctive POV develop it?
+- How do you sell transformation?
+- How do people parse positioning content?
 
 ## Previous Research
 
