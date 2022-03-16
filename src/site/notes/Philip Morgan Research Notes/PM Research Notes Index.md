@@ -4,10 +4,13 @@
 
 This is my (Philip Morgan's) research, meant to benefit entrepreneurial independent experts. Evolving and public.
 
-## Questions I'm Researching
+## Questions I'm Actively Researching
 
 - [[Philip Morgan Research Notes/Marketing/For the indie expert what is marketing|For the indie expert, what is marketing?]]
 - [[Philip Morgan Research Notes/Buy-Side Behavior/RFP-less indie consulting dynamics|How do those who have spent more than $20000 on a consulting project that did not involve an RFP find the consultant they hired?]]
+
+## Future Research Questions
+
 - [[Philip Morgan Research Notes/Marketing/Is there a predictable path to thought leadership|Is there a predictable path to thought leadership?]]
 - [[Philip Morgan Research Notes/Mysteries/Is there a standard path from implementation to strategy work|Is there a standard path from implementation to strategy work?]]
 
