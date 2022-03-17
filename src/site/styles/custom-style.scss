@@ -129,9 +129,13 @@ body {
   body .content {
     font-size: 1.4em;
     font-weight:300;
-    line-height:;
   }
   body p {
     line-height: 1.8rem;
+  }
+  ul li,
+  ol li {
+    line-height: 1.8rem;
+    margin-bottom: 6px;
   }
 }
