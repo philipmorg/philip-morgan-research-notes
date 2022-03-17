@@ -25,7 +25,10 @@ Use a grounded theory method. Interview 30 people who made the decision to buy >
 
 Thinking through the recruitment:
 
-## LinkedIn in-connection message survey
+## 
+<div class="transclusion">
+
+LinkedIn in-connection message survey
 
 Potential questions:
 
@@ -40,6 +43,8 @@ Potential questions:
 	- Why did you choose the consultant you did for this project?
 - Anything else you'd like to add about this?
 - Your name & email address
+</div>
+
 
 
 
