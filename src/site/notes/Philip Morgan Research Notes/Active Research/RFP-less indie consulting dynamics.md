@@ -25,10 +25,10 @@ Use a grounded theory method. Interview 30 people who made the decision to buy >
 
 Thinking through the recruitment:
 
-## 
+ 
 <div class="transclusion">
 
-LinkedIn in-connection message survey
+## LinkedIn in-connection message survey
 
 Potential questions:
 
