@@ -26,6 +26,9 @@ This is my (Philip Morgan's) research, meant to benefit entrepreneurial independ
 - [[Philip Morgan Research Notes/Other Notes/Entrepreneurship/Entrepreneurship (topic index)|Entrepreneurship (topic index)]]
 - [[Philip Morgan Research Notes/Other Notes/Purely Tactical Stuff/Purely Tactical Stuff (topic index)|Purely Tactical Stuff (topic index)]]
 
+## Work-In-Progress Previews
+
+- [[Philip Morgan Research Notes/SSR Guide - Public Preview|Small-Scale Research Guide - Public Preview]]
 
 ## About These Notes
 
