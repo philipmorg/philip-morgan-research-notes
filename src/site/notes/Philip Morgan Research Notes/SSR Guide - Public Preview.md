@@ -110,18 +110,27 @@ If you're up for it, read these two books back to back. You'll find yourself sus
 
 ## Why Don't We Do More Small-Scale Research?
 
+Let me be clear: well-executed small-scale research is very rare. There are good reasons why.
 
-Why don't we do more small-scale research?
-	We mis-aprehend research generally and business research specifically.
-	We may have no formal training doing it
-		I did one small-scale research project involving surveys and SPSS as part of a senior Political Science thesis project.
-	We are intimidated by it.
-	We have few examples of our peers doing it.
-	We have some examples of small-scale research used for marketing, but that's just one of several ways research can be leveraged and examples where it's used for decision support are less visible to us and therefore more mysterious.
-	We practice an unlicensed profession, and so there's little incentive for us to up our game beyond what improvisation, gut feel, past experience, and best-ish practices suggest.
-All together, these factors cause us to under-utilize research
-	The act of doing the research — even if nothing impressive comes out the other end — is a powerful growth experience.
-So, let's talk about small-scale research!
+**We mis-aprehend research generally**, and business research specifically. We hear the word "research" and tend to assume that means expensive, complex, technical, inaccessible stuff. Most of us don't know about this little niche of accessible, useful methods that untrained but motivated people like us can use to create unique value, and so we hear the word "research" and mentally expand that to "not for me".
+
+**We lack formal training in SSR methods**. In college, I did one small-scale research project involving surveys and SPSS as part of a senior Political Science thesis project. That was the extent of my schooling's contribution to my understanding of SSR. Maaaybe if we have done UX or product validation work we've had some exposure to SSR-friendly research methods, but the majority of us lack even semi-formal training in SSR methods. I hope this guide helps, but this lack of training certainly explains part of why SSR is rare.
+
+**We are intimidated by the idea of research**. The like-farming tweeter I referenced at the start of this chapter lives in our head, or at least the social threat they represent lives in our mind as a fear of "getting in over our heads". And so many of us are intimidated by the idea of SSR, because we fixate on the _research_ part (and our associated fears) and undervalue how the _small-scale_ part can make SSR usable and valuable for us.
+
+**We see few examples of our peers doing SSR**. This reinforces the notion that it's difficult, complex, and risky. We have some examples of SSR used for marketing, but that's just one of several ways research can be leveraged, and examples where it's used for decision support are less visible to us and therefore more mysterious.
+
+**We practice an unlicensed profession**, and so there's little incentive for us to raise our game beyond what improvisation, gut feel, past experience, "best practices", and a dash of confidence can achieve. Said more cynically, our clients are surprisingly tolerant of really mediocre consulting services, which reduces the incentive for us to level up the quality of our advice using data. Said more positively, often the status quo at a client is so bad that improvisation, gut feel, past experience, "best practices", and a dash of confidence can create a miraculous amount of relative improvement!
+
+All together, these factors cause us to under-utilize research. Again, many of these are good reasons to _not_ invest in SSR. Doing competent but -- let's be honest -- *utterly ordinary work* can be monetized in totally adequate ways. Building a small team, leveraging a bit of luck, and avoiding making any terrible decisions for 10 or 20 years can buy you two really nice houses, a few college educations for kids, a funded retirement account, and quite a few nice vacations a year and meals in restaurants a week. All without touching SSR with a ten foot pole. Not bad!
+
+So after accounting for all the reasons to invest in SSR and considering all the reasons we don't, I think your decision will come down to _dissatisfaction_. The folks who are willing to invest in SSR tend to be dissatisfied with the status quo. They have a hunger to advance the state of the art. A hunger that, frankly, I have been unable to fully explain. I have this hunger. Some folks I know who "should" be earning more money have this hunger and invest in SSR anyway, despite the "illogical" nature of the investment. And others who are earning way more money than they need to live well and can't explain how exactly the SSR will contribute revenue have the hunger.
+
+The best I've got for an explanation: it's a hunger to understand more deeply. We just _have_ to gain this deeper understanding. Maybe this is driven by even deeper, more primal motivations for status, power, etc. I don't really know.
+
+I _do_ know that you can stop reading this guide if you're sure you *don't* have this hunger. There are easier, less risky ways to optimize your business to make more money and serve your clients better.
+
+But if you do have this hunger, or if doing SSR is part of your job, or if you're merely curious, then read on. I won't waste your time with anything other than the essential concepts and details you need to understand and execute small-scale research.
 
 </div>
 
