@@ -10,7 +10,7 @@ This is a public preview of _The Small-Scale Research Guide_. Currently in-progr
 # The Potential Of Small-Scale Research
 
 
-[Get the examples I have in front of readers early on in the book :)]
+@NOTE: Get the examples I have in front of readers early on in the book :)
 
 This was merely the first example I could find of a particular genre that is well-represented on the Internet:
 
@@ -26,7 +26,7 @@ This is a simplification of a more complex problem:
 
 So @TK:handle of twitter poster is -- in their own cartoonish like-farming way -- acting in defense of the honor and place of real expertise. This is a big part of the cultural backdrop we consider when we think about small-scale research.
 
-If I buy a $5000 vintage Martin guitar to play 3-chord songs on the weekend, nobody's really been harmed by my usage of this tool, it's just that the tool's potential is utterly wasted on my lack of ability to play it well. If my wife complains of abdominal pain and I try to remove her appendix with a $5 X-acto knife, I'm mis-using a tool in a way that almost certainly *will* harm her.
+If I buy a $5000 vintage Martin guitar to play 3-chord songs on the weekend, nobody's really been harmed by my usage of this tool, it's just that the tool's potential is utterly wasted on my lack of ability to play it well. On the other hand, if my wife complains of abdominal pain and I try to remove her appendix with a $5 X-acto knife, I'm mis-using a tool in a way that almost certainly *will* harm her.
 
 But what if I create a survey instrument, field it and get a few hundred data points, and start advising clients based on what I've learned from that survey? Am I mis-using that tool in a way that can lead to harm?
 
@@ -52,26 +52,65 @@ We'll roughly divide the world of research into 3 not-equally-sized sectors:
 
 @TODO: illustrative sketch
 
-Academic/Scientific research is what we are most familiar with. 
+**Academic/Scientific research** is what we are most familiar with. Anyone who cites numbers about COVID-19 death rates, case counts, transmissibility, and the like is making use of the output of the academic/scientific research world. If there's one thing that outsiders might know about this world's methods, it's the idea of _statistical validity_. Most of us don't really understand statistical validity, but we know it's important and difficult to achieve, and if we don't like what a given research product seems to say, the easiest way to discredit it is to find some flaw related to statistical validity.
 
-5-second 5,000-foot view
-	Academic/Scientific Research
-	Small-Scale Research
-	Business Research
-Why small-scale research?
-	Forces a literature review, which is often the crash course we need in prior art.
-	Forces us to think about context (if we haven't already) in a deeper/more serious way
-		Ex: Guillaume's lit review uncovering no prior art in the business world but similar prior art in a different domain.
-	Can be used to create IP.
-	Gives a valuable POV angle
-		Can help move our POV away from experience and towards data, or give us more range from experience to data.
-	Helps us help our clients make better decisions
-		This is really the bottom line here, and the ultimate reason to do this small-scale research.
-		Data is a story we tell ourselves about why we decided a certain way
-			This is an argument both for getting more fluent at creating and using data, and an argument for humility around the whole idea of data.
-			"Alchemy" by Rory Sutherland is a fun, worthwhile read here.
-			"How to Measure Anything" by Douglas Hubbard is a much less fun, but equally worthwhile counterbalancing read.
-		A spirit of *service* is important here.
+**Small-Scale Research** is something you'll come to understand via this guide. Small-Scale Research (SSR) uses methods that untrained researchers can use without getting wacky results to enable better decision-making within businesses. SSR keeps the cost reasonable by keeping the scope very narrow and using methods that generate insight and contextual richness rather than definitive declarations about cause-effect.
+
+**Business Research** is a superset of SSR that seeks to understand cause-effect in the context of a business decision. Business research also seeks to measure the under-measured in order to help manage risk. And finally, there is a branch of business research that uses inexpensive research methods to earn visibility and trust through social signaling but without supporting (or being on the hook for) any specific decision.
+
+The next chapter of this guide will much more fully explain academic/scientific and business research so we can clearly see where SSR fits in between these two much larger worlds.
+
+It's worth thinking about why we should invest in SSR.
+
+## SSR Forces A Literature Review
+
+After you roughly define your SSR question, you will do a brief literature review. If this sounds intimidating or technical, it's actually not. A SSR literature review is like Googling around for stuff, except using specialized search engines (more and more useful and _free_ options are entering this market all the time). It would be unwise to start a SSR project without doing a literature review, because you don't want or need to duplicate prior efforts. So we could say that SSR _forces_ a literature review.
+
+This is a very good thing. Through the lit review, we'll get a crash course in the relevant prior art. If our SSR question is roughly aimed at understanding the value of branding, we'll find that there have been serious academic inquiries into this question. [@TODO: link to a few scite and others with pre-populated queries for this] Perhaps this will cause us to refine, narrow, adjust, or abandon our SSR project. This is good!
+
+In fact, if _all_ that a SSR project did was motivate a few hours of literature review, most of us would dramatically reduce our ignorance about the prior contributions of academic/scientific research to our area of expertise. This may or may not change how we work with clients, but it can't possibly hurt, and it's much more likely that our expertise will be enriched.
+
+## SSR Forces Us To Seriously Consider Context
+
+Once you commit to a SSR question, any anxiety that your mind contains will gather itself and start saying, "but what about _this_? What if _this_ is connected somehow to the question I'm investigating?" This is good, because this forces your thinking _outward_ from the SSR question to the _context_ surrounding it.
+
+If your question is "does better branding increase sales?", that's a good starting point question! Good! Whatever anxiety resides in your mind will quickly marshal its forces to ask: "what *other stuff* could increase sales? Or _decrease_ sales even if the branding is helping? Or.... or.... or...?" What's happening here is that you are trying to _locate your SSR question within the larger context of anything and everything that could be connected to it_. This is a VERY GOOD THING!
+
+Eventually your investigation of the surrounding context needs to resolve into a refinement of your initial SSR question so that you can settle down into research, but this preceding "anxious phase" is good because it forces you to seriously consider context, and if there's one thing that can make you a better consultant, it's a better grasp of your client's context.
+
+## SSR Can Create Intellectual Property
+
+Intellectual property (IP) is your expertise packaged and made usable without your direct involvement. For us indie experts, IP is generally not something we invest much effort in protecting in a legal sense or worry about being stolen. Most clients would rather pay us to help apply it, and most competitors are too proud or incompetent to bother with stealing or borrowing it. Sure, there are exceptions, but spending money to protect our IP  would be like buying meteorite strike insurance for a car.
+
+SSR can create or enrich IP. "I want to create IP" is not the best motivation for investing in SSR. "I want to understand X better so I can help my clients make better decisions" is a much better motivation, but the SSR that fulfills your desire to more deeply understand X can end up being ,or contributing to, valuable IP. (If the speculative nature of all of this puts you off, that may be a sign that your business or thinking is not in a place that's compatible with SSR.)
+
+## SSR Can Contribute To Your Point Of View
+
+Your point of view (POV) is like an "intellectual fingerprint" -- a way you have of seeing things that is *distinctive* in the market. Every person has a fingerprint, and every person has a point of view. But clients do not find every POV interesting or relevant. Points of view with _content_ that clients find challenging, intriguing, suggestive of a better path forward, or useful are the ones that are most interesting or relevant to them.
+
+Your way of seeing the world is informed by _where you stand_. Do you stand firmly rooted in your own belief or experience, or do you stand more rooted in what _data_ tells you? The content of your point of view will be influenced by the context of where you stand.
+
+I periodically run a workshop that helps consultants clarify and sharpen their point of view. With very few exceptions, participants stand rooted in their own experience, but they want their POV to come more from data. Earlier I said our culture worships data. I wasn't exaggerating, and this explains why most of us want our POV to have the power that data can confer.
+
+SSR can enrich your POV with unique data that you have assembled and interpreted, which can combine powerfully with the output of other, complementary, research. 
+
+## Ultimately SSR Helps Our Clients Make Better Decisions
+
+This is really the bottom line here. It's the ultimate reason to invest in SSR. Well-designed SSR can help our clients make better decisions, which -- bit, by bit -- enhances the health of the market we serve, which creates more and better opportunity for us. If you're seeing something like a spirit of service being the most powerful motivator for SSR, then you're seeing this thing clearly.
+
+## SSR Calls For Strength And Humility
+
+Data is powerful. It is also a story we tell ourselves about why we decided a certain way.
+
+This is an argument both for getting more fluent at creating and using data, and an argument for humility around the whole idea of data's value. Some suggested reading for you.
+
+"Alchemy" by Rory Sutherland is a fun, worthwhile read here. "How to Measure Anything" by Douglas Hubbard is a much less fun, but equally worthwhile counterbalancing read.
+
+If you're up for it, read these two books back to back. You'll find yourself suspended in a sort of "intellectual hammock", pulled in two opposing directions with respect to the value of *data*. This is the right place from which to think about this stuff.
+
+## Why Don't We Do More Small-Scale Research?
+
+
 Why don't we do more small-scale research?
 	We mis-aprehend research generally and business research specifically.
 	We may have no formal training doing it
