@@ -334,8 +334,7 @@ TODO
 
 - Running examples:
 	- If you sampled the prevalence of deer at my house at 5 to 6am and 4 to 6pm, you'd get a hugely sample-biased result that over-counts.
-- [ ] If you sampled the prevalence of birds in my wife's bird sanctuary the moment I open the door to take the trash out, you'd hugely under-count, again due to sampling bias.
-- [ ] test git plugin
+	- If you sampled the prevalence of birds in my wife's bird sanctuary the moment I open the door to take the trash out, you'd hugely under-count, again due to sampling bias.
 
 
 
