@@ -9,7 +9,7 @@ This is a public preview of _The Small-Scale Research Guide_. Currently in-progr
 
 <div class="transclusion">
 
-# The Potential Of Small-Scale Research
+# 1: The Potential Of Small-Scale Research
 
 
 @NOTE: Get the examples I have in front of readers early on in the book :)
@@ -139,7 +139,7 @@ But if you do have this hunger, or if doing SSR is part of your job, or if you'r
 
 <div class="transclusion">
 
-# What Is Research Generally, And Business Research Specifically?
+# 2: What Is Research Generally, And Business Research Specifically?
 
 Small-scale research is accelerated, focused learning. 
 
@@ -217,7 +217,7 @@ Research generally" Understand causation
 
 <div class="transclusion">
 
-# Where Does Small-Scale Research Fit INto The Broader Research Landscape?
+# 3: Where Does Small-Scale Research Fit INto The Broader Research Landscape?
 
 Small-Scale Research:
 	Focused on enabling (better) decision making. As you've seen, that incorporates elements of both risk management and innovation research.
@@ -248,7 +248,7 @@ Summary
 
 <div class="transclusion">
 
-# Research Methods And Design
+# 4: Research Methods And Design
 
 ## Design/Meta-Methods
 
@@ -281,7 +281,7 @@ TODO
 
 <div class="transclusion">
 
-# Research Methods Suited To Small-Scale Research
+# 5: Research Methods Suited To Small-Scale Research
 
 
 </div>
@@ -289,7 +289,7 @@ TODO
 
 <div class="transclusion">
 
-# Research Questions Generally
+# 6: Research Questions Generally
 
 
 </div>
@@ -297,7 +297,7 @@ TODO
 
 <div class="transclusion">
 
-# Formulating A Good Small-Scale Research Question
+# 7: Formulating A Good Small-Scale Research Question
 
 
 </div>
@@ -305,7 +305,7 @@ TODO
 
 <div class="transclusion">
 
-# Designing A Small-Scale Research Project
+# 8: Designing A Small-Scale Research Project
 
 
 </div>
@@ -313,7 +313,7 @@ TODO
 
 <div class="transclusion">
 
-# Executing A Small-Scale Research Project
+# 9: Executing A Small-Scale Research Project
 
 
 </div>
@@ -321,7 +321,7 @@ TODO
 
 <div class="transclusion">
 
-# Making Small-Scale Research Findings Useful
+# 10: Making Small-Scale Research Findings Useful
 
 
 </div>
