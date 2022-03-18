@@ -4,6 +4,8 @@
 
 This is a public preview of _The Small-Scale Research Guide_. Currently in-progress.
 
+# The Small-Scale Research Guide
+
 
 <div class="transclusion">
 
