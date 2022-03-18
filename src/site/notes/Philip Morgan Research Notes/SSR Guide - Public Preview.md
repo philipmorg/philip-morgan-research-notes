@@ -16,13 +16,15 @@ This was merely the first example I could find of a particular genre that is wel
 
 ![vivaldi_2J3S0446jt.png](file:///C:%5CUsers%5Cphili%5CDocuments%5CShareX%5CScreenshots%5C2022-03%5Cvivaldi_2J3S0446jt.png)
 
-You see what's going on here, right? The tweeter is mocking those who assertively espouse opinions on Twitter without institutional backing for those opinions.
+You see what's going on here, right? The tweeter is mocking those who confidently espouse opinions on Twitter without institutional backing for those opinions.
 
-It's a simplification of a more complex problem:
+This is a simplification of a more complex problem:
 
 1: Deep genuine experts really don't want their expertise undermined by folks farming likes and shares on social media platforms.
 
 2: It is actually possible to mis-use tools we don't have the proper training to master, and that mis-use can lead to harm.
+
+So @TK:handle of twitter poster is -- in their own cartoonish like-farming way -- acting in defense of the honor and place of real expertise. This is a big part of the cultural backdrop we consider when we think about small-scale research.
 
 If I buy a $5000 vintage Martin guitar to play 3-chord songs on the weekend, nobody's really been harmed by my usage of this tool, it's just that the tool's potential is utterly wasted on my lack of ability to play it well. If my wife complains of abdominal pain and I try to remove her appendix with a $5 X-acto knife, I'm mis-using a tool in a way that almost certainly *will* harm her.
 
@@ -34,19 +36,24 @@ I hope to illuminate a small corner of the much larger world of research: the sm
 
 ## Data Is Powerful
 
-Our culture worships data. And rightly so. Data combined with human ingenuity and sweat is a godlike tool that's pulled us out of a nasty, brutish, and short existence into across-the-board increases in comfort, wealth, health, and potential. But cults form around deities, and so data is more than just a powerful tool.
+Our culture worships data. And rightly so. Data combined with human ingenuity and sweat is a godlike tool that's pulled us out of a nasty, brutish, and short existence into across-the-board increases in comfort, wealth, health, and technological & human potential. But cults form around deities, and so data is more than just a powerful tool.
 
-Data is both a powerful tool and a lullaby we sing to put ourselves to sleep. Data can be a container that we project something of ourselves into -- our fears of living in a complex world we don't entirely control, and our hopes of a better one. Data is a canvas onto which we paint portraits of our dark side *and* our better angels. 
+Data can also be a way to justify taking a quick shortcut from an inner emotional sense to a haughty, external certainty. We can go further and use data as a social cudgel to attack enemies. Or we can assemble enough data to feel that we walk about in priestly vestments, closer to the divine than the unwashed masses.
 
+Data is powerful. But data is not an unalloyed good, nor is it always the best tool to guide decisions. Data can only be as good as those who produce and consume it. But data _can be_ an instrument for improving decision making and wellbeing, and an ability to produce and consume it should be accessible to us, not just large well-funded institutions and companies.  For us to do that, we should start with understanding the broader landscape of research.
 
+## The 5,000-Foot View
 
+We'll roughly divide the world of research into 3 not-equally-sized sectors:
 
+1. Academic/Scientific Research
+2. Small-Scale Research
+3. Business Research
 
+@TODO: illustrative sketch
 
-, and despite this complexity I think we should gain fluency with its use. It can be an instrument for improving decision making and wellbeing, and it should be accessible to us, not just large well-funded institutions and companies.
+Academic/Scientific research is what we are most familiar with. 
 
-	For us to gain some fluency with the creation and usage of data is a good thing.
-	For us to do that, we should understand the broader landscape of research.
 5-second 5,000-foot view
 	Academic/Scientific Research
 	Small-Scale Research
