@@ -130,7 +130,7 @@ The best I've got for an explanation: it's a hunger to understand more deeply. W
 
 I _do_ know that you can stop reading this guide if you're sure you *don't* have this hunger. There are easier, less risky ways to optimize your business to make more money and serve your clients better.
 
-But if you do have this hunger, or if doing SSR is part of your job, or if you're merely curious, then read on. I won't waste your time with anything other than the essential concepts and details you need to understand and execute small-scale research.
+But if you do have this hunger, or if doing SSR is part of your job, or if you're merely curious, then read on. I won't waste your time with anything other than the essential concepts, details, and examples you need to understand and execute small-scale research.
 
 </div>
 
