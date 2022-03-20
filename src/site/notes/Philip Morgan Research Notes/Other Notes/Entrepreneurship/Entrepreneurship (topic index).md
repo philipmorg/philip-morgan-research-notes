@@ -11,20 +11,20 @@ Stuff related to self-employment and entrepreneurship.
 - Mindset and Performance
 
 
-<div class="transclusion">
+<div class="transclusion internal-embed is-loaded">
 
 ---
 
 ### My Email List
 
-80% me thinking out loud about turning ideas into impact and then revenue; 20% shitposting about whatever.
+80% notes and updates on my research into indie consulting and self-made expertise; 20% shitposting about whatever. Join up:
 
 <script async data-uid="7f3b9aa331" src="https://philip-morgan-consulting.ck.page/7f3b9aa331/index.js"></script>
 </div>
 
 
 
-<div class="transclusion">
+<div class="transclusion internal-embed is-loaded">
 
 ---
 
