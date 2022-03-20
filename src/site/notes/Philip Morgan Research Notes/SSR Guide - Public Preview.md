@@ -7,7 +7,7 @@ This is a public preview of _The Small-Scale Research Guide_. Currently in-progr
 # The Small-Scale Research Guide
 
 
-<div class="transclusion">
+<div class="transclusion internal-embed is-loaded">
 
 # 1: The Potential Of Small-Scale Research
 
@@ -70,7 +70,7 @@ After you roughly define your SSR question, you will do a brief literature revie
 
 This is a very good thing. Through the lit review, we'll get a crash course in the relevant prior art. If our SSR question is roughly aimed at understanding the value of branding, we'll find that there have been serious academic inquiries into this question. [@TODO: link to a few scite and others with pre-populated queries for this] Perhaps this will cause us to refine, narrow, adjust, or abandon our SSR project. This is good!
 
-In fact, if _all_ that a SSR project did was motivate a few hours of literature review, most of us would dramatically reduce our ignorance about the prior contributions of academic/scientific research to our area of expertise. This may or may not change how we work with clients, but it can't possibly hurt, and it's much more likely that our expertise will be enriched.
+In fact, if _all_ that a SSR project did was motivate a few hours of literature review, most of us would dramatically reduce our ignorance about the prior contributions of academic/scientific research to our area of expertise. This may or may not change how we work with clients, but it can't possibly hurt, and it's likely that our expertise will be enriched.
 
 ## SSR Forces Us To Seriously Consider Context
 
@@ -84,11 +84,11 @@ Eventually your investigation of the surrounding context needs to resolve into a
 
 Intellectual property (IP) is your expertise packaged and made usable without your direct involvement. For us indie experts, IP is generally not something we invest much effort in protecting in a legal sense or worry about being stolen. Most clients would rather pay us to help apply it, and most competitors are too proud or incompetent to bother with stealing or borrowing it. Sure, there are exceptions, but spending money to protect our IP  would be like buying meteorite strike insurance for a car.
 
-SSR can create or enrich IP. "I want to create IP" is not the best motivation for investing in SSR. "I want to understand X better so I can help my clients make better decisions" is a much better motivation, but the SSR that fulfills your desire to more deeply understand X can end up being ,or contributing to, valuable IP. (If the speculative nature of all of this puts you off, that may be a sign that your business or thinking is not in a place that's compatible with SSR.)
+SSR can create or enrich IP. "I want to create IP" is not the best motivation for investing in SSR. "I want to understand X better so I can help my clients make better decisions" is a much better motivation, but the SSR that fulfills your desire to more deeply understand X can end up being, or contributing to, valuable IP. (If the speculative nature of all of this puts you off, that may be a sign that your business or thinking is not in a place that's compatible with SSR.)
 
 ## SSR Can Contribute To Your Point Of View
 
-Your point of view (POV) is like an "intellectual fingerprint" -- a way you have of seeing things that is *distinctive* in the market. Every person has a fingerprint, and every person has a point of view. But clients do not find every POV interesting or relevant. Points of view with _content_ that clients find challenging, intriguing, suggestive of a better path forward, or useful are the ones that are most interesting or relevant to them.
+Your point of view (POV) is like an "intellectual fingerprint" -- a way you have of seeing things that is *distinctive* in the market. Every person has a fingerprint, and every person has a point of view. But clients do not find every POV interesting or relevant. Points of view with _content_ that clients find useful, challenging, intriguing, or suggestive of a better path forward are the ones that are most interesting or relevant to them.
 
 Your way of seeing the world is informed by _where you stand_. Do you stand firmly rooted in your own belief or experience, or do you stand more rooted in what _data_ tells you? The content of your point of view will be influenced by the context of where you stand.
 
@@ -98,13 +98,13 @@ SSR can enrich your POV with unique data that you have assembled and interpreted
 
 ## Ultimately SSR Helps Our Clients Make Better Decisions
 
-This is really the bottom line here. It's the ultimate reason to invest in SSR. Well-designed SSR can help our clients make better decisions, which -- bit, by bit -- enhances the health of the market we serve, which creates more and better opportunity for us. If you're seeing something like a spirit of service being the most powerful motivator for SSR, then you're seeing this thing clearly.
+This is really the bottom line here. It's the ultimate reason to invest in SSR. Well-designed SSR can help our clients make better decisions, which -- bit by bit -- enhances the health of the market we serve, which creates more and better opportunity for us. If you're seeing something like a spirit of service being the most powerful motivator for SSR, then you're seeing this thing clearly.
 
 ## SSR Calls For Strength And Humility
 
 Data is powerful. It is also a story we tell ourselves about why we decided a certain way.
 
-This is an argument both for getting more fluent at creating and using data, and an argument for humility around the whole idea of data's value. Some suggested reading for you.
+This is an argument both for getting more fluent at creating and using data, and an argument for humility around the whole idea of data's value. Some suggested reading for you:
 
 "Alchemy" by Rory Sutherland is a fun, worthwhile read here. "How to Measure Anything" by Douglas Hubbard is a much less fun, but equally worthwhile counterbalancing read.
 
@@ -116,7 +116,7 @@ Let me be clear: well-executed small-scale research is very rare. There are good
 
 **We mis-aprehend research generally**, and business research specifically. We hear the word "research" and tend to assume that means expensive, complex, technical, inaccessible stuff. Most of us don't know about this little niche of accessible, useful methods that untrained but motivated people like us can use to create unique value, and so we hear the word "research" and mentally expand that to "not for me".
 
-**We lack formal training in SSR methods**. In college, I did one small-scale research project involving surveys and SPSS as part of a senior Political Science thesis project. That was the extent of my schooling's contribution to my understanding of SSR. Maaaybe if we have done UX or product validation work we've had some exposure to SSR-friendly research methods, but the majority of us lack even semi-formal training in SSR methods. I hope this guide helps, but this lack of training certainly explains part of why SSR is rare.
+**We lack formal training in SSR methods**. In college, I did one small-scale research project involving surveys and SPSS as part of a senior Political Science thesis project. That was the extent of my schooling's contribution to my understanding of SSR. Maaaybe if we have done UX or product validation work we've had some exposure to SSR-friendly research methods, but the majority of us lack even semi-formal training in SSR methods. I hope this guide helps, but this lack of training partially explains why SSR is rare.
 
 **We are intimidated by the idea of research**. The like-farming tweeter I referenced at the start of this chapter lives in our head, or at least the social threat they represent lives in our mind as a fear of "getting in over our heads". And so many of us are intimidated by the idea of SSR, because we fixate on the _research_ part (and our associated fears) and undervalue how the _small-scale_ part can make SSR usable and valuable for us.
 
@@ -124,20 +124,20 @@ Let me be clear: well-executed small-scale research is very rare. There are good
 
 **We practice an unlicensed profession**, and so there's little incentive for us to raise our game beyond what improvisation, gut feel, past experience, "best practices", and a dash of confidence can achieve. Said more cynically, our clients are surprisingly tolerant of really mediocre consulting services, which reduces the incentive for us to level up the quality of our advice using data. Said more positively, often the status quo at a client is so bad that improvisation, gut feel, past experience, "best practices", and a dash of confidence can create a miraculous amount of relative improvement!
 
-All together, these factors cause us to under-utilize research. Again, many of these are good reasons to _not_ invest in SSR. Doing competent but -- let's be honest -- *utterly ordinary work* can be monetized in totally adequate ways. Building a small team, leveraging a bit of luck, and avoiding making any terrible decisions for 10 or 20 years can buy you two really nice houses, a few college educations for kids, a funded retirement account, and quite a few nice vacations a year and meals in restaurants a week. All without touching SSR with a ten foot pole. Not bad!
+All together, these factors cause us to under-utilize research. Again, many of these are good reasons to _not_ invest in SSR. Doing competent but -- let's be honest -- *utterly ordinary work* can be monetized in totally adequate ways. Building a small team, leveraging a bit of luck, and avoiding making any terrible decisions for 10 or 20 years can buy you two really nice houses, a few college educations for kids, a funded retirement account, and quite a few nice vacations and meals in restaurants. All without touching SSR with a ten foot pole. Not bad!
 
-So after accounting for all the reasons to invest in SSR and considering all the reasons we don't, I think your decision will come down to _dissatisfaction_. The folks who are willing to invest in SSR tend to be dissatisfied with the status quo. They have a hunger to advance the state of the art. A hunger that, frankly, I have been unable to fully explain. I have this hunger. Some folks I know who "should" be earning more money have this hunger and invest in SSR anyway, despite the "illogical" nature of the investment. And others who are earning way more money than they need to live well and can't explain how exactly the SSR will contribute revenue have the hunger.
+So after accounting for all the reasons to invest in SSR and considering all the reasons we don't, I think your decision will come down to _dissatisfaction_. The folks who are willing to invest in SSR tend to be dissatisfied with the status quo. They have a hunger to advance the state of the art. A hunger that, frankly, I have been unable to fully explain. I have this hunger. Some folks I know who "should" be earning more money have this hunger and invest in SSR anyway, despite the "illogical" nature of the investment. And I know others who are earning way more money than they need to live well, can't explain how exactly the SSR will contribute more revenue, and also have this hunger.
 
 The best I've got for an explanation: it's a hunger to understand more deeply. We just _have_ to gain this deeper understanding. Maybe this is driven by even deeper, more primal motivations for status, power, etc. I don't really know.
 
 I _do_ know that you can stop reading this guide if you're sure you *don't* have this hunger. There are easier, less risky ways to optimize your business to make more money and serve your clients better.
 
-But if you do have this hunger, or if doing SSR is part of your job, or if you're merely curious, then read on. I won't waste your time with anything other than the essential concepts, details, and examples you need to understand and execute small-scale research.
+But if you *do* have this hunger, or if doing SSR is part of your job, or if you're merely curious, then read on. I won't waste your time with anything other than the essential concepts, details, and examples you need to understand and execute small-scale research.
 
 </div>
 
 
-<div class="transclusion">
+<div class="transclusion internal-embed is-loaded">
 
 # 2: What Is Research Generally, And Business Research Specifically?
 
@@ -148,9 +148,9 @@ Research in general is an attempt to understand causation.
 
 
 
-Research generally" Understand causation
+Research generally: Understand causation
 	Business context:
-		Risk management:
+		Style 1: Risk management:
 			Outcomes: Reducing uncertainty/establishing probabilities
 				You could think of this as simply: measuring something that's under-measured.
 			Examples
@@ -176,7 +176,7 @@ Research generally" Understand causation
 			Useful reading
 				Douglas Hubbard, “How to Measure Anything”.
 				Sam Savage, “The Flaw of Averages".
-		Innovation:
+		Style 2: Innovation:
 			Outcome: Generating new options/narrative richness
 				Based on the *belief* that empathy precedes innovation.
 				Elizabeth Gilbert story about Tom Waits.
@@ -195,7 +195,7 @@ Research generally" Understand causation
 			Useful reading
 				Alan Klement, “When Kale and Coffee Compete".
 				Indi Young's work.
-		Better decision making:
+		Style 3: Support better decision making:
 			This is distinct from the risk management approach because you're (largely) an outsider
 				The risk management approach presumes a certain level of insider access you may not have, and a certain level of familiarity with the system you may not have.
 			Mixed methods:
@@ -209,15 +209,19 @@ Research generally" Understand causation
 				But, because you lack the benefits (and drawbacks!) of being an insider, the research approach might look more like an inductive/qual/exploratory approach (but not always!)
 			Useful reading
 				Sam Ladner, “Mixed Methods".
+		Style 4: Social signaling
+			You'll come to understand this more when we look at biases, because many of these "social signaling" research studies are flawed by biases, in addition to being nearly-useless as a decision-support tool.
 	Academic/Scientific context:
-		Not relevant to us here except where it spins off commoditized and-also-usable-by-us best practices, or methodology approaches we can adapt.
+		Not relevant to us here except where it spins off commoditized and-also-usable-by-us best practices, or methodology approaches we can adapt. But, just to describe it a bit:
+			Large sample size and/or statistical controls
+			
 
 </div>
 
 
-<div class="transclusion">
+<div class="transclusion internal-embed is-loaded">
 
-# 3: Where Does Small-Scale Research Fit INto The Broader Research Landscape?
+# 3: Where Does Small-Scale Research Fit Into The Broader Research Landscape?
 
 Small-Scale Research:
 	Focused on enabling (better) decision making. As you've seen, that incorporates elements of both risk management and innovation research.
@@ -246,7 +250,7 @@ Summary
 </div>
 
 
-<div class="transclusion">
+<div class="transclusion internal-embed is-loaded">
 
 # 4: Research Methods And Design
 
@@ -279,7 +283,7 @@ TODO
 </div>
 
 
-<div class="transclusion">
+<div class="transclusion internal-embed is-loaded">
 
 # 5: Research Methods Suited To Small-Scale Research
 
@@ -287,7 +291,7 @@ TODO
 </div>
 
 
-<div class="transclusion">
+<div class="transclusion internal-embed is-loaded">
 
 # 6: Research Questions Generally
 
@@ -295,7 +299,7 @@ TODO
 </div>
 
 
-<div class="transclusion">
+<div class="transclusion internal-embed is-loaded">
 
 # 7: Formulating A Good Small-Scale Research Question
 
@@ -303,7 +307,7 @@ TODO
 </div>
 
 
-<div class="transclusion">
+<div class="transclusion internal-embed is-loaded">
 
 # 8: Designing A Small-Scale Research Project
 
@@ -311,7 +315,7 @@ TODO
 </div>
 
 
-<div class="transclusion">
+<div class="transclusion internal-embed is-loaded">
 
 # 9: Executing A Small-Scale Research Project
 
@@ -319,7 +323,7 @@ TODO
 </div>
 
 
-<div class="transclusion">
+<div class="transclusion internal-embed is-loaded">
 
 # 10: Making Small-Scale Research Findings Useful
 
@@ -340,20 +344,20 @@ TODO
 
 
 
-<div class="transclusion">
+<div class="transclusion internal-embed is-loaded">
 
 ---
 
 ### My Email List
 
-80% me thinking out loud about turning ideas into impact and then revenue; 20% shitposting about whatever.
+80% notes and updates on my research into indie consulting and self-made expertise; 20% shitposting about whatever. Join up:
 
 <script async data-uid="7f3b9aa331" src="https://philip-morgan-consulting.ck.page/7f3b9aa331/index.js"></script>
 </div>
 
 
 
-<div class="transclusion">
+<div class="transclusion internal-embed is-loaded">
 
 ---
 
