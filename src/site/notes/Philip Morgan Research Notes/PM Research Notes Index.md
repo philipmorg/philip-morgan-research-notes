@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-permalink":"home","permalink":"/home/","tags":"gardenEntry"}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","tags":"gardenEntry"}
 ---
 
 This is my (Philip Morgan's) research, meant to benefit entrepreneurial independent experts. Evolving and public.
@@ -39,13 +39,13 @@ I am convinced that sharing my research, even in this in-progress form, can be u
 - <https://notes.serverlessfirst.com/public/Welcome+to+my+public+notes>
 
 
-<div class="transclusion">
+<div class="transclusion internal-embed is-loaded">
 
 ---
 
 ### My Email List
 
-80% me thinking out loud about turning ideas into impact and then revenue; 20% shitposting about whatever.
+80% notes and updates on my research into indie consulting and self-made expertise; 20% shitposting about whatever. Join up:
 
 <script async data-uid="7f3b9aa331" src="https://philip-morgan-consulting.ck.page/7f3b9aa331/index.js"></script>
 </div>
