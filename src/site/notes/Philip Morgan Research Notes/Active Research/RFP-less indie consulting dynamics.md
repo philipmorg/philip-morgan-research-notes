@@ -11,7 +11,7 @@ I think those of us in the marketing advice game deal with some challenging bias
 - If we look at firm *financial performance and model what the winners in that race* do, we may model correctly for a certain context but incorrectly for a different context, or we may miss factors that are ultimately more influential than how those firms approach marketing.
 	- If we use the *same sampling method and gather memory-based data* from the winners, we may get Halo Effect-skewed data, though this is a minor risk given that many marketing activities have track-able results and somewhat more objectively-measurable inputs.
 
-I believe that researching the buying side of a consulting transaction may provide more useful data. This is somewhat in the spirit of *[[Philip Morgan Research Notes/Active Research/Marketing/Marketing For Non-Commodities/How Clients Buy - A Practical Guide to Business Development for Consulting and Professional Services|How Clients Buy - A Practical Guide to Business Development for Consulting and Professional Services]]*
+I believe that researching the buying side of a consulting transaction may provide more useful data and insight. This is somewhat in the spirit of *[[Philip Morgan Research Notes/Active Research/Marketing/Marketing For Non-Commodities/How Clients Buy - A Practical Guide to Business Development for Consulting and Professional Services|How Clients Buy - A Practical Guide to Business Development for Consulting and Professional Services]]*
 
 ## Intent
 
@@ -68,7 +68,7 @@ A3: No
 
 ### My Email List
 
-80% notes and updates on my research into indie consulting and thought leadership; 20% shitposting about whatever. I share both process and results. Join up:
+80% notes and updates on my research into indie consulting and thought leadership; 20% shitposting about whatever. I share both process and results. I publish up to several times/week. Join up:
 
 <script async data-uid="7f3b9aa331" src="https://philip-morgan-consulting.ck.page/7f3b9aa331/index.js"></script>
 </div>
