@@ -179,7 +179,7 @@ I welcome discussion with you about the conclusions you might draw from this dat
 
 ### My Email List
 
-80% notes and updates on my research into indie consulting and thought leadership; 20% shitposting about whatever. I share both process and results. Join up:
+80% notes and updates on my research into indie consulting and thought leadership; 20% shitposting about whatever. I share both process and results. I publish up to several times/week. Join up:
 
 <script async data-uid="7f3b9aa331" src="https://philip-morgan-consulting.ck.page/7f3b9aa331/index.js"></script>
 </div>
