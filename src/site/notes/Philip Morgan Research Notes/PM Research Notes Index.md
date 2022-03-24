@@ -25,6 +25,7 @@ This is my (Philip Morgan's) research, meant to benefit entrepreneurial independ
 
 - [[Philip Morgan Research Notes/Other Notes/Entrepreneurship/Entrepreneurship (topic index)|Entrepreneurship (topic index)]]
 - [[Philip Morgan Research Notes/Other Notes/Purely Tactical Stuff/Purely Tactical Stuff (topic index)|Purely Tactical Stuff (topic index)]]
+- [[Philip Morgan Research Notes/What Is Thought Leadership|What Is Thought Leadership?]]
 
 ## Work-In-Progress Previews
 
