@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/rfp-less-indie-consulting-dynamics/"}
 ---
 
+# How do those who have spent more than $20,000 on a consulting project that did not involve an RFP find the consultant they hired?
+
 ## Background
 
 I think those of us in the marketing advice game deal with some challenging biases:
@@ -26,8 +28,13 @@ Use a grounded theory method. Interview 30 people who made the decision to buy >
 Thinking through the recruitment:
 
  
-<div class="transclusion internal-embed is-loaded">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
+<div class="markdown-embed-title">
+
+
+
+</div>
 ## LinkedIn in-connection message survey
 
 Potential questions:
@@ -43,7 +50,7 @@ Potential questions:
 	- Why did you choose the consultant you did for this project?
 - Anything else you'd like to add about this?
 - Your name & email address
-</div>
+</div></div>
 
 
 
@@ -62,8 +69,13 @@ A3: No
 
 
 
-<div class="transclusion internal-embed is-loaded">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
+<div class="markdown-embed-title">
+
+
+
+</div>
 ---
 
 ### My Email List
@@ -71,12 +83,17 @@ A3: No
 80% notes and updates on my research into indie consulting and thought leadership; 20% shitposting about whatever. I share both process and results. I publish up to several times/week. Join up:
 
 <script async data-uid="7f3b9aa331" src="https://philip-morgan-consulting.ck.page/7f3b9aa331/index.js"></script>
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
 </div>
-
-
-
-<div class="transclusion internal-embed is-loaded">
-
 ---
 
 ### Comments
@@ -93,6 +110,6 @@ A3: No
 </script>
 
 &nbsp;
-</div>
+</div></div>
 
 
