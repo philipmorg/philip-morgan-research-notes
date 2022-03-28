@@ -7,7 +7,7 @@ This is my (Philip Morgan's) research, meant to benefit entrepreneurial independ
 ## Questions I'm Actively Researching
 
 1. [[Philip Morgan Research Notes/Active Research/Marketing/For the indie expert what is marketing|For the indie expert, what is marketing?]]
-2. [[Philip Morgan Research Notes/Active Research/RFP-less indie consulting dynamics|How do those who have spent more than $20000 on a consulting project that did not involve an RFP find the consultant they hired?]]
+2. [[Philip Morgan Research Notes/Active Research/RFP-less indie consulting dynamics|How do those who have spent more than $20,000 on a consulting project that did not involve an RFP find the consultant they hired?]]
 
 ## Future Research Questions
 
@@ -40,8 +40,13 @@ I am convinced that sharing my research, even in this in-progress form, can be u
 - <https://notes.serverlessfirst.com/public/Welcome+to+my+public+notes>
 
 
-<div class="transclusion internal-embed is-loaded">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
+<div class="markdown-embed-title">
+
+
+
+</div>
 ---
 
 ### My Email List
@@ -49,7 +54,7 @@ I am convinced that sharing my research, even in this in-progress form, can be u
 80% notes and updates on my research into indie consulting and thought leadership; 20% shitposting about whatever. I share both process and results. I publish up to several times/week. Join up:
 
 <script async data-uid="7f3b9aa331" src="https://philip-morgan-consulting.ck.page/7f3b9aa331/index.js"></script>
-</div>
+</div></div>
 
 
 &nbsp;
