@@ -173,8 +173,13 @@ You can inspect and use for your own purposes the anonymized survey responses ge
 I welcome discussion with you about the conclusions you might draw from this data, especially if they differ from mine.
 
 
-<div class="transclusion internal-embed is-loaded">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
+<div class="markdown-embed-title">
+
+
+
+</div>
 ---
 
 ### My Email List
@@ -182,12 +187,17 @@ I welcome discussion with you about the conclusions you might draw from this dat
 80% notes and updates on my research into indie consulting and thought leadership; 20% shitposting about whatever. I share both process and results. I publish up to several times/week. Join up:
 
 <script async data-uid="7f3b9aa331" src="https://philip-morgan-consulting.ck.page/7f3b9aa331/index.js"></script>
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
 </div>
-
-
-
-<div class="transclusion internal-embed is-loaded">
-
 ---
 
 ### Comments
@@ -204,5 +214,5 @@ I welcome discussion with you about the conclusions you might draw from this dat
 </script>
 
 &nbsp;
-</div>
+</div></div>
 
