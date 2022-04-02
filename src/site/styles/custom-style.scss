@@ -128,7 +128,7 @@ body {
 
 @media only screen and (max-width: 30em) {
   .content {
-    font-size: 0.9em;
+    font-size: 1.1em;
     font-weight:300;
   }
   .content p {
@@ -138,6 +138,15 @@ body {
   .content h1, h2, h3, h4, h5, h6 {
     line-height:1;
   }
+  
+  .content h1 {
+    1.8em;
+  }
+  
+  .content h2 {
+    1.5em;
+  }
+  
   .content li {
     line-height: 1;
   }
