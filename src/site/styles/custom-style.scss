@@ -20,7 +20,7 @@ body {
     color: #15141a;
   }
   
-  .content .transclusion {
+  .content .markdown-embed {
     padding-left: 8px;
     padding-right: 8px;
   }
@@ -133,8 +133,8 @@ body {
 
 @media only screen and (max-width: 30em) {
   .markdown-preview-view {
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 14px;
+    padding-right: 18px;
   }
   
   .content {
