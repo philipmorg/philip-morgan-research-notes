@@ -1,6 +1,7 @@
 ---
 {"dg-publish":true,"dg-permalink":"home","permalink":"/home/","tags":"gardenEntry"}
 ---
+bump
 
 This is my (Philip Morgan's) research, meant to benefit entrepreneurial independent experts. Evolving and public.
 
