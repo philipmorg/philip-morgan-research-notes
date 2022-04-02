@@ -25,10 +25,6 @@ body {
     padding-right: 8px;
   }
   
-  .content h1, h2, h3, h4, h5, h6 {
-    line-height: 1;
-  }
-  
   /* Copy & Lists */
   p {
     line-height: 1.5rem;
@@ -132,6 +128,10 @@ body {
   img {
       max-width: 100%;
   }
+}
+
+.content h1, h2, h3, h4, h5, h6 {
+  line-height: 1;
 }
 
 
