@@ -131,10 +131,10 @@ body {
     font-size: 1.15em;
     font-weight:300;
   }
-  body p {
+  body .content p {
     line-height: 1.1em;
   }
-  ul li,
+  body .content ul li,
   ol li {
     line-height: 1.1em;
     margin-bottom: 18px;
