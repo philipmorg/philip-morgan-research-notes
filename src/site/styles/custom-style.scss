@@ -25,6 +25,10 @@ body {
     padding-right: 8px;
   }
   
+  .content h1, h2, h3, h4, h5, h6 {
+    line-height: 1;
+  }
+  
   /* Copy & Lists */
   p {
     line-height: 1.5rem;
@@ -72,7 +76,7 @@ body {
     font-family: sans-serif;
     margin-top: 1.5rem;
     margin-bottom: 0;
-    line-height: 1.5rem;
+    line-height: 1;
     color: #15141a;
   }
   h1 {
