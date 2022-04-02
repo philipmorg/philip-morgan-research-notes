@@ -134,6 +134,10 @@ body {
   line-height: 0.9 !important;
 }
 
+.markdown-preview-view h1, h2, h3 {
+  margin-top:2em;
+}
+
 
 @media only screen and (max-width: 30em) {
   .markdown-preview-view {
