@@ -140,18 +140,19 @@ body {
   }
   
   .content h1 {
-    1.8em;
+    font-size: 1.8em;
   }
   
   .content h2 {
-    1.5em;
+    font-size: 1.5em;
   }
   
   .content li {
-    line-height: 1;
+    line-height: 1.1;
+    margin-bottom: 8px;
   }
   
   .content ul, ol {
-        margin-bottom: 18px;
+    margin-bottom: 18px;
   }
 }
