@@ -127,6 +127,11 @@ body {
 
 
 @media only screen and (max-width: 30em) {
+  body{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  
   .content {
     font-size: 1em;
     font-weight:300;
