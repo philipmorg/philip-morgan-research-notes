@@ -35,6 +35,7 @@ Thinking through the recruitment:
 
 
 </div>
+
 ## LinkedIn in-connection message survey
 
 Potential questions:
@@ -50,6 +51,7 @@ Potential questions:
 	- Why did you choose the consultant you did for this project?
 - Anything else you'd like to add about this?
 - Your name & email address
+
 </div></div>
 
 
@@ -77,11 +79,13 @@ A3: No
 
 </div>
 
+
 ### My Email List
 
 80% notes and updates on my research into indie consulting and thought leadership; 20% shitposting about whatever. I share both process and results. I publish up to several times/week. Join up:
 
 <script async data-uid="7f3b9aa331" src="https://philip-morgan-consulting.ck.page/7f3b9aa331/index.js"></script>
+
 </div></div>
 
 
@@ -93,6 +97,7 @@ A3: No
 
 
 </div>
+
 
 ### Comments
 
@@ -108,6 +113,7 @@ A3: No
 </script>
 
 &nbsp;
+
 </div></div>
 
 
