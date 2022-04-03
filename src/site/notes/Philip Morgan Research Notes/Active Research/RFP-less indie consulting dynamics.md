@@ -79,7 +79,6 @@ A3: No
 
 </div>
 
-
 ### My Email List
 
 80% notes and updates on my research into indie consulting and thought leadership; 20% shitposting about whatever. I share both process and results. I publish up to several times/week. Join up:
@@ -97,7 +96,6 @@ A3: No
 
 
 </div>
-
 
 ### Comments
 
