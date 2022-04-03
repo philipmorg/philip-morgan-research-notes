@@ -14,6 +14,7 @@ This is a public preview of _The Small-Scale Research Guide_. Currently in-progr
 
 
 </div>
+
 # 1: The Potential Of Small-Scale Research
 
 
@@ -139,6 +140,7 @@ I _do_ know that you can stop reading this guide if you're sure you *don't* have
 
 But if you *do* have this hunger, or if doing SSR is part of your job, or if you're merely curious, then read on. I won't waste your time with anything other than the essential concepts, details, and examples you need to understand and execute small-scale research.
 
+
 </div></div>
 
 
@@ -149,6 +151,7 @@ But if you *do* have this hunger, or if doing SSR is part of your job, or if you
 
 
 </div>
+
 # 2: What Is Research Generally, And Business Research Specifically?
 
 Small-scale research is accelerated, focused learning. 
@@ -226,6 +229,7 @@ Research generally: Understand causation
 			Large sample size and/or statistical controls
 			
 
+
 </div></div>
 
 
@@ -236,6 +240,7 @@ Research generally: Understand causation
 
 
 </div>
+
 # 3: Where Does Small-Scale Research Fit Into The Broader Research Landscape?
 
 Small-Scale Research:
@@ -262,6 +267,7 @@ Summary
 	We are, coming from a spirit of service, trying to help our clients make better decisions.
 
 
+
 </div></div>
 
 
@@ -272,6 +278,7 @@ Summary
 
 
 </div>
+
 # 4: Research Methods And Design
 
 ## Design/Meta-Methods
@@ -300,6 +307,7 @@ Summary
 TODO
 
 - [ ] Skip through my collection of research papers, make sure I haven't missed any high-level category of meta-method
+
 </div></div>
 
 
@@ -310,9 +318,11 @@ TODO
 
 
 </div>
+
 # 5: Research Methods Suited To Small-Scale Research
 
 
+
 </div></div>
 
 
@@ -323,9 +333,11 @@ TODO
 
 
 </div>
+
 # 6: Research Questions Generally
 
 
+
 </div></div>
 
 
@@ -336,9 +348,11 @@ TODO
 
 
 </div>
+
 # 7: Formulating A Good Small-Scale Research Question
 
 
+
 </div></div>
 
 
@@ -349,9 +363,11 @@ TODO
 
 
 </div>
+
 # 8: Designing A Small-Scale Research Project
 
 
+
 </div></div>
 
 
@@ -362,9 +378,11 @@ TODO
 
 
 </div>
+
 # 9: Executing A Small-Scale Research Project
 
 
+
 </div></div>
 
 
@@ -375,7 +393,9 @@ TODO
 
 
 </div>
+
 # 10: Making Small-Scale Research Findings Useful
+
 
 
 </div></div>
@@ -402,11 +422,13 @@ TODO
 
 </div>
 
+
 ### My Email List
 
 80% notes and updates on my research into indie consulting and thought leadership; 20% shitposting about whatever. I share both process and results. I publish up to several times/week. Join up:
 
 <script async data-uid="7f3b9aa331" src="https://philip-morgan-consulting.ck.page/7f3b9aa331/index.js"></script>
+
 </div></div>
 
 
@@ -418,6 +440,7 @@ TODO
 
 
 </div>
+
 
 ### Comments
 
@@ -433,4 +456,5 @@ TODO
 </script>
 
 &nbsp;
+
 </div></div>
