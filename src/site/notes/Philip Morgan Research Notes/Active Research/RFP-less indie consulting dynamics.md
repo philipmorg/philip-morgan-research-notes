@@ -99,7 +99,7 @@ A3: No
 
 ## TODO
 
-- [x] #0-task Get list feedback on survey ✅ 2022-04-10
+- [x] #0-task Invite list feedback on survey ✅ 2022-04-10
 - [ ] #0-task Revise survey based on feedback
 - [ ] #0-task Set up LinkedIn survey recruitment
 
