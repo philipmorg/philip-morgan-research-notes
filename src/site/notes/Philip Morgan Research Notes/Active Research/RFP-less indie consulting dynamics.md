@@ -86,7 +86,7 @@ Would you use that consultant again and/or recommend them to a friend/colleague?
 
 
 
-## LinkedIn 1-question recruiting survey
+## LinkedIn 1-question recruiting poll
 
 
 Q: Have you ever hired an independent consultant for a project larger than $20K without using a RFP?
