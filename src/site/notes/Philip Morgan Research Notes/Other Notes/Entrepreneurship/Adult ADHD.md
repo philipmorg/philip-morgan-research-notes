@@ -26,6 +26,7 @@ I probably do not have clinical-level ADHD. But when I talk to folks with diagno
 	- [https://gomakethings.com/being-a-developer-with-adhd/](https://gomakethings.com/being-a-developer-with-adhd/)
 
 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
