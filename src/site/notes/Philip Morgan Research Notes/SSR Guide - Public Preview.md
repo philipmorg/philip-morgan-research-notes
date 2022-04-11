@@ -396,7 +396,25 @@ TODO
 
 # 10: Making Small-Scale Research Findings Useful
 
+Delightful: [https://numinous.productions/ttft/](https://numinous.productions/ttft/)
 
+Passages like this show a) enthusiasm for the research -- both the question and the in-progress answer, b) humility about the methods and their efficacy, and c) belief in the value of the work, constraints and all:
+
+> These are preliminary results, and need more investigation. One naturally wonders what would happen if we’d been much more aggressive with the review schedule, setting the initial interval between reviews to (say) 2 months? If users reliably retained information up to that point, then the graph would start very high, and we wouldn’t see the exponential. We need to investigate these and many similar questions to better understand what’s going on with user’s memories.
+> 
+> Early feedback from users makes us cautiously optimistic that they’re finding the mnemonic medium useful. In May 2019, one of us posted to Twitter a short thread explaining the technical details of how quantum teleportation works. One user of Quantum Country replied to the thread with:
+
+I'll skip over quoting the tweets the article quotes (you should read the article though; it's quite good!) and move on to this next quote showing both humility and conviction:
+
+> We don’t yet have a good model of exactly what those people are learning, but it seems plausible they are taking away considerably more than from a conventional essay, or perhaps even from a conventional class.
+> 
+> Of course, this kind of feedback and these kinds of results should be taken with a grain of salt. The mnemonic medium is in its early days, has many deficiencies, and needs improvement in many ways (of which more soon). It is, however, encouraging to hear that some users already find the medium exceptionally helpful, and suggests developing and testing the medium further. At a minimum, it seems likely the mnemonic medium is genuinely helping people remember. And furthermore it has the exponentially increasing efficiency described above: the more people study, the more benefit they get per minute studied.
+
+And then a bit further down, there's this meta-reflection:
+
+> Before we delve deeper into the mnemonic medium, let’s mention one challenge in the discussion: the inherent difficulty in achieving a good balance between conveying enthusiasm and the kind of arm’s-length skepticism appropriate for evaluation. On the one hand, we would not have built the mnemonic medium if we weren’t excited about the underlying ideas, and wanted to develop those enthusiasms. To explain the mnemonic medium well, we need to bring you, the reader, inside that thinking. But having done that, we also need to step back and think more skeptically about questions such as: is this medium really working? What effect is it actually having on people? Can it be made 10x better? 100x better? Or, contrariwise, are there blockers that make this an irredeemably bad or at best mediocre idea? How important a role does memory play in cognition, anyway? So far, we’ve focused on the enthusiastic case for the medium, why one might consider this design at all. But later in this essay we’ll gradually step back and reflect in a more skeptical frame.
+
+This is a beautiful example of how you can write about the findings of small scale research in a way that accentuates the value *and* acknowledges whatever limitations are present. You can do both, and it does not reduce the worth of the work.
 
 </div></div>
 
