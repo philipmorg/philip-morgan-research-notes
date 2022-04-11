@@ -414,7 +414,7 @@ And then a bit further down, there's this meta-reflection:
 
 > Before we delve deeper into the mnemonic medium, let’s mention one challenge in the discussion: the inherent difficulty in achieving a good balance between conveying enthusiasm and the kind of arm’s-length skepticism appropriate for evaluation. On the one hand, we would not have built the mnemonic medium if we weren’t excited about the underlying ideas, and wanted to develop those enthusiasms. To explain the mnemonic medium well, we need to bring you, the reader, inside that thinking. But having done that, we also need to step back and think more skeptically about questions such as: is this medium really working? What effect is it actually having on people? Can it be made 10x better? 100x better? Or, contrariwise, are there blockers that make this an irredeemably bad or at best mediocre idea? How important a role does memory play in cognition, anyway? So far, we’ve focused on the enthusiastic case for the medium, why one might consider this design at all. But later in this essay we’ll gradually step back and reflect in a more skeptical frame.
 
-This is a beautiful example of how you can write about the findings of small scale research in a way that accentuates the value *and* acknowledges whatever limitations are present. You can do both, and it does not reduce the worth of the work.
+This is a beautiful example of how you can write about the findings of small scale research in a way that accentuates the value *and* acknowledges whatever limitations are present. You can do *both*, and it does not reduce the value or importance of the work.
 
 </div></div>
 
