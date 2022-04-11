@@ -416,6 +416,8 @@ And then a bit further down, there's this meta-reflection:
 
 This is a beautiful example of how you can write about the findings of small scale research in a way that accentuates the value *and* acknowledges whatever limitations are present. You can do *both*, and it does not reduce the value or importance of the work.
 
+This nuanced and honest approach to presenting findings will be unappealing to those who are unmotivated to gain a nuanced and honest understanding of the answers you are pursuing. That may end up being a lot of people! But this niche appeal is baked into the whole idea of small-scale research, and so it shouldn't come as a surprise that our approach to presenting findings is consistent with the whole project's honest and nuanced approach to seeking answers.
+
 </div></div>
 
 
