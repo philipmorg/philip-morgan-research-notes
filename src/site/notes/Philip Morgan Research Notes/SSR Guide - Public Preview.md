@@ -396,7 +396,7 @@ TODO
 
 # 10: Making Small-Scale Research Findings Useful
 
-This is a delightful writeup of some small-scale research that I'm going to pull some examples from here: [https://numinous.productions/ttft/](https://numinous.productions/ttft/)
+Here is a delightful writeup of some small-scale research that I'm going to pull some quotes from here: [https://numinous.productions/ttft/](https://numinous.productions/ttft/)
 
 Passages like this show a) enthusiasm for the research -- both the question and the in-progress answer, b) humility about the methods and their efficacy, and c) belief in the value of the work, constraints and all:
 
