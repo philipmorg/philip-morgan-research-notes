@@ -294,6 +294,7 @@ Summary
 - **3: Toy version of more complex system: does input X produce/fail to produce output/effect Y?**
 	- ex: if this professor who is from Europe behaves in a warm way with one group of students and a cold way with others, will there be a halo effect?
 	- ex: if we put this experimental drug into some tissue in a petri dish, will X happen?
+	- ex: If we build this software tool that uses a certain approach to helping users memorize difficult subjects, what will happen?
 	- 
 - **4: Structured observation that seeks to comprehend and make sense of the behavior, nuance, context, and variation within a phenomenon, system, or form of thinking.**
 - Overall:
@@ -307,6 +308,13 @@ Summary
 TODO
 
 - [ ] Skip through my collection of research papers, make sure I haven't missed any high-level category of meta-method
+
+"Toy"
+
+- when I was a child: plastic toy locomotive and can of sterno  
+- As an adult: better but not perfect RE: correlation/causation  
+- But the idea that we can create “toys” for experimentation has stuck with me  
+- Toy is not a dismissive term. Just means: cheap, simplified, but usable. Also... you can _play_ with it! Meaning, try lots of things in a low-stakes way to observe what happens and, sometimes, *be surprised* by what happens.
 
 </div></div>
 
@@ -416,7 +424,7 @@ And then a bit further down, there's this meta-reflection:
 
 This is a beautiful example of how you can write about the findings of small scale research in a way that accentuates the value *and* acknowledges whatever limitations are present. You can do *both*, and it does not reduce the value or importance of the work.
 
-This nuanced and honest approach to presenting findings will be unappealing to those who are unmotivated to gain a nuanced and honest understanding of the answers you are pursuing. Those who are seeking a simple headline won't be satisfied. That may end up being a lot of people! But this niche appeal is baked into the whole idea of small-scale research, and so it shouldn't come as a surprise that our approach to presenting findings is consistent with the whole project's honest and nuanced approach to seeking answers. Those who are seeking the value that context and nuance can add to their decision-making will find your writeup, or the versions of it that you weave into conversation with them, uniquely valuable.
+This nuanced and honest approach to presenting findings will be unappealing to those in the audience who are unmotivated to gain a nuanced and honest understanding of the answers you are pursuing. Those who are seeking a simple headline won't be satisfied. That may end up being a lot of people! But niche appeal is baked into the whole idea of small-scale research, and so it shouldn't come as a surprise that our approach to presenting findings is consistent with the whole project's honest and nuanced approach to seeking answers. Those who are seeking the value that context and nuance can add to their decision-making will find your writeup, or the versions of it that you weave into conversation with them, uniquely valuable.
 
 </div></div>
 
