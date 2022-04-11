@@ -404,7 +404,7 @@ Passages like this show a) enthusiasm for the research -- both the question and 
 > 
 > Early feedback from users makes us cautiously optimistic that they’re finding the mnemonic medium useful. In May 2019, one of us posted to Twitter a short thread explaining the technical details of how quantum teleportation works. One user of Quantum Country replied to the thread with:
 
-I'll skip over quoting the tweets the article quotes (you should read the article though; it's quite good!) and move on to this next quote showing both humility and conviction:
+I'll skip over quoting the tweets that this article quotes (you should read the [article](https://numinous.productions/ttft/) though; it's quite good!) and move on to this next quote showing both humility and conviction:
 
 > We don’t yet have a good model of exactly what those people are learning, but it seems plausible they are taking away considerably more than from a conventional essay, or perhaps even from a conventional class.
 > 
@@ -416,7 +416,7 @@ And then a bit further down, there's this meta-reflection:
 
 This is a beautiful example of how you can write about the findings of small scale research in a way that accentuates the value *and* acknowledges whatever limitations are present. You can do *both*, and it does not reduce the value or importance of the work.
 
-This nuanced and honest approach to presenting findings will be unappealing to those who are unmotivated to gain a nuanced and honest understanding of the answers you are pursuing. That may end up being a lot of people! But this niche appeal is baked into the whole idea of small-scale research, and so it shouldn't come as a surprise that our approach to presenting findings is consistent with the whole project's honest and nuanced approach to seeking answers.
+This nuanced and honest approach to presenting findings will be unappealing to those who are unmotivated to gain a nuanced and honest understanding of the answers you are pursuing. Those who are seeking a simple headline won't be satisfied. That may end up being a lot of people! But this niche appeal is baked into the whole idea of small-scale research, and so it shouldn't come as a surprise that our approach to presenting findings is consistent with the whole project's honest and nuanced approach to seeking answers. Those who are seeking the value that context and nuance can add to their decision-making will find your writeup, or the versions of it that you weave into conversation with them, uniquely valuable.
 
 </div></div>
 
