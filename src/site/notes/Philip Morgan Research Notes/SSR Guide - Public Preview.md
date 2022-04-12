@@ -445,23 +445,7 @@ TODO
 
 </div>
 
-# 6: Research Questions Generally
-
-[At some point this chapter seemed justified, but I'm now unsure where/how it fits in]
-
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-# 7: Formulating A Good Small-Scale Research Question
+# 6: Formulating A Good Small-Scale Research Question
 
 - Overlap between client-side uncertainty, client-side importance, and you-side interest
 - Scope of the question will need to be quite narrow
@@ -507,7 +491,7 @@ TODO
 
 </div>
 
-# 8: Designing A Small-Scale Research Project
+# 7: Designing A Small-Scale Research Project
 
 From TEI Talks outline:
 
@@ -538,7 +522,7 @@ From TEI Talks outline:
 
 </div>
 
-# 9: Executing A Small-Scale Research Project
+# 8: Executing A Small-Scale Research Project
 
 
 
@@ -553,7 +537,7 @@ From TEI Talks outline:
 
 </div>
 
-# 10: Making Small-Scale Research Findings Useful & Impactful
+# 9: Making Small-Scale Research Findings Useful & Impactful
 
 Here is a delightful writeup of some small-scale research that I'm going to pull some quotes from here: [https://numinous.productions/ttft/](https://numinous.productions/ttft/)
 
