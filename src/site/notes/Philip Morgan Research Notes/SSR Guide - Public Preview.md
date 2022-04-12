@@ -414,18 +414,8 @@ TODO
 		- Most questions are likely to benefit from mixed methods with a convenience opt-in sampling method
 		- Don't rule out other approaches, just know that within TEI (again, you might think of this research project as a prototype or first sprint) the mixed method + convenience sampling tends to be most useful and applicable.
 
-</div></div>
+## Research Methods Especially Suited To Small-Scale Research
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-# 5: Research Methods Especially Suited To Small-Scale Research
 
 - Surveys
 - Semi-structured interviews/listening sessions
@@ -437,6 +427,7 @@ TODO
 </div></div>
 
 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -445,7 +436,7 @@ TODO
 
 </div>
 
-# 6: Formulating A Good Small-Scale Research Question
+# 5: Formulating A Good Small-Scale Research Question
 
 - Overlap between client-side uncertainty, client-side importance, and you-side interest
 - Scope of the question will need to be quite narrow
@@ -491,11 +482,9 @@ TODO
 
 </div>
 
-# 7: Designing A Small-Scale Research Project
+# 6: Designing A Small-Scale Research Project
 
 From TEI Talks outline:
-
-[Question: is this "SSR Stack" content better here or in chapter 5?]
 
 - TEI Talks 12 of 18 - A Small-Scale Research Stack
 	- Broad question
@@ -522,9 +511,9 @@ From TEI Talks outline:
 
 </div>
 
-# 8: Executing A Small-Scale Research Project
+# 7: Executing A Small-Scale Research Project
 
-- Very lightly document the plan (some folks will benefit from this, others not so much, but this seems like the logical place to start -- sort of like Ari's "commander's intent")
+- Very lightly document the plan (some folks will benefit from this"north star", others not so much, but this seems like the logical place to start -- sort of like Ari's "commander's intent")
 - De-biasing options
 - Combined measuring+recruiting survey
 - What to promise
@@ -555,7 +544,7 @@ From TEI Talks outline:
 
 </div>
 
-# 9: Making Small-Scale Research Findings Useful & Impactful
+# 8: Making Small-Scale Research Findings Useful & Impactful
 
 Here is a delightful writeup of some small-scale research that I'm going to pull some quotes from here: [https://numinous.productions/ttft/](https://numinous.productions/ttft/)
 
@@ -584,20 +573,20 @@ This nuanced and honest approach to presenting findings will be unappealing to t
 
 Outline
 
-- 15 of 18) Leveraging for visibility
+- Leveraging for visibility
 	- Examples
 		- https://www.foregroundweb.com/photography-website-statistics/
 		- https://patternreport.com/
 		- https://hingemarketing.com/wp-content/uploads/2020/12/Research-VE-Study-Summary.pdf
 	- These tend to be less useful for decision making, and more useful for visibility
-- 16 of 18) Leveraging for IP
+- Leveraging for IP
 	- IP doesn't have to be closed/secret to be a source of power. (Tobie's POV)
 	- Examples
 		- https://web.devopstopologies.com
 			- https://web.archive.org/web/20210526161122/https://web.devopstopologies.com/
 		- https://www.cnpatterns.org/patterns-library
-- 17 of 18) Leveraging for services
-- 18 of 18) Leveraging for lead gen
+- Leveraging for services
+- Leveraging for lead gen
 
 </div></div>
 
