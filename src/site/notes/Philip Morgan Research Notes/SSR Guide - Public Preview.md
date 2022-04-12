@@ -527,13 +527,22 @@ From TEI Talks outline:
 - Very lightly document the plan (some folks will benefit from this, others not so much, but this seems like the logical place to start -- sort of like Ari's "commander's intent")
 - De-biasing options
 - Combined measuring+recruiting survey
+- What to promise
+	- Anonymity or not?
+	- Share back prelim results?
+	- Time required to participate
+	- Promises about results/impact or not?
+	- Disclosures about your role, skin in the game, objectivity, etc?
 - Appropriate defaults for soliciting+followup, scheduling, and conducting interviews (recorded or not? etc.)
+	- LinkedIn connect+recruit message
+	- Email recruit message
+	- Other means of recruitment: (use your own judgment + contextual appropriateness for these)
 - Summary of grounded theory iteration method and further reading:
 	- https://delvetool.com/groundedtheory
 	- https://fulcra.design/a-brief-informal-guide-to-doing-grounded-theory
 	- https://axle.design/an-integrated-qualitative-analysis-environment-with-obsidian
+- What is "enough"/saturation?
 - Troubleshooting
-- 
 
 </div></div>
 
