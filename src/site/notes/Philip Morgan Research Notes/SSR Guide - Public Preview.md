@@ -249,6 +249,7 @@ Research generally: Understand causation
 	- The motive of service must supersede all other motives.
 	- To make it do-able, we sacrifice statistical rigor and embrace small sample size, mixed methods.
 	- If necessary, we look at it as a pilot/prototype or an MVP of more robust research we'll do later, or perhaps as the first "sprint" in a long-running iterative process.
+	- How SSR differs in intent, results, and methods (cost/complexity/rigor) from the others
 - Warnings:
 	- A question:
 		- Would you want a new vaccine tested by someone who will never use it on themselves?
@@ -311,7 +312,7 @@ Research generally: Understand causation
 
 TODO
 
-- [ ] Skip through my collection of research papers, make sure I haven't missed any high-level category of meta-method
+- [ ] #0-task Skip through my collection of research papers, make sure I haven't missed any high-level category of meta-method 📅 2022-04-15
 
 "Toy"
 
@@ -400,30 +401,7 @@ TODO
 			- I don't have a recipe for you here. Depnds on your preferences and strengths.
 			- Neither drawback (the chilling effect or the distraction) is so bad you must avoid it no matter what, and avoiding your personal weakness might more than compensate for the weakness of the choice you've made.
 		- Do enough interviews and you will eventually fail spectacularly. Don't worry; it's all in the game, yo. These extreme outliers teach you very little that you can use to improve your technique, so you just dust yourself off and move on.
-	- Analysis
-		- About bias
-			- I've already mentioned question bias. There are other forms of bias.
-				- Sampling bias
-					- WHO responds
-					- We think of bias in people, especially racial or gender bias, as a negative thing; something they need to work on to improve. It is. But in small-scale research, sampling bias just IS. It's nearly unavoidable, and the remedy is: awareness and contextualizing your findings within the sampling method and bias.
-					- There are lots of forms of sampling bias. It's basically anything having to do with *who within your larger sample population that ends up responding* and how the relationship between the sample (the subset of the larger population) and the population is distorted by who does/doesn't respond.
-						- Maybe the sample is really skewed in some way that distorts the findings
-						- Maybe only people with a lot of free time actually respond
-						- Maybe only venturesome risk-seeking people respond
-						- The above are partially mitigated by having skin in the game! Remember the little story I told in the previous talk about that?
-				- Measurement bias
-					- WHAT and HOW they respond and tell you
-					- Question phrasing
-					- Answer design
-						- Order
-						- Phrasing
-					- Interview skill/social membership
-			- I'm not trying to discourage you with all this info about bias.
-				- Remember the "intellectual hammock" I talked about earlier, where we live in the tension between the power of data and the impotence of data. Understanding the insidious ways in which bias can mislead us is important.
-				- The academic/scientific context remedy is pursuing sample size + statistical controls. This is where the idea of statistical significance comes from.
-				- The small-scale research context remedy is skin in the game + mixed methods. Both of these lead us to properly incorporate *context*, and that helps us compensate for bias in the way that humans have successfully been for millenia.
-				- Also: bias feels like a bummer to talk about. :) That's why I put it a bit later in this talk, even though it's a question you should consider immediately as you begin the research design, and should continue considering throughout the whole project.
-				- Some people will be biased against biased data. "That's biased data" is a convenient way to say: "I'm not interested in changing (at all) or (in the way you propose)."
+	- Analysis			
 		- The "data soak"
 		- Coding
 		- Pulling out vivid data points either of a qual or quant nature
@@ -447,7 +425,7 @@ TODO
 
 </div>
 
-# 5: Research Methods Suited To Small-Scale Research
+# 5: Research Methods Especially Suited To Small-Scale Research
 
 - Surveys
 - Semi-structured interviews/listening sessions
@@ -469,6 +447,7 @@ TODO
 
 # 6: Research Questions Generally
 
+[At some point this chapter seemed justified, but I'm now unsure where/how it fits in]
 
 
 </div></div>
@@ -484,7 +463,37 @@ TODO
 
 # 7: Formulating A Good Small-Scale Research Question
 
-- Warning about Halo Effect questions
+- Overlap between client-side uncertainty, client-side importance, and you-side interest
+- Scope of the question will need to be quite narrow
+- Warning about Halo Effected questions and explanation of how the Halo Effect produces problematic findings
+- Bias, generally.
+	- Research bias, specifically sampling bias, just _is_ -- deal with it. :cool:
+	- But also... understand it!
+	- I've already mentioned question bias. There are other forms of bias.
+				- Sampling bias
+					- WHO responds
+					- We think of bias in people, especially racial or gender bias, as a negative thing; something they need to work on to improve. It is. But in small-scale research, sampling bias just IS. It's nearly unavoidable, and the remedy is: awareness and contextualizing your findings within the sampling method and bias.
+					- There are lots of forms of sampling bias. It's basically anything having to do with *who within your larger sample population that ends up responding* and how the relationship between the sample (the subset of the larger population) and the population is distorted by who does/doesn't respond.
+						- Maybe the sample is really skewed in some way that distorts the findings
+						- Maybe only people with a lot of free time actually respond
+						- Maybe only venturesome risk-seeking people respond
+						- The above are partially mitigated by having skin in the game! Remember the little story I told in the previous talk about that?
+				- Measurement bias
+					- WHAT and HOW they respond and tell you
+					- Question phrasing
+					- Answer design
+						- Order
+						- Phrasing
+					- Interview skill/social membership
+			- I'm not trying to discourage you with all this info about bias.
+				- Remember the "intellectual hammock" I talked about earlier, where we live in the tension between the power of data and the impotence of data. Understanding the insidious ways in which bias can mislead us is important.
+				- The academic/scientific context remedy is pursuing sample size + statistical controls. This is where the idea of statistical significance comes from.
+				- The small-scale research context remedy is skin in the game + mixed methods. Both of these lead us to properly incorporate *context*, and that helps us compensate for bias in the way that humans have successfully been for millenia.
+				- Also: bias feels like a bummer to talk about. :) That's why I put it a bit later in this talk, even though it's a question you should consider immediately as you begin the research design, and should continue considering throughout the whole project.
+				- Some people will be biased against biased data. "That's biased data" is a convenient way to say: "I'm not interested in changing (at all) or (in the way you propose)."
+- Examples:
+	- Climbing South Sister, the false summit
+	- Sampling the deer population around my house
 
 
 </div></div>
@@ -499,15 +508,6 @@ TODO
 </div>
 
 # 8: Designing A Small-Scale Research Project
-
-- Bias, generally.
-	- Research bias, specifically sampling bias, just _is_ -- deal with it. :cool:
-	- But also... understand it!
-- Examples:
-	- Climbing South Sister, the false summit
-	- Sampling the deer population around my house
-
----
 
 From TEI Talks outline:
 
@@ -603,7 +603,9 @@ Outline
 
 ## TODO
 
-- [ ] #0-task Next step: reference TEI Talks to sketch out chapter outlines 📅 2022-03-11
+- [x] #0-task Next step: reference TEI Talks to sketch out chapter outlines 📅 2022-03-11 ✅ 2022-04-12
+- [ ] #0-task Outline all the chapters 📅 2022-04-15
+- [ ] 
 
 ## Notes
 
@@ -611,6 +613,7 @@ Outline
 	- If you sampled the prevalence of deer at my house at 5 to 6am and 4 to 6pm, you'd get a hugely sample-biased result that over-counts.
 	- If you sampled the prevalence of birds in my wife's bird sanctuary the moment I open the door to take the trash out, you'd hugely under-count, again due to sampling bias.
 
+---
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
