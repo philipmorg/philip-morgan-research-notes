@@ -524,7 +524,16 @@ From TEI Talks outline:
 
 # 8: Executing A Small-Scale Research Project
 
-
+- Very lightly document the plan (some folks will benefit from this, others not so much, but this seems like the logical place to start -- sort of like Ari's "commander's intent")
+- De-biasing options
+- Combined measuring+recruiting survey
+- Appropriate defaults for soliciting+followup, scheduling, and conducting interviews (recorded or not? etc.)
+- Summary of grounded theory iteration method and further reading:
+	- https://delvetool.com/groundedtheory
+	- https://fulcra.design/a-brief-informal-guide-to-doing-grounded-theory
+	- https://axle.design/an-integrated-qualitative-analysis-environment-with-obsidian
+- Troubleshooting
+- 
 
 </div></div>
 
