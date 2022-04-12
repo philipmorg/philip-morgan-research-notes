@@ -7,6 +7,7 @@ This is a public preview of _The Small-Scale Research Guide_. Currently in-progr
 # The Small-Scale Research Guide
 
 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -243,28 +244,31 @@ Research generally: Understand causation
 
 # 3: Where Does Small-Scale Research Fit Into The Broader Research Landscape?
 
-Small-Scale Research:
-	Focused on enabling (better) decision making. As you've seen, that incorporates elements of both risk management and innovation research.
-	The motive of service must supersede all other motives.
-	To make it do-able, we sacrifice statistical rigor and embrace small sample size, mixed methods.
-	If necessary, we look at it as a pilot/prototype or an MVP of more robust research we'll do later, or perhaps as the first "sprint" in a long-running iterative process.
-Warnings:
-	A question:
-		Would you want a new vaccine tested by someone who will never use it on themselves?
-	You need skin in the game
-		This motivates context-gathering, which is critical to sanity-checking your findings.
-		Guillaume story: "Are you OK if this invalidates your work's claimed value prop?"
-	You need to connect your research with a decision
-		Otherwise you run the risk of useless "state of the industry" surveys.
-		These have marketing/visibility value, but much less decision-enabling value and less potential to create IP.
-Summary
-	Motive: understand causation.
-	4 contexts
-		Risk management.
-		Innovation.
-		Hybrid.
-		Academic/Scientific.
-	We are, coming from a spirit of service, trying to help our clients make better decisions.
+- Small-Scale Research:
+	- Focused on enabling (better) decision making. As you've seen, that incorporates elements of both risk management and innovation research.
+	- The motive of service must supersede all other motives.
+	- To make it do-able, we sacrifice statistical rigor and embrace small sample size, mixed methods.
+	- If necessary, we look at it as a pilot/prototype or an MVP of more robust research we'll do later, or perhaps as the first "sprint" in a long-running iterative process.
+- Warnings:
+	- A question:
+		- Would you want a new vaccine tested by someone who will never use it on themselves?
+	- You need skin in the game
+		- This motivates context-gathering, which is critical to sanity-checking your findings.
+		- Guillaume story: "Are you OK if this invalidates your work's claimed value prop?"
+	- You need to connect your research with a decision
+		- Otherwise you run the risk of useless "state of the industry" surveys.
+		- These have marketing/visibility value, but much less decision-enabling value and less potential to create IP.
+- Summary
+	- Motive: understand causation.
+	- 4 contexts
+		- Risk management.
+		- Innovation.
+		- Hybrid.
+		- Academic/Scientific.
+	- We are, coming from a spirit of service, trying to help our clients make better decisions.
+- The rotten low-hanging fruit of SSR
+	- Unfortunately, some of the easier-to-execute SSR approaches are useful only for social signaling, and nearly or completely useless for enabling better decision making.
+	- Because these approaches are easier to execute, they're more common. And because they're more common, the availability heuristic causes us to think of these approaches as the default for SSR. They might be the default, but they're a bad default.
 
 
 
@@ -294,14 +298,14 @@ Summary
 - **3: Toy version of more complex system: does input X produce/fail to produce output/effect Y?**
 	- ex: if this professor who is from Europe behaves in a warm way with one group of students and a cold way with others, will there be a halo effect?
 	- ex: if we put this experimental drug into some tissue in a petri dish, will X happen?
-	- ex: If we build this software tool that uses a certain approach to helping users memorize difficult subjects, what will happen?
+	- ex: If we build this [software tool](https://quantum.country) that uses a [certain approach that we believe can help users memorize difficult subjects](https://numinous.productions/ttft/), what will *actually* happen?
 	- 
 - **4: Structured observation that seeks to comprehend and make sense of the behavior, nuance, context, and variation within a phenomenon, system, or form of thinking.**
 - Overall:
-	- The 3 forms of research design (meta-method) are:
+	- The 3 forms of research design (meta-methods) are:
 		- Measurement
 		- Testing (a hypothesis)
-		- Observing -> sense-making/understanding
+		- Structured overservation -> sense-making/understanding
 
 ## Specific Methods (is Tools a better word?)
 
@@ -316,6 +320,122 @@ TODO
 - But the idea that we can create “toys” for experimentation has stuck with me  
 - Toy is not a dismissive term. Just means: cheap, simplified, but usable. Also... you can _play_ with it! Meaning, try lots of things in a low-stakes way to observe what happens and, sometimes, *be surprised* by what happens.
 
+- A survey (har har!) of methods
+	- Sampling methods
+		- Census
+		- Probability sample
+		- Convenience sample
+	- Measurement methods
+		- Surveys
+			- Realtime interview
+			- Self-administered
+		- Interviews
+			- Semi-Structured
+		- Direct observation
+		- Merely *collecting and organizing* extant data (meta-measurement)
+		- Analysis of extant quant/qual data
+			- Different from the previous because you don't collect the data yourself.
+	- Recruitment
+		- Reasons people will participate
+			- Goodwill/Interest (they want to)
+			- Desire to "be heard"
+			- They're forced to
+			- They're externally incentivized (gift card, etc.)
+			- Some surveys are institutionalized to the extent that recruitment is pretty easy (ex: "Best of Taos")
+		- Recruitment methods
+			- Outbound
+				- Email
+				- Social/LInkedIn
+					- Can be 1:1 or 1:many
+					- Gabby's "lead with a low-effort survey" then following up with direct outreach
+				- Paid advertising
+				- Appeal from a platform (an email list, an institutional partner's platform, etc.)
+				- These are convenience sampling methods, though you could apply some limited statistical correction for bias
+			- Inbound
+				- The survey itself isn't something anybody would seek out, but...
+				- You can inline it with existing inbound marketing-ish stuff like popular+relevant articles, email list content, and so on.
+				- These are also convenience sampling methods, of course
+			- Outsourced
+				- Pay-per-completion research companies can recruit for you
+				- These companies may have a relevant panel they can put the survey in front of. If they don't they owe it to you to be honest, but since the model usually is pay-per-completion, they should be honest. :)
+					- I don't have any particular negative experience with these companies, but there's a lot of garbage out there, so be careful, and we generally are doing research on groups we should be present with anyway, so involving a third part intermediary is often unnecessary. That's why you're probably getting the vibe that I'm a bit down on using outsourced recruitment.
+					- You probably don't need a... probability sample :) ... but if you did these options would become more attractive. But again, you probably don't need a probability sample. You just contextualize your findings within the less rigorous convenience sampling methods we tend to use with TEI.
+			- For sake of completeness:
+				- We'd probably never use these because they require insider status within a semi-closed system, but for completeness...
+				- Intercept
+					- Census
+					- Convenience
+	- About survey questions
+		- Screener questions
+		- Closed questions
+			- Likert scale/rating
+			- Yes/No, or other forced binary choice
+			- Ranking
+		- Open questions
+			- One word/number
+			- Multi-word/sentence/paragraph response
+		- Demographics
+		- Avoiding bias
+			- Difficult to do, but worth trying!
+				- Outside eyes on your questions can help
+		- 100% of questions delivered every time or conditionals/branching
+	- Mixing methods
+		- Quant/Qual
+			- Surveys can do both (big open-ended questions with paragraph-length answers), but with limitations in terms of qual richness/nuance/interpretation
+		- Inductive/Deductive
+	- About interviews
+		- Range from Indi Young-style listening sessions to facilitated surveys
+			- the latter is technically different than an interview, but still there are "interviews" that are almost as prescribed and rote as a survey
+		- Agenda and prompts
+			- I think this might be the biggest determinant of how an interview unfolds: how detailed is your agenda?
+			- Secondarily: how do you prompt interviewees? Just the question? Do you cave under the pressure of silence and start leading them inappropriately?
+		- Setting and context
+			- Also important is setting and context. How much time is available? How squeezed is the interviewee? How squeezed are YOU?
+		- There's not one "best" approach to interviews.
+			- Even with lots of mistakes, you'll get nuanced, useful information that helps you build context and add shades of meaning and nuance to quant data.
+			- It's hard to recommend a starting point RE: length because uber-short interviews require more skill while longer interviews require stamina and experience.
+				- That said, consider asking for 40m interviews, which are less than an hour by a meaningful amount (good for busy people) and long enough for you to screw up and still walk away with something useful.
+		- Record or take notes during or after?
+			- Potential chilling effect of recording vs. potential distraction of notetaking.
+			- I don't have a recipe for you here. Depnds on your preferences and strengths.
+			- Neither drawback (the chilling effect or the distraction) is so bad you must avoid it no matter what, and avoiding your personal weakness might more than compensate for the weakness of the choice you've made.
+		- Do enough interviews and you will eventually fail spectacularly. Don't worry; it's all in the game, yo. These extreme outliers teach you very little that you can use to improve your technique, so you just dust yourself off and move on.
+	- Analysis
+		- About bias
+			- I've already mentioned question bias. There are other forms of bias.
+				- Sampling bias
+					- WHO responds
+					- We think of bias in people, especially racial or gender bias, as a negative thing; something they need to work on to improve. It is. But in small-scale research, sampling bias just IS. It's nearly unavoidable, and the remedy is: awareness and contextualizing your findings within the sampling method and bias.
+					- There are lots of forms of sampling bias. It's basically anything having to do with *who within your larger sample population that ends up responding* and how the relationship between the sample (the subset of the larger population) and the population is distorted by who does/doesn't respond.
+						- Maybe the sample is really skewed in some way that distorts the findings
+						- Maybe only people with a lot of free time actually respond
+						- Maybe only venturesome risk-seeking people respond
+						- The above are partially mitigated by having skin in the game! Remember the little story I told in the previous talk about that?
+				- Measurement bias
+					- WHAT and HOW they respond and tell you
+					- Question phrasing
+					- Answer design
+						- Order
+						- Phrasing
+					- Interview skill/social membership
+			- I'm not trying to discourage you with all this info about bias.
+				- Remember the "intellectual hammock" I talked about earlier, where we live in the tension between the power of data and the impotence of data. Understanding the insidious ways in which bias can mislead us is important.
+				- The academic/scientific context remedy is pursuing sample size + statistical controls. This is where the idea of statistical significance comes from.
+				- The small-scale research context remedy is skin in the game + mixed methods. Both of these lead us to properly incorporate *context*, and that helps us compensate for bias in the way that humans have successfully been for millenia.
+				- Also: bias feels like a bummer to talk about. :) That's why I put it a bit later in this talk, even though it's a question you should consider immediately as you begin the research design, and should continue considering throughout the whole project.
+				- Some people will be biased against biased data. "That's biased data" is a convenient way to say: "I'm not interested in changing (at all) or (in the way you propose)."
+		- The "data soak"
+		- Coding
+		- Pulling out vivid data points either of a qual or quant nature
+		- Seeking patterns
+			- Correlations
+			- Instructive outliers
+			- Another "data soak" to absorb the vibe of the data/patterns/outliers/"odors" that feel interesting or unusual or unexpected
+				- In other words, TIME can really help you notice these patterns
+	- Some recommendations
+		- Most questions are likely to benefit from mixed methods with a convenience opt-in sampling method
+		- Don't rule out other approaches, just know that within TEI (again, you might think of this research project as a prototype or first sprint) the mixed method + convenience sampling tends to be most useful and applicable.
+
 </div></div>
 
 
@@ -329,6 +449,11 @@ TODO
 
 # 5: Research Methods Suited To Small-Scale Research
 
+- Surveys
+- Semi-structured interviews/listening sessions
+- Measuring through data-scraping
+- Digital toys
+- 
 
 
 </div></div>
@@ -359,6 +484,7 @@ TODO
 
 # 7: Formulating A Good Small-Scale Research Question
 
+- Warning about Halo Effect questions
 
 
 </div></div>
@@ -374,7 +500,32 @@ TODO
 
 # 8: Designing A Small-Scale Research Project
 
+- Bias, generally.
+	- Research bias, specifically sampling bias, just _is_ -- deal with it. :cool:
+	- But also... understand it!
+- Examples:
+	- Climbing South Sister, the false summit
+	- Sampling the deer population around my house
 
+---
+
+From TEI Talks outline:
+
+[Question: is this "SSR Stack" content better here or in chapter 5?]
+
+- TEI Talks 12 of 18 - A Small-Scale Research Stack
+	- Broad question
+	- Lit review
+	- Formulate/refine question
+	- Other method design stuff
+	- De-biasing survey
+	- Recruitment approach
+	- Interviews (if necessary)
+	- Revised survey, also recruiting for interviews
+	- Interviews
+	- Analysis
+		- The "data soak"
+	- Publication
 
 </div></div>
 
@@ -402,7 +553,7 @@ TODO
 
 </div>
 
-# 10: Making Small-Scale Research Findings Useful
+# 10: Making Small-Scale Research Findings Useful & Impactful
 
 Here is a delightful writeup of some small-scale research that I'm going to pull some quotes from here: [https://numinous.productions/ttft/](https://numinous.productions/ttft/)
 
@@ -425,6 +576,26 @@ And then a bit further down, there's this meta-reflection:
 This is a beautiful example of how you can write about the findings of small scale research in a way that accentuates the value *and* acknowledges whatever limitations are present. You can do *both*, and it does not reduce the value or importance of the work.
 
 This nuanced and honest approach to presenting findings will be unappealing to those in the audience who are unmotivated to gain a nuanced and honest understanding of the answers you are pursuing. Those who are seeking a simple headline won't be satisfied. That may end up being a lot of people! But niche appeal is baked into the whole idea of small-scale research, and so it shouldn't come as a surprise that our approach to presenting findings is consistent with the whole project's honest and nuanced approach to seeking answers. Those who are seeking the value that context and nuance can add to their decision-making will find your writeup, or the versions of it that you weave into conversation with them, uniquely valuable.
+
+
+--- 
+
+Outline
+
+- 15 of 18) Leveraging for visibility
+	- Examples
+		- https://www.foregroundweb.com/photography-website-statistics/
+		- https://patternreport.com/
+		- https://hingemarketing.com/wp-content/uploads/2020/12/Research-VE-Study-Summary.pdf
+	- These tend to be less useful for decision making, and more useful for visibility
+- 16 of 18) Leveraging for IP
+	- IP doesn't have to be closed/secret to be a source of power. (Tobie's POV)
+	- Examples
+		- https://web.devopstopologies.com
+			- https://web.archive.org/web/20210526161122/https://web.devopstopologies.com/
+		- https://www.cnpatterns.org/patterns-library
+- 17 of 18) Leveraging for services
+- 18 of 18) Leveraging for lead gen
 
 </div></div>
 
