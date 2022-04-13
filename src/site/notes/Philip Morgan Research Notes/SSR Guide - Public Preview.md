@@ -253,16 +253,15 @@ This blend of inductive, qualitative research into open systems manifests as one
 - Ethnographic research
 - Problem Space research
 
-There are probably others that I am not aware of that deserve to be on this list.
+(There are probably others that I am not aware of that deserve to be on this list.)
 
 Some recommended reading:
 
+- Alan Klement, “When Kale and Coffee Compete"
+- Indi Young's work
 
-
-
-			- Useful reading
-				- Alan Klement, “When Kale and Coffee Compete".
-				- Indi Young's work.
+		
+		
 		- Style 3: Support better decision making:
 			- This is distinct from the risk management approach because you're (largely) an outsider
 				- The risk management approach presumes a certain level of insider access you may not have, and a certain level of familiarity with the system you may not have.
