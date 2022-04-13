@@ -179,6 +179,14 @@ _This_... this is absolutely the core motivation of small-scale research (SSR): 
 
 When it comes to the common understanding of research, we worry about caring or caring too much. We worry using terms like "bias" and "motivated reasoning" and a few others. Basically, we worry that caring too much will interfere with our general objectivity and the effectiveness of our research. But when it comes to SSR, I've found that the worst SSR is produced by people who _care too little_. They're often creating the research as a social signaling tool ("I do research, therefore I have authoritative insight into X."), but they actually have little or no _practical use_ for the insight the research generates. As a result, they can overlook nonsensical or perhaps more subtly flawed results because they have no skin in the game when it comes to how the results will be _applied_ in real world situations, and they lack the _context_ that practitioners have, causing them to not even sense when the results are nonsensical or flawed.
 
+Almost every apparent constraint that comes with the territory of SSR is actually an opportunity in disguise. Small sample sizes are an opportunity to go deeper and gather more nuance. The lack of rigorous statistical controls is an invitation to get dead serious about contextualizing your findings, which helps you avoid self-deception or cluelessly reporting bad data to the world.
+
+I wanted to start explaining the larger world of research with this focus on the most squishy, human part of SSR: _caring_. Caring about the question, and caring about those who can benefit from an answer to the question (or, more likely, reduced uncertainty around the question). This is both the beating heart that powers and guides SSR, and it's also the thing that others may use to beat up on your method and results. There's no way around how both strength are weakness are bound together in this foundational aspect of SSR.
+
+## What Is Research Generally?
+
+@TODO: pick up here
+
 
 - Research generally: Understand causation
 	- Business context:
