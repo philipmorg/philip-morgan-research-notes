@@ -234,7 +234,7 @@ Some recommended reading if you're interested in learning more about the risk ma
 
 Innovation research is done to generate new options or cultivate a more nuanced, detailed, "rich" understanding of a system, process, group of people, or person. People invest in innovation research because they believe[^2] that empathy precedes innovation, and the purpose and methods of innovation research are oriented around increasing empathy, or at least equipping us to better understand others if we have an empathetic intent.
 
-You don't have to look very far into the world of innovation research (searching for success stories of Jobs To Be Done research would be the best way to look into this world) before you find examples of how empathy leads to economically-valuable innovation.
+You don't have to look very far into the world of innovation research before you find examples of how empathy leads to economically-valuable innovation. Again, "innovation research" is my invented term for several specific modalities, so if you do want to search more on your own, start by looking for "JTBD success stories". More on these specific modalities in a bit.
 
 
 			- Examples
@@ -246,7 +246,7 @@ You don't have to look very far into the world of innovation research (searching
 
 Innovation research is especially suited to environments that function like open systems -- ones where you are unable to control, measure, or even fully understand the relationships between elements of the system, or the system you’re investigating and other related systems. Innovation research uses an inductive approach, where you proceed from `observation -> pattern recognition -> development of a theory, model, or conclusion`. This approach is also qualitative in nature; it's not seeking numerical precision, but instead it's seeking a rich, nuanced, detailed understanding of a system, process, group of people, or person along with the same kind of nuanced, detailed, deep grasp of the _context_ surrounding that system, process, group, or person.
 
-This blend of inductive, qualitative research into an open system manifests as one of several branded, semi-defined styles of research:
+This blend of inductive, qualitative research into open systems manifests as one of several branded, semi-defined styles of research:
 
 - Jobs To Be Done research
 - Customer Development research
