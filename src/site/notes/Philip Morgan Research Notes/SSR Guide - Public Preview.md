@@ -221,32 +221,45 @@ Here's a quick summary of the method that Douglas Hubbard recommends for risk ma
 - Measure, keeping in mind that your goal is reduced uncertainty, not complete certainty
 - Optimize the decision, potentially rinse & repeat the previous steps to further reduce uncertainty
 
+Risk management research roughly fits into the _deductive_ category, meaning that you are testing an idea by gathering data, but much more often risk management research is simply measuring something that hasn't been adequately measured. There's often no hypothesis at all; there's simply a question related to a decision and a process of identifying what should be measured, what value that measurement might create, and the work of doing and interpreting the measurement.
 
-				- Deductive
-					- Theory -> Measurement/Testing -> Confirmed/Denied Hypothesis.
-					- You're not working with a null hypothesis theory, but you generally are working with *relatively* simplistic hypotheses that benefit from the relatively simple nature of the closed system surrounding the area of unknown/risk.
-				- Quantitative
-					- Risk management often deals with probabilities and uncertainty reduction, so quant methods -- with surprisingly small data sets -- are usable
-						- When we talk about small data sets, remember the context: not trying to steer public policy, etc.
-			- Useful reading
-				- Douglas Hubbard, “How to Measure Anything”.
-				- Sam Savage, “The Flaw of Averages".
-		- Style 2: Innovation:
-			- Outcome: Generating new options/narrative richness
-				- Based on the *belief* that empathy precedes innovation.
-				- Elizabeth Gilbert story about Tom Waits.
+The purpose of risk management research is to reduce uncertainty or establish probabilities; quantitative methods are usually the best fit for this purpose. Another one of Doug's oft-repeated points is that expert intuition is frequently wrong, and simple, inexpensive measurements can outperform expert intuition when it comes to accuracy.[^1] His proposed remedy is to move away from the qualitative world of expert intuition and towards the quantitative world of numbers and estimated probabilities.
+
+Some recommended reading if you're interested in learning more about the risk management style of research:
+
+- [How to Measure Anything : Finding the Value of Intangibles in Business](https://amazon.com/dp/B00INUYS2U)
+- [The Flaw of Averages: Why We Underestimate Risk in the Face of Uncertainty](https://amazon.com/dp/B0096CT4VY)
+
+## 2: Innovation Research
+
+Innovation research is done to generate new options or cultivate a more nuanced, detailed, "rich" understanding of a system, process, group of people, or person. People invest in innovation research because they believe[^2] that empathy precedes innovation, and the purpose and methods of innovation research are oriented around increasing empathy, or at least equipping us to better understand others if we have an empathetic intent.
+
+You don't have to look very far into the world of innovation research (searching for success stories of Jobs To Be Done research would be the best way to look into this world) before you find examples of how empathy leads to economically-valuable innovation.
+
+
 			- Examples
 				- Snickers
 					- Discovered another purpose for consuming their product.
 				- YourGrocer
 					- Discovered actual customer.
-			- Environment: Open systems
-				- You are unable to control, measure, or even fully understand the relationships between elements of the system, or the system you’re investigating and other related systems.
-			- Method
-				- JTBD/Customer development/Ethnography.
-				- Inductive
-					- Observation -> Pattern Recognition ->  Theory/Model/Conclusion.
-				- Qualitative.
+
+
+Innovation research is especially suited to environments that function like open systems -- ones where you are unable to control, measure, or even fully understand the relationships between elements of the system, or the system you’re investigating and other related systems. Innovation research uses an inductive approach, where you proceed from `observation -> pattern recognition -> development of a theory, model, or conclusion`. This approach is also qualitative in nature; it's not seeking numerical precision, but instead it's seeking a rich, nuanced, detailed understanding of a system, process, group of people, or person along with the same kind of nuanced, detailed, deep grasp of the _context_ surrounding that system, process, group, or person.
+
+This blend of inductive, qualitative research into an open system manifests as one of several branded, semi-defined styles of research:
+
+- Jobs To Be Done research
+- Customer Development research
+- Ethnographic research
+- Problem Space research
+
+There are probably others that I am not aware of that deserve to be on this list.
+
+Some recommended reading:
+
+
+
+
 			- Useful reading
 				- Alan Klement, “When Kale and Coffee Compete".
 				- Indi Young's work.
@@ -271,6 +284,10 @@ Here's a quick summary of the method that Douglas Hubbard recommends for risk ma
 			- Large sample size and/or statistical controls
 			
 
+
+[^1]: @TODO about Doug's point RE: expert intuition.
+
+[^2]: I am careful to call the notion that empathy precedes and leads to innovation a _belief_ because I'm pretty sure it's not a fact or law. Throughout human history, we have not always had this belief. At various times, we've believed that innovations (new ideas that create relative advantage) come from a multiplicity of deities, a single deity, from dreams, and from elevated social status or intelligence. I'm sure I'm leaving a few working theories off of that list. I happen to think that the the notion that empathy precedes and leads to innovation is a useful and probably-correct belief, but that still doesn't elevate it from belief to fact.
 
 </div></div>
 
