@@ -169,15 +169,15 @@ Said a bit more eloquently by [Kanjun Qui](https://kanjun.me):
 
 Source: [https://kanjun.me/writing/research-as-understanding](https://kanjun.me/writing/research-as-understanding)
 
-The whole piece is worth a read, but I can't help quoting one more bit:
+The whole, short piece is well worth a read, but I can't help quoting one more bit:
 
 > Research, I realized, is what happens as a _byproduct_ when you try to understand something and hit the bounds of what humanity currently knows.[2](https://kanjun.me/writing/research-as-understanding#footnote-2) At that point, there's suddenly no one who can tell you the answer.
 > 
 > If you care enough about the question, you have to figure out how to answer it yourself, and that's when you start running experiments and developing hypotheses. That rote process of science we're taught in school—to start with a question, generate hypotheses, test with experiments, draw conclusions—it's a good tool, but it doesn't capture the most important element: actually wanting to know the answer to the question!
 
-_This_... this is absolutely the core motivation of small-scale research (SSR): *wanting to know the answer to a question -- **a question you care deeply about** -- that's currently lacking an answer*.  This is, more generally, the motivation of most other styles of research, but the _caring about_ part is particularly important and personal when it comes to SSR.
+This... *this* is absolutely the core motivation of small-scale research (SSR): *wanting to know the answer to an un-answered question that you care deeply about*.  This is, more generally, the motivation of most other styles of research, but the _caring about_ part is particularly important and personal when it comes to SSR.
 
-When it comes to the common understanding of research, we worry about caring or caring too much. We worry using terms like "bias" and "motivated reasoning" and a few others. Basically, we worry that caring too much will interfere with our general objectivity and the effectiveness of our research. But when it comes to SSR, I've found that the worst SSR is produced by people who _care too little_. They're often creating the research as a social signaling tool ("I do research, therefore I have authoritative insight into X."), but they actually have little or no _practical use_ for the insight the research generates. As a result, they can overlook nonsensical or perhaps more subtly flawed results because they have no skin in the game when it comes to how the results will be _applied_ in real world situations, and they lack the _context_ that practitioners have, causing them to not even sense when the results are nonsensical or flawed.
+The was most of us think about research causes us to worry about caring or caring too much. We worry using terms like "bias" and "motivated reasoning" and a few others. Basically, we worry that caring too much will interfere with our general objectivity and the effectiveness of our research. But when it comes to SSR, I've found that the worst output is produced by people who _care too little_. They're often creating the research as a social signaling tool ("I do research, therefore I have authoritative insight into X."), but they actually have little or no _practical use_ for the insight the research generates. As a result, they can overlook nonsensical or perhaps more subtly flawed results because they have no skin in the game when it comes to how the results will be _applied_ in real world situations, and they lack the _context_ that practitioners have, causing them to not even sense when the results are nonsensical or flawed.
 
 Almost every apparent constraint that comes with the territory of SSR is actually an opportunity in disguise. Small sample sizes are an opportunity to go deeper and gather more nuance. The lack of rigorous statistical controls is an invitation to get dead serious about contextualizing your findings, which helps you avoid self-deception or cluelessly reporting bad data to the world.
 
@@ -185,28 +185,43 @@ I wanted to start explaining the larger world of research with this focus on the
 
 ## What Is Research Generally?
 
-@TODO: pick up here
+In the business context, there are 4 styles of research:
+
+1. Risk management
+2. Innovation
+3. Social Signaling
+4. Decision-support/SSR
+
+## 1: Risk Management Research
+
+I've had to invent terminology here because I haven't found useful terminology for business research, at least not the way I need to organize things for you in this guide. There are functional categories like _market research_, to name one, but those overindex on outcomes/functions and are granular in the wrong way. Anyway!
+
+Risk management research uses research to help manage risk. Yes, that's a circular definition. :) Let's go a bit deeper.
+
+The primary goal of risk management research is to reduce uncertainty or establish probabilities. You could think of this as simply measuring something that's under-measured. The chief apostle of this style of research is Douglas Hubbard, and the most accessible starting point to his point of view is any one of his [talks available on YouTube](https://www.youtube.com/results?search_query=douglas+hubbard) or his book _How to Measure Anything_.
+
+One of Doug's primary points is that complete certainty is not possible and _rarely necessary_ in a business context. As a result, the kind of extreme rigor applied to many academic or scientific research efforts isn't necessary in a business context. In the business context, there is a ton of value in merely _reducing uncertainty_, and many situations will allow for _significant reductions in uncertainty with just a few measurements_. And often those few measurements are easy and cheap to implement, once you have a sense of what you actually need to measure. Here is a good, short, useful article from Doug on this: [https://hubbardresearch.com/two-ways-you-can-use-small-sample-sizes-to-measure-anything/](https://hubbardresearch.com/two-ways-you-can-use-small-sample-sizes-to-measure-anything/)
+
+A few examples will help illustrate the kind of situations where risk management research is a good fit:
+
+- Reducing uncertainty RE: the cost of a potential new government procurement system
+- Quantifying the risk of flooding in a mining operation
+- Quantifying the potential impact of particular pesticides regulation.
+- Understanding the most significant sources of risk in IT security
+
+All of these examples are from a talk Doug gave, and you can find similar examples in any of his [talks, available on YouTube](https://www.youtube.com/results?search_query=douglas+hubbard).
+
+Risk management research is best suited to environments that function like closed systems, where you are able to control and measure almost every aspect of the system. Big business enterprises are not closed systems, but they try to function like they are. There's a famous saying (from Drucker, I think?): "what can't be measured can't be managed". This expresses the underlying anxiety about _control_ that's often omnipresent in so many modern organizations, and this desire for control is absolutely typical of a closed system.
+
+Here's a quick summary of the method that Douglas Hubbard recommends for risk management research:
+
+- Define the decision you're focused on
+- Model the current uncertainty
+- Compute the value of information that could help reduce that uncertainty
+- Measure, keeping in mind that your goal is reduced uncertainty, not complete certainty
+- Optimize the decision, potentially rinse & repeat the previous steps to further reduce uncertainty
 
 
-- Research generally: Understand causation
-	- Business context:
-		- Style 1: Risk management:
-			- Outcomes: Reducing uncertainty/establishing probabilities
-				- You could think of this as simply: measuring something that's under-measured.
-			- Examples
-				- Cost of government procurement system.
-				- Risks of flooding in mining operations.
-				- Impact of pesticides regulation.
-				- IT security.
-			- Environment: Closed systems
-				- You’re able to control and measure almost every aspect of the system.
-			- Method
-				- “Hubbard-style" measurement
-					- Define decision.
-					- Model current uncertainty.
-					- Compute value of information.
-					- Measure, keeping in mind the uncertainty-reduction mindset.
-					- Optimize decision, potentially rinse & repeat.
 				- Deductive
 					- Theory -> Measurement/Testing -> Confirmed/Denied Hypothesis.
 					- You're not working with a null hypothesis theory, but you generally are working with *relatively* simplistic hypotheses that benefit from the relatively simple nature of the closed system surrounding the area of unknown/risk.
