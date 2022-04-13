@@ -658,8 +658,8 @@ Outline
 ## Notes
 
 - Running examples:
-	- If you sampled the prevalence of deer at my house at 5 to 6am and 4 to 6pm, you'd get a hugely sample-biased result that over-counts.
-	- If you sampled the prevalence of birds in my wife's bird sanctuary the moment I open the door to take the trash out, you'd hugely under-count, again due to sampling bias.
+	- If you sampled the prevalence of deer at my house at 5 to 6am and 4 to 6pm, you'd get a hugely sample-biased result that over-counts. You'd be looking at the usual behavior of an open system but at a point in that system's oscillation that is pretty far to one extreme of the system's normal state.
+	- If you sampled the prevalence of birds in my wife's bird sanctuary the moment I open the door to take the trash out, you'd hugely under-count, again due to sampling bias. You'd be looking at an open system that's been disturbed by my and sampling right after that disturbance has changed things away from the equilibrium.
 
 ---
 
