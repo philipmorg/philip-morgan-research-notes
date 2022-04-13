@@ -159,75 +159,93 @@ Small-scale research is accelerated, focused learning.
 
 Research in general is an attempt to understand causation.
 
+Said a bit more eloquently by [Kanjun Qui](https://kanjun.me):
+
+> I misunderstood the nature of research for most of my life, and this prevented me from doing any. I thought significant research came from following the scientific method until novel discoveries popped out. I'd never contributed something new to human knowledge before, so being a researcher—which required replicating this outcome—felt impossibly far out of reach.
+> 
+> But it turns out the novel discovery is just a side effect. You don't make novel discoveries by trying to make novel discoveries.
+> 
+> Instead, research is simply a continuation of something we already naturally do: learning. Learning happens when you understand something that _someone else already understands_. Research happens when you understand something that _nobody else understands yet_.
+
+Source: [https://kanjun.me/writing/research-as-understanding](https://kanjun.me/writing/research-as-understanding)
+
+The whole piece is worth a read, but I can't help quoting one more bit:
+
+> Research, I realized, is what happens as a _byproduct_ when you try to understand something and hit the bounds of what humanity currently knows.[2](https://kanjun.me/writing/research-as-understanding#footnote-2) At that point, there's suddenly no one who can tell you the answer.
+> 
+> If you care enough about the question, you have to figure out how to answer it yourself, and that's when you start running experiments and developing hypotheses. That rote process of science we're taught in school—to start with a question, generate hypotheses, test with experiments, draw conclusions—it's a good tool, but it doesn't capture the most important element: actually wanting to know the answer to the question!
+
+_This_... this is absolutely the core motivation of small-scale research (SSR): *wanting to know the answer to a question -- **a question you care deeply about** -- that's currently lacking an answer*.  This is, more generally, the motivation of most other styles of research, but the _caring about_ part is particularly important and personal when it comes to SSR.
+
+When it comes to the common understanding of research, we worry about caring or caring too much. We worry using terms like "bias" and "motivated reasoning" and a few others. Basically, we worry that caring too much will interfere with our general objectivity and the effectiveness of our research. But when it comes to SSR, I've found that the worst SSR is produced by people who _care too little_. They're often creating the research as a social signaling tool ("I do research, therefore I have authoritative insight into X."), but they actually have little or no _practical use_ for the insight the research generates. As a result, they can overlook nonsensical or perhaps more subtly flawed results because they have no skin in the game when it comes to how the results will be _applied_ in real world situations.
 
 
-
-Research generally: Understand causation
-	Business context:
-		Style 1: Risk management:
-			Outcomes: Reducing uncertainty/establishing probabilities
-				You could think of this as simply: measuring something that's under-measured.
-			Examples
-				Cost of government procurement system.
-				Risks of flooding in mining operations.
-				Impact of pesticides regulation.
-				IT security.
-			Environment: Closed systems
-				You’re able to control and measure almost every aspect of the system.
-			Method
-				“Hubbard-style" measurement
-					Define decision.
-					Model current uncertainty.
-					Compute value of information.
-					Measure, keeping in mind the uncertainty-reduction mindset.
-					Optimize decision, potentially rinse & repeat.
-				Deductive
-					Theory -> Measurement/Testing -> Confirmed/Denied Hypothesis.
-					You're not working with a null hypothesis theory, but you generally are working with *relatively* simplistic hypotheses that benefit from the relatively simple nature of the closed system surrounding the area of unknown/risk.
-				Quantitative
-					Risk management often deals with probabilities and uncertainty reduction, so quant methods -- with surprisingly small data sets -- are usable
-						When we talk about small data sets, remember the context: not trying to steer public policy, etc.
-			Useful reading
-				Douglas Hubbard, “How to Measure Anything”.
-				Sam Savage, “The Flaw of Averages".
-		Style 2: Innovation:
-			Outcome: Generating new options/narrative richness
-				Based on the *belief* that empathy precedes innovation.
-				Elizabeth Gilbert story about Tom Waits.
-			Examples
-				Snickers
-					Discovered another purpose for consuming their product.
-				YourGrocer
-					Discovered actual customer.
-			Environment: Open systems
-				You are unable to control, measure, or even fully understand the relationships between elements of the system, or the system you’re investigating and other related systems.
-			Method
-				JTBD/Customer development/Ethnography.
-				Inductive
-					Observation -> Pattern Recognition ->  Theory/Model/Conclusion.
-				Qualitative.
-			Useful reading
-				Alan Klement, “When Kale and Coffee Compete".
-				Indi Young's work.
-		Style 3: Support better decision making:
-			This is distinct from the risk management approach because you're (largely) an outsider
-				The risk management approach presumes a certain level of insider access you may not have, and a certain level of familiarity with the system you may not have.
-			Mixed methods:
-				Scale/causation
-					Might be understood as measuring a specific phenomenon, with an effort to control or create homogeneity in the surrounding context.
-				and
-				Coherence/focus
-					MIght be understood as exploring the context within which a specific phenomenon occurs, with an effort to understand the natural variation and diversity in that context.
-			With this approach, you may blend elements of both the risk management style and the innovation style.
-				The focus is on the relatively closed system of a specific business decision, not the wide-open vista of innovation.
-				But, because you lack the benefits (and drawbacks!) of being an insider, the research approach might look more like an inductive/qual/exploratory approach (but not always!)
-			Useful reading
-				Sam Ladner, “Mixed Methods".
-		Style 4: Social signaling
-			You'll come to understand this more when we look at biases, because many of these "social signaling" research studies are flawed by biases, in addition to being nearly-useless as a decision-support tool.
-	Academic/Scientific context:
-		Not relevant to us here except where it spins off commoditized and-also-usable-by-us best practices, or methodology approaches we can adapt. But, just to describe it a bit:
-			Large sample size and/or statistical controls
+- Research generally: Understand causation
+	- Business context:
+		- Style 1: Risk management:
+			- Outcomes: Reducing uncertainty/establishing probabilities
+				- You could think of this as simply: measuring something that's under-measured.
+			- Examples
+				- Cost of government procurement system.
+				- Risks of flooding in mining operations.
+				- Impact of pesticides regulation.
+				- IT security.
+			- Environment: Closed systems
+				- You’re able to control and measure almost every aspect of the system.
+			- Method
+				- “Hubbard-style" measurement
+					- Define decision.
+					- Model current uncertainty.
+					- Compute value of information.
+					- Measure, keeping in mind the uncertainty-reduction mindset.
+					- Optimize decision, potentially rinse & repeat.
+				- Deductive
+					- Theory -> Measurement/Testing -> Confirmed/Denied Hypothesis.
+					- You're not working with a null hypothesis theory, but you generally are working with *relatively* simplistic hypotheses that benefit from the relatively simple nature of the closed system surrounding the area of unknown/risk.
+				- Quantitative
+					- Risk management often deals with probabilities and uncertainty reduction, so quant methods -- with surprisingly small data sets -- are usable
+						- When we talk about small data sets, remember the context: not trying to steer public policy, etc.
+			- Useful reading
+				- Douglas Hubbard, “How to Measure Anything”.
+				- Sam Savage, “The Flaw of Averages".
+		- Style 2: Innovation:
+			- Outcome: Generating new options/narrative richness
+				- Based on the *belief* that empathy precedes innovation.
+				- Elizabeth Gilbert story about Tom Waits.
+			- Examples
+				- Snickers
+					- Discovered another purpose for consuming their product.
+				- YourGrocer
+					- Discovered actual customer.
+			- Environment: Open systems
+				- You are unable to control, measure, or even fully understand the relationships between elements of the system, or the system you’re investigating and other related systems.
+			- Method
+				- JTBD/Customer development/Ethnography.
+				- Inductive
+					- Observation -> Pattern Recognition ->  Theory/Model/Conclusion.
+				- Qualitative.
+			- Useful reading
+				- Alan Klement, “When Kale and Coffee Compete".
+				- Indi Young's work.
+		- Style 3: Support better decision making:
+			- This is distinct from the risk management approach because you're (largely) an outsider
+				- The risk management approach presumes a certain level of insider access you may not have, and a certain level of familiarity with the system you may not have.
+			- Mixed methods:
+				- Scale/causation
+					- Might be understood as measuring a specific phenomenon, with an effort to control or create homogeneity in the surrounding context.
+				- and
+				- Coherence/focus
+					- MIght be understood as exploring the context within which a specific phenomenon occurs, with an effort to understand the natural variation and diversity in that context.
+			- With this approach, you may blend elements of both the risk management style and the innovation style.
+				- The focus is on the relatively closed system of a specific business decision, not the wide-open vista of innovation.
+				- But, because you lack the benefits (and drawbacks!) of being an insider, the research approach might look more like an inductive/qual/exploratory approach (but not always!)
+			- Useful reading
+				- Sam Ladner, “Mixed Methods".
+		- Style 4: Social signaling
+			- You'll come to understand this more when we look at biases, because many of these "social signaling" research studies are flawed by biases, in addition to being nearly-useless as a decision-support tool.
+	- Academic/Scientific context:
+		- Not relevant to us here except where it spins off commoditized and-also-usable-by-us best practices, or methodology approaches we can adapt. But, just to describe it a bit:
+			- Large sample size and/or statistical controls
 			
 
 
@@ -595,8 +613,8 @@ Outline
 ## TODO
 
 - [x] #0-task Next step: reference TEI Talks to sketch out chapter outlines 📅 2022-03-11 ✅ 2022-04-12
-- [ ] #0-task Outline all the chapters 📅 2022-04-15
-- [ ] 
+- [ ] #0-task Second outlining pass through all the chapters 📅 2022-04-15
+- [ ] Start brain-dump/writing!
 
 ## Notes
 
