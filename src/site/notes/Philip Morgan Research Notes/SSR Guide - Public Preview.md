@@ -181,7 +181,7 @@ When it comes to the common understanding of research, we worry about caring or 
 
 Almost every apparent constraint that comes with the territory of SSR is actually an opportunity in disguise. Small sample sizes are an opportunity to go deeper and gather more nuance. The lack of rigorous statistical controls is an invitation to get dead serious about contextualizing your findings, which helps you avoid self-deception or cluelessly reporting bad data to the world.
 
-I wanted to start explaining the larger world of research with this focus on the most squishy, human part of SSR: _caring_. Caring about the question, and caring about those who can benefit from an answer to the question (or, more likely, reduced uncertainty around the question). This is both the beating heart that powers and guides SSR, and it's also the thing that others may use to beat up on your method and results. There's no way around how both strength are weakness are bound together in this foundational aspect of SSR.
+I wanted to start explaining the larger world of research with this focus on the most squishy, human part of SSR: _caring_. Caring about the question, and caring about those who can benefit from an answer to the question (or, more likely, reduced uncertainty around the question). This is both the beating heart that powers and guides SSR, and it's also the thing that others may use to beat up on your method and results. There's no way around how both weakness and strength are bound together in this foundational aspect of SSR.
 
 ## What Is Research Generally?
 
