@@ -274,8 +274,25 @@ To make this all unavoidably more complicated, there is sometimes a context wher
 
 Two separate SSR initiatives executed by Tom and Neshka are a good illustration. Tom's question was, "what approach(es) to lead generation are effective for consultants?" He found a meaningful correlation between how the consultant was specialized and what approaches to lead generation were most likely to be effective for them. This enables better decision-making, because a consultant can look at Tom's research product, consider how they are specialized, and eliminate lead generation options that are unlikely to work well for them. There's real value in reducing the amount of trial and error needed to arrive at a working solution to a business problem.
 
-Neshka's question was, ""
+Neshka's question was, "how are museums approaching interdisciplinary exhibits, and what's working?" This question is less tightly-coupled to a specific decision, and not because Neshka was trying to avoid being on the hook for that. Rather, her question was within a _less commoditized context_. 
 
+A simple but accurate way to understand commoditization is: the process of figuring out how to do something. That "something" could be almost anything that promises some form of advantage, such as:
+
+- Manufacturing smartphones at scale
+- Transmitting data wirelessly at high speed
+- Finding ways to get cheaper and cheaper workers to build X
+- Manipulating groups of people to vote or spend money in a certain way
+- Or... design and execute excellent interdisciplinary museum exhibits :)
+
+A less commoditized context is one where the thing being figured out is newer and less thoroughly figured out. This means that a question like "What is the one best way to do X?" is unhelpful, because there simply is no one best, ideal, "correct" way to do X. There may never be _one_ best way, but at this early stage of the commoditization process, people are experimenting with many ways to do X. So SSR into a system that is pretty far away from commoditization will tend to be a survey of what experiments people are trying. Organizing or mapping what experiments people are trying has real value, even thought it's not tightly-coupled to a specific business decision.
+
+A wonderful example of this kind of "mapping" work is Matthew Skelton's _[DevOps Topologies](https://web.archive.org/web/20160305153422/http://web.devopstopologies.com/)_ and _[Team Topologies](https://smile.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819)_ work. There are many ways to integrate a DevOps team into an organization. Matthew's research into this question has not produced a single "best" way to approach it, but instead a pattern library of the common approaches, along with guidance about the approaches to avoid.
+
+![](https://i.imgur.com/xys74gF.png)
+
+Source: [https://web.archive.org/web/20160305153422/http://web.devopstopologies.com/](https://web.archive.org/web/20160305153422/http://web.devopstopologies.com/)
+
+This kind of SSR that seeks patterns within an uncommoditized system is one wrong turn away from the kind of low-value social signaling research that I recommend you avoid.
 
 
 
