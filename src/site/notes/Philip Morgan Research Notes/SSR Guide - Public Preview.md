@@ -236,13 +236,7 @@ Innovation research is done to generate new options or cultivate a more nuanced,
 
 You don't have to look very far into the world of innovation research before you find examples of how empathy leads to economically-valuable innovation. Again, "innovation research" is my invented term for several specific modalities, so if you do want to search more on your own, start by looking for "JTBD success stories". More on these specific modalities in a bit.
 
-
-			- Examples
-				- Snickers
-					- Discovered another purpose for consuming their product.
-				- YourGrocer
-					- Discovered actual customer.
-
+The canonical example seems to be how the Mars, Incorporated company used Jobs To Be Done research to learn that quite often the "job" that many Snickers customers "hired" the candy bar to do was to serve as a meal when time was tight. Customers seeing the candy bar as less of a candy and more of a portable, calorically-dense meal substitute opened up new options for how Mars could market the product. Some might even say this research helped create a new category.
 
 Innovation research is especially suited to environments that function like open systems -- ones where you are unable to control, measure, or even fully understand the relationships between elements of the system, or the system you’re investigating and other related systems. Innovation research uses an inductive approach, where you proceed from `observation -> pattern recognition -> development of a theory, model, or conclusion`. This approach is also qualitative in nature; it's not seeking numerical precision, but instead it's seeking a rich, nuanced, detailed understanding of a system, process, group of people, or person along with the same kind of nuanced, detailed, deep grasp of the _context_ surrounding that system, process, group, or person.
 
@@ -257,8 +251,33 @@ This blend of inductive, qualitative research into open systems manifests as one
 
 Some recommended reading:
 
-- Alan Klement, “When Kale and Coffee Compete"
-- Indi Young's work
+- [When Coffee And Kale Compete](https://amazon.com/dp/B07C7HH662)
+- [Indi Young's work](https://indiyoung.com/books/)
+
+## 3: Social Signaling Research
+
+Small-scale research is seeking this:
+
+![[What is research generally, and business research specifically 2022-04-14 07.37.18.excalidraw]]
+
+Research that's done for social signaling reasons is seeking this:
+
+![[What is research generally, and business research specifically 2022-04-14 07.41.14.excalidraw]]
+
+I'm intentionally portraying this third category of research in a harsh, unflattering light to accentuate the differences. This portrayal might make it seem like those who produce this research are calculating and mercenary in their motives, or like cheesy Bond villians, they're stroking a moustache and cackling about how they'll use flimsy research to become authorities mwoohahahaha. I'm sure this isn't their actual motive. 
+
+Rather, I think it's merely easy and convenient to embark on research with reasonably generous intentions and, along the way, to fail to connect the research plan with a specific decision and, also along the way, get dazzled by the easier-to-imitate tools of academic/scientific research (large sample sizes and quantitative methods). This produces "junk food" research -- easy to produce and consume but bereft of actual nutrition for the consumer.
+
+![[What is research generally, and business research specifically 2022-04-14 08.02.08.excalidraw]]
+
+To make this all unavoidably more complicated, there is sometimes a context where the output of well-designed SSR *is* somewhat un-connected to a specific decision. This blurs what I wish could be a clear, sharp boundary between high-value SSR and low-value social signaling research. 
+
+Two separate SSR initiatives executed by Tom and Neshka are a good illustration. Tom's question was, "what approach(es) to lead generation are effective for consultants?" He found a meaningful correlation between how the consultant was specialized and what approaches to lead generation were most likely to be effective for them. This enables better decision-making, because a consultant can look at Tom's research product, consider how they are specialized, and eliminate lead generation options that are unlikely to work well for them. There's real value in reducing the amount of trial and error needed to arrive at a working solution to a business problem.
+
+Neshka's question was, ""
+
+
+
 
 		
 		
