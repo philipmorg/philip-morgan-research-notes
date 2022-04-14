@@ -306,7 +306,7 @@ Both of these positions are based on fantastical thinking. I am happy to critici
 
 I often criticize social signaling research as "low value", but it's not zero-value! It has, at a minimum, some amount of entertainment value, and in some cases a modest amount of information value. Moving away from complete ignorance about where my peers think our industry is headed may not help me make better decisions. Indeed it may cause me to make _worse_ decisions if my peers are not very insightful in their predictions and I follow the herd! But even if there's no decision-improving value in that "where my peers think the industry is headed" report, the entertainment value is more properly described as info-tainment, and my peers' not-very-insightful thinking on where the industry is headed could play a part in me thinking more deeply about the questions and ultimately arriving at my own improved perspective on the question. In short, even low-value research can create *some* value for some people, even if that value is a second-order effect of the research.
 
-The loss that social signaling research represents is a loss of potential. The same good intentions and resources could be more narrowly and usefully focused on something with more niche appeal and, I will repeatedly argue, more resulting value and impact in the market.
+The loss that social signaling research represents is a loss of potential. The same good intentions and resources could be more narrowly and usefully focused on something with more niche appeal and, I will repeatedly argue, more *actual* value and impact in the market.
 
 ## 3: Small-Scale Decision Support Research
 
