@@ -284,15 +284,32 @@ A simple but accurate way to understand commoditization is: the process of figur
 - Manipulating groups of people to vote or spend money in a certain way
 - Or... design and execute excellent interdisciplinary museum exhibits :)
 
-A less commoditized context is one where the thing being figured out is newer and less thoroughly figured out. This means that a question like "What is the one best way to do X?" is unhelpful, because there simply is no one best, ideal, "correct" way to do X. There may never be _one_ best way, but at this early stage of the commoditization process, people are experimenting with many ways to do X. So SSR into a system that is pretty far away from commoditization will tend to be a survey of what experiments people are trying. Organizing or mapping what experiments people are trying has real value, even thought it's not tightly-coupled to a specific business decision.
+A less commoditized context is one where the thing being figured out is newer and less thoroughly figured out. This means that a question like "What is the single best way to do X?" is unhelpful, because there simply is no one best, ideal, "correct" way to do X. There may never be _one_ best way, but at this early stage of the commoditization process, people are experimenting with many ways to do X. So SSR into a system that is pretty far away from commoditization will tend to be a survey of what experiments people are trying. Organizing or mapping what experiments people are trying has real value, even thought it's not tightly-coupled to a specific business decision.
 
-A wonderful example of this kind of "mapping" work is Matthew Skelton's _[DevOps Topologies](https://web.archive.org/web/20160305153422/http://web.devopstopologies.com/)_ and _[Team Topologies](https://smile.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819)_ work. There are many ways to integrate a DevOps team into an organization. Matthew's research into this question has not produced a single "best" way to approach it, but instead a pattern library of the common approaches, along with guidance about the approaches to avoid.
+A wonderful example of this kind of "mapping" work is Matthew Skelton's _[DevOps Topologies](https://web.archive.org/web/20160305153422/http://web.devopstopologies.com/)_ and _[Team Topologies](https://smile.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819)_ work. There are many ways to integrate a DevOps team into an organization. Matthew's research into this question has not produced a single "best" way to approach it, but instead a pattern library of the common approaches, along with guidance about the approaches to favor and those to avoid.
 
 ![](https://i.imgur.com/xys74gF.png)
 
 Source: [https://web.archive.org/web/20160305153422/http://web.devopstopologies.com/](https://web.archive.org/web/20160305153422/http://web.devopstopologies.com/)
 
-This kind of SSR that seeks patterns within an uncommoditized system is one wrong turn away from the kind of low-value social signaling research that I recommend you avoid.
+This kind of SSR that seeks patterns within an uncommoditized system is one wrong turn away from the kind of low-value social signaling research that I recommend you avoid. The output of social signaling research gravitates towards one of two forms:
+
+- "State of the industry" reports
+- "What your peers are thinking" reports, or with the same method and different questions you can get a "Where the industry is headed" report as a result
+
+These kinds of reports are like catnip -- they make some people come unhinged, both on the production and consumption side of the report. I find that:
+
+- On the production side, because they tend to use quantitative methods, the producers tend to overstate the value of the research.
+- (Remember my comments about the mystical power of data in Chapter 1.) On the consumption side, people can assume that the number-filled tables and bar charts in this report will... somehow!... make their decisions better because those decisions are now "data-driven" or "evidence-backed".
+
+Both of these positions are based on fantastical thinking.
+
+
+
+I often criticize social signaling research as "low value", but it's not zero-value! It has, at a minimum, some amount of entertainment value, and in some cases a modest amount of information value. Moving away from complete ignorance about where my peers think our industry is headed may not help me make better decisions. Indeed it may cause me to make _worse_ decisions if my peers are not very insightful in their predictions and I follow the herd! But even if there's no decision-improving value in that "where my peers think the industry is headed" report, the entertainment value is more properly described as info-tainment, and my peers' not-very-insightful thinking on where the industry is headed might play a part in me thinking more deeply about the questions and ultimately arriving at my own improved perspective on the question. In short, even low-value research can create *some* value for some people.
+
+I think the loss that social signaling research represents is a loss of potential. The same good intentions and resources could be more narrowly and usefully focused on something with more niche appeal and, I will repeatedly argue, more resulting value in the market.
+
 
 
 
