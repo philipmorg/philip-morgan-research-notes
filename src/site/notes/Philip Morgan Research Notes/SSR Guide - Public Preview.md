@@ -274,7 +274,7 @@ To make this all unavoidably more complicated, there is sometimes a context wher
 
 Two separate SSR initiatives executed by Tom and Neshka are a good illustration. Tom's question was, "what approach(es) to lead generation are effective for consultants?" He found a meaningful correlation between how the consultant was specialized and what approaches to lead generation were most likely to be effective for them. This enables better decision-making, because a consultant can look at Tom's research product, consider how they are specialized, and eliminate lead generation options that are unlikely to work well for them. There's real value in reducing the amount of trial and error needed to arrive at a working solution to a business problem.
 
-Neshka's question was, "how are museums approaching interdisciplinary exhibits, and what's working?" This question is less tightly-coupled to a specific decision, and not because Neshka was trying to avoid being on the hook for that. Rather, her question was within a _less commoditized context_. 
+Neshka's question was, "how are museums approaching interdisciplinary exhibits, and what's working?" This question is less tightly-coupled to a specific decision, and not because Neshka was trying to avoid being on the hook for that. Rather, her question exists within a _less commoditized context_. 
 
 A simple but accurate way to understand commoditization is: the process of figuring out how to do something. That "something" could be almost anything that promises some form of advantage, such as:
 
