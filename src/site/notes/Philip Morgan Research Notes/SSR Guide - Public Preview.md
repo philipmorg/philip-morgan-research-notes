@@ -292,14 +292,14 @@ A wonderful example of this kind of "mapping" work is Matthew Skelton's _[DevOps
 
 Source: [https://web.archive.org/web/20160305153422/http://web.devopstopologies.com/](https://web.archive.org/web/20160305153422/http://web.devopstopologies.com/)
 
-This kind of SSR that seeks patterns within an uncommoditized system produces value by reducing unnecessary experimentation. This kind of SSR is also one wrong turn away from the kind of low-value social signaling research that I recommend you avoid. The output of social signaling research gravitates towards one of two forms:
+This kind of SSR that seeks patterns within an uncommoditized system produces value by reducing unnecessary experimentation and it plays a pro-commoditization role in helping the system converge on a smaller range of more effective solutions. This kind of SSR is also one wrong turn away from the kind of low-value social signaling research that I recommend you avoid. The output of social signaling research gravitates towards one of two forms:
 
 - "State of the industry" reports
 - "What your peers are thinking" reports, or with the same method and different questions you can get a "Where the industry is headed" report as a result
 
 These kinds of reports are like catnip -- they make some people come unhinged, both on the production and consumption side of the report. I find that:
 
-- On the production side, because they tend to use quantitative methods, the producers tend to overstate the value of the research.
+- On the production side, because they tend to use quantitative methods, the producers tend to overstate the fidelity and value of the research.
 - (Remember my comments about the mystical power of data in Chapter 1.) On the consumption side, people can assume that the number-filled tables and bar charts in this report will... somehow!... make their decisions better because those decisions are now "data-driven" or "evidence-backed".
 
 Both of these positions are based on fantastical thinking. I am happy to criticize the work of those with ill intent, but again, I am convinced that most of the people who produce social signaling research have pretty honorable intent, they've just used an approach that sharply diminishes the value of their investment. So I won't specifically name any examples here, but I am thinking of a certain research product that reported on the marketing and ops practices of a certain specialized kind of contracting firm. The main finding of this research could be paraphrased thusly: "Firms that grow at a higher rate do certain things more than those that are growing more slowly." Of course, the report shared what those certain things were. The implicit value proposition of this research is this: "do as they do and it will improve your firm's growth rate." A later chapter will describe the bias that prevents a survey of "what are the winners doing?" from producing useful insight.
