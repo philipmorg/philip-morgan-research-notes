@@ -334,7 +334,7 @@ The loss that social signaling research represents is a loss of potential. The s
 
 [^1]: @TODO about Doug's point RE: expert intuition.
 
-[^2]: I am careful to call the notion that empathy precedes and leads to innovation a _belief_ because I'm pretty sure it's not a fact or law. Throughout human history, we have not always had this belief. At various times, we've believed that innovations (new ideas that create relative advantage) come from a multiplicity of deities, a single deity, from dreams, and from elevated social status or intelligence. I'm sure I'm leaving a few working theories off of that list. I happen to think that the the notion that empathy precedes and leads to innovation is a useful and probably-correct belief, but that still doesn't elevate it from belief to fact.
+[^2]: I am careful to call the notion that empathy precedes and leads to innovation a _belief_ because I'm pretty sure it's not a fact or natural law. Throughout human history, we have not always had this belief. At various times, we've believed that innovations (new ideas that create relative advantage) come from a multiplicity of deities, a single deity, from dreams, from psychoactive plants, and from elevated social status or intelligence. I'm sure I'm leaving a few working theories off of that list. I happen to think that the the notion that empathy precedes and leads to innovation is a useful and probably-correct belief, but that still doesn't elevate it from belief to fact.
 
 </div></div>
 
