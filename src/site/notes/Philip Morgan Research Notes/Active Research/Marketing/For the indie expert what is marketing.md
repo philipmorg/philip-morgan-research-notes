@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/for-the-indie-expert-what-is-marketing/"}
 ---
 
+[[Philip Morgan Research Notes/Active Research/Marketing/How dost one come to understand marketing|How dost one come to understand marketing]]?
+
 Marketing is earning visibility and trust for your services.
 
 At the highest level, marketing is organized into two domains. Because many indie expert businesses are "product in the streets, consulting in the sheets" businesses, there are notes on both domains of marketing:
