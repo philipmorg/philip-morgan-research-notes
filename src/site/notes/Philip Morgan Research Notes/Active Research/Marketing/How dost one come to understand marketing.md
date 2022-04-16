@@ -21,6 +21,6 @@ If we were going to understand marketing, we might look at 4 parts of the system
 	- This is sort of a subset of the sell side of the system, but broken out separately
 	- We might try to learn from practitioners what they have tried and what they believe works/doesn't work; we might be seeing what "always works" (ha!) or what works within a given context (more realistic)
 
-Because this is a _complex adaptive system_ (the only model of the system is the system itself), we can't reduce it down to any one of these 4 components, but I do think that #1 (buyer behavior) is under-studied, #2 is problematic for obvious reasons, #3 is a fount of bullshit, and #4 is promising but troubled by difficulties in executing (how would you get a sample of practitioners giving you a stable snapshot of their perspective?).
+Because "marketing" (or business or commerce or self-employment) is a _complex adaptive system_ (the only model of the system is the system itself), we can't reduce it down to any one of these 4 components, but I do think that #1 (buyer behavior) is under-studied, #2 is problematic for obvious reasons, #3 is a fount of bullshit, and #4 is promising but troubled by difficulties in executing (how would you get a sample of practitioners giving you a stable snapshot of their perspective/learnings?).
 
 ![[understanding-marketing.pdf]]
