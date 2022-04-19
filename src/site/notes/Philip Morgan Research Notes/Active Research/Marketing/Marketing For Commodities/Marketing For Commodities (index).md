@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-commodities/marketing-for-commodities-index/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-commodities/marketing-for-commodities-index/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 As with all marketing, there are theories, 1-off successes, and outright bullshit, and then there is stuff that can be proven to work via some kind of evidence/research.
 
