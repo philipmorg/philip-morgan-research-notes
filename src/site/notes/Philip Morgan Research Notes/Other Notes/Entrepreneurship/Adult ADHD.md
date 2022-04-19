@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/other-notes/entrepreneurship/adult-adhd/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/other-notes/entrepreneurship/adult-adhd/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 # ADHD Resources
 
