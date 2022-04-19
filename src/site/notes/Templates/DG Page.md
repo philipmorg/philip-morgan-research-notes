@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/templates/dg-page/"}
+{"dg-publish":true,"permalink":"/templates/dg-page/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 @TODO
 
