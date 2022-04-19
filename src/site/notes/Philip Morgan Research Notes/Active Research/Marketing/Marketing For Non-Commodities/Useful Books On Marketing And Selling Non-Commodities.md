@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-non-commodities/useful-books-on-marketing-and-selling-non-commodities/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-non-commodities/useful-books-on-marketing-and-selling-non-commodities/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 There are some books about marketing and selling non-commodities that are useful sources of information, thinking, and inspiration.
 
