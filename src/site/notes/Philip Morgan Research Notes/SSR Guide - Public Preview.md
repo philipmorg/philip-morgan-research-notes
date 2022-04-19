@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/ssr-guide-public-preview/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/ssr-guide-public-preview/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 This is a public preview of _The Small-Scale Research Guide_. Currently in-progress.
 
@@ -211,7 +212,7 @@ A few examples will help illustrate the kind of situations where risk management
 
 All of these examples are from a talk Doug gave, and you can find similar examples in his [talks, available on YouTube](https://www.youtube.com/results?search_query=douglas+hubbard).
 
-Risk management research is best suited to environments that function like closed systems, where you are able to control and measure almost every aspect of the system. Big business enterprises are not closed systems, but they try to function like they are. There's a famous saying (from Drucker, I think?): "what can't be measured can't be managed". This expresses the underlying anxiety about _control_ that's often omnipresent in so many modern organizations, and this desire for control pushes the system's organization and function closer to that of a closed system.
+Risk management research is best suited to environments that function like closed systems, where you are able to control and measure almost every aspect of the system. Big business enterprises are not closed systems, but they try to function like they are. There's a famous saying (attributed to Peter Drucker, I think?): "what can't be measured can't be managed". This expresses the underlying anxiety about _control_ that's often omnipresent in so many modern organizations, and this desire for control pushes the system's organization and function closer to that of a closed system.
 
 Here's a quick summary of the method that Douglas Hubbard recommends for risk management research:
 
@@ -311,29 +312,23 @@ Those who look with a cleareyed view at all the options available for business r
 
 ## 3: Small-Scale Decision Support Research
 
-@TODO: pick up here
+I've placed this section on SSR at the end of this chapter so the previous sections on the risk management, innovation, and social signaling styles of research can define the "negative space" that SSR fits into. SSR has both similarities and differences with the risk management and innovation styles of research.
 
-- This is distinct from the risk management approach because you're (largely) an outsider
-	- The risk management approach presumes a certain level of insider access you may not have, and a certain level of familiarity with the system you may not have.
-- Mixed methods:
-	- Scale/causation
-		- Might be understood as measuring a specific phenomenon, with an effort to control or create homogeneity in the surrounding context.
-	- and
-	- Coherence/focus
-		- MIght be understood as exploring the context within which a specific phenomenon occurs, with an effort to understand the natural variation and diversity in that context.
-- With this approach, you may blend elements of both the risk management style and the innovation style.
-	- The focus is on the relatively closed system of a specific business decision, not the wide-open vista of innovation.
-	- But, because you lack the benefits (and drawbacks!) of being an insider, the research approach might look more like an inductive/qual/exploratory approach (but not always!)
-- Useful reading
-	- Sam Ladner, “Mixed Methods".
+Like the risk management style of SSR, the goal is to support a decision, or a class of decisions (ex: "my clients are always wondering what the lowest-risk way to experiment with Metaverse marketing is, so I want to do some SSR to discover the possibilities and rank them by riskiness"). But the risk management approach presumes a certain level of insider access you may not have, and a certain level of familiarity with the system you may not have. So with the kind of SSR I'm defining and advocating here, you are largely an outsider to any given company that you might be studying. You might be an insider to the market you serve, but as an indie consultant, you are never a full insider to any single company in that market, and so you will face constraints on how much access you have to the people and information contained within each company. If you read Doug Hubbard's book _How to Measure Anything_, you'll start to notice that you don't always have the kind of access to people and information that he's describing. This is fine, but we have to compensate by being scrappier when it comes to recruitment (that's the fancy word for inviting people to participate in your research in some way).
 
-	- Academic/Scientific context:
-		- Not relevant to us here except where it spins off commoditized and-also-usable-by-us best practices, or methodology approaches we can adapt. But, just to describe it a bit:
-			- Large sample size and/or statistical controls
-			
+With SSR, we are often blending the quantitative focus of risk management research and the qualitative focus of innovation research. This is known as mixed methods research, and it's certainly not something I've invented. Dr. Sam Ladner has an excellent, sort, readable book, _[Mixed Methods: A short guide to applied mixed methods research](https://amazon.com/dp/B07Q3GVMMK)_, that describes this approach. With mixed methods research, the focus is on the relatively closed system of a specific business decision, not the wide-open vista of innovation. But, because you lack the benefits (and drawbacks!) of being an insider, the research approach might look more like an inductive, qualitative, exploratory approach used by innovation research. SSR is often seeking to understand _scale_ (how big or how common is this thing we're studying?) and _causation_ (does X cause Y?) while also understanding _context_, _nuance_, and _variation_.
 
+The next chapter will elaborate more on SSR, so I'll leave you with the recommendation to read Dr. Ladner's book _[Mixed Methods: A short guide to applied mixed methods research](https://amazon.com/dp/B07Q3GVMMK)_.
 
-[^1]: @TODO about Doug's point RE: expert intuition.
+## The Academic/Scientific Research
+
+The final "style" of research is academic or scientific research. This style is not relevant to us here except where it spins off commoditized practices that happen to be usable at our scale with our constraints, or methodology approaches we can adapt. In general, academic/scientific research emphasizes large sample sizes and/or statistical controls that are out of our reach. We compensate by making sure our research helps us understand _context_, _nuance_, and _variation_. We may fail to achieve earthshaking findings about causation, but we compensate by gathering the deep, nuanced understanding of context and variation that makes us better consultants and thinkers. This is a great tradeoff for a consultant!
+
+---
+
+**Notes:**
+
+[^1]: I think that Doug is not wrong that in some cases, simple, inexpensive measurements can outperform expert intuition. But I am sure we could also find cases where expert intuition outperforms simple, inexpensive measurements! Despite the occasions where it creates additional tension or complexity in the decision-making process, I'd advocate for a fusion of measurements and expert intuition. While SSR does have as its chief aspiration the improvement of the decisions that your clients make, the path to those improved decisions can be a bit messy.
 
 [^2]: I am careful to call the notion that empathy precedes and leads to innovation a _belief_ because I'm pretty sure it's not a fact or natural law. Throughout human history, we have not always had this belief. At various times, we've believed that innovations (new ideas that create relative advantage) come from a multiplicity of deities, a single deity, from dreams, from psychoactive plants, and from elevated social status or intelligence. I'm sure I'm leaving a few working theories off of that list. I happen to think that the the notion that empathy precedes and leads to innovation is a useful and probably-correct belief, but that still doesn't elevate it from belief to fact.
 
@@ -418,7 +413,7 @@ Those who look with a cleareyed view at all the options available for business r
 
 TODO
 
-- [ ] #0-task Skip through my collection of research papers, make sure I haven't missed any high-level category of meta-method 📅 2022-04-15
+- [ ] #0-task Skip through my collection of research papers, make sure I haven't missed any high-level category of meta-method 📅 2022-04-20
 
 "Toy"
 
@@ -701,7 +696,7 @@ Outline
 ## TODO
 
 - [x] #0-task Next step: reference TEI Talks to sketch out chapter outlines 📅 2022-03-11 ✅ 2022-04-12
-- [ ] #0-task Second outlining pass through all the chapters 📅 2022-04-15
+- [x] #0-task Second outlining pass through all the chapters 📅 2022-04-15 ✅ 2022-04-17
 - [ ] Start brain-dump/writing!
 
 ## Notes
