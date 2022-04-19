@@ -3,7 +3,11 @@
 ---
 
 
-This is a public preview of _The Small-Scale Research Guide_. Currently in-progress.
+This is a public preview of _The Small-Scale Research Guide_. Currently in-progress. What's complete enough to read:
+
+- [1: The Potential Of Small-Scale Research](https://researchnotes.philipmorganconsulting.com/philip-morgan-research-notes/ssr-guide-public-preview/#1-the-potential-of-small-scale-research)
+- [2: What Is Research Generally, And Business Research Specifically?](https://researchnotes.philipmorganconsulting.com/philip-morgan-research-notes/ssr-guide-public-preview/#2-what-is-research-generally-and-business-research-specifically)
+
 
 # The Small-Scale Research Guide
 
