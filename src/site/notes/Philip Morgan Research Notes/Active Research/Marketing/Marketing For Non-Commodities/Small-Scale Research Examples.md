@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-non-commodities/small-scale-research-examples/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-non-commodities/small-scale-research-examples/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 - https://www.writtenwordmedia.com/successful-authors-can-like/
 - http://tmillergroup.com/book/
