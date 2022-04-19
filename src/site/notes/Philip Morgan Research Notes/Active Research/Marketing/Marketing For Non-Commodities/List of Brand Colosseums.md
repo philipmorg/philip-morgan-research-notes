@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-non-commodities/list-of-brand-colosseums/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-non-commodities/list-of-brand-colosseums/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 - Metahelm
 - David C. Baker
