@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-non-commodities/marketing-for-non-commodities-index/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-non-commodities/marketing-for-non-commodities-index/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 Marketing for non-commodities; for services.
 
