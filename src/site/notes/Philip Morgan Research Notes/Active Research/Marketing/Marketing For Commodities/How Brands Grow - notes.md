@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-commodities/how-brands-grow-notes/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-commodities/how-brands-grow-notes/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 These are actually notes on [How Brands Grow: Part 2: Emerging Markets, Services, Durables, New and Luxury Brands](https://smile.amazon.com/How-Brands-Grow-Emerging-Services/dp/0195596269) but based on what I'm seeing from the first chapter of this book, it rehashes and expands on the first one, so from a notetaking perspective it's a good one to take notes on as I read.
 
