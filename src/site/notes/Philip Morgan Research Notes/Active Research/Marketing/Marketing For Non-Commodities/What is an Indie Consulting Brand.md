@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-non-commodities/what-is-an-indie-consulting-brand/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-non-commodities/what-is-an-indie-consulting-brand/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 # What is an Indie Consulting Brand?
 
