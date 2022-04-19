@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/for-the-indie-expert-what-is-marketing/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/for-the-indie-expert-what-is-marketing/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 [[Philip Morgan Research Notes/Active Research/Marketing/How dost one come to understand marketing|How dost one come to understand marketing]]?
 
