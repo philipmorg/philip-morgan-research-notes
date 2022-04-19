@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-non-commodities/thought-leadership/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-non-commodities/thought-leadership/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 More coming soon to this note, but in the meantime, here are two books that, though they never use the word _thought leadership_, have a lot to say about how thought leadership happens:
 
