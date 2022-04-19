@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-non-commodities/selling-transformation/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-non-commodities/selling-transformation/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 I have this notion that some services are more transformational in nature, and some are more optimization or problem-solving focused. I'm talking about a spectrum, of course, not two binary polarities.
 
