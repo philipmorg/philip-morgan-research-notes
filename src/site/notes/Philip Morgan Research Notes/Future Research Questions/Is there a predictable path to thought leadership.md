@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/future-research-questions/is-there-a-predictable-path-to-thought-leadership/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/future-research-questions/is-there-a-predictable-path-to-thought-leadership/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 @TODO
 
