@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/future-research-questions/is-there-a-standard-growth-path-from-implementation-to-strategy-work/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/future-research-questions/is-there-a-standard-growth-path-from-implementation-to-strategy-work/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 @TODO
 
