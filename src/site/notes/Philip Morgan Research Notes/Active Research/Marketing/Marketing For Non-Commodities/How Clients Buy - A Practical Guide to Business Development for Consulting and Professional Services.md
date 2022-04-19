@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-non-commodities/how-clients-buy-a-practical-guide-to-business-development-for-consulting-and-professional-services/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-non-commodities/how-clients-buy-a-practical-guide-to-business-development-for-consulting-and-professional-services/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 - **Title**: How Clients Buy- A Practical Guide to Business Development for Consulting and Professional Services
 - **Author**: Tom McMakin and Doug Fletcher
