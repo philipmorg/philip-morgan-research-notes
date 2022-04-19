@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/how-dost-one-come-to-understand-marketing/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/how-dost-one-come-to-understand-marketing/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 # How Might We Understand Marketing?
 
