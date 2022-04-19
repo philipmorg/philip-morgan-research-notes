@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-non-commodities/daily-emailing/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-non-commodities/daily-emailing/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 ## Genres Of Daily Email Lists, With Examples
 
