@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/past-research/self-employed-devs-career-investment/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/past-research/self-employed-devs-career-investment/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 # How Do Self-Employed Software Developers Invest In Their Career?"
 
