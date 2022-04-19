@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-non-commodities/good-service-description-examples/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-non-commodities/good-service-description-examples/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 In the #direct-response marketing world, these would be sales pages.
 
