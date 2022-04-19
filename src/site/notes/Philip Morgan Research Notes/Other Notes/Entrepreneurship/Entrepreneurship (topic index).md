@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/other-notes/entrepreneurship/entrepreneurship-topic-index/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/other-notes/entrepreneurship/entrepreneurship-topic-index/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 Stuff related to self-employment and entrepreneurship.
 
