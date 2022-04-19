@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/rfp-less-indie-consulting-dynamics/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/rfp-less-indie-consulting-dynamics/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 # How do those who have spent more than $20,000 on a consulting project that did not involve an RFP find the consultant they hired?
 
