@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/what-is-thought-leadership/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/what-is-thought-leadership/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 # What Is Thought Leadership?
 
