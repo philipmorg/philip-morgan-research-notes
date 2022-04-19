@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/linked-in-in-connection-message-survey/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/linked-in-in-connection-message-survey/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 ## LinkedIn in-connection message survey
 
