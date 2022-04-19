@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-non-commodities/open-vs-closed-systems/"}
+{"dg-publish":true,"permalink":"/philip-morgan-research-notes/active-research/marketing/marketing-for-non-commodities/open-vs-closed-systems/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 - https://socialsystemstheory.com/2020/05/01/open-and-closed-systems/
 	- "Structurally closed systems (like a closed pan of soup or hot water in a thermos) exist only conceptually or analytically; however, _operationally_ closed systems exist in reality—or more precisely, they are observable.""
