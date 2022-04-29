@@ -328,9 +328,6 @@ The next chapter will elaborate more on SSR, so I'll leave you with the recommen
 
 The final "style" of research is academic or scientific research. This style is not relevant to us here except where it spins off commoditized practices that happen to be usable at our scale with our constraints, or methodology approaches we can adapt. In general, academic/scientific research emphasizes large sample sizes and/or statistical controls that are out of our reach. We compensate by making sure our research helps us understand _context_, _nuance_, and _variation_. We may fail to achieve earthshaking findings about causation, but we compensate by gathering the deep, nuanced understanding of context and variation that makes us better consultants and thinkers. This is a great tradeoff for a consultant!
 
----
-
-**Notes:**
 
 [^1]: I think that Doug is not wrong that in some cases, simple, inexpensive measurements can outperform expert intuition. But I am sure we could also find cases where expert intuition outperforms simple, inexpensive measurements! Despite the occasions where it creates additional tension or complexity in the decision-making process, I'd advocate for a fusion of measurements and expert intuition. While SSR does have as its chief aspiration the improvement of the decisions that your clients make, the path to those improved decisions can be a bit messy.
 
@@ -360,21 +357,22 @@ The final "style" of research is academic or scientific research. This style is 
 		- Would you want a new vaccine tested by someone who will never use it on themselves?
 	- You need skin in the game
 		- This motivates context-gathering, which is critical to sanity-checking your findings.
-		- Guillaume story: "Are you OK if this invalidates your work's claimed value prop?"
+		- The unavoidable downside of skin in the game: Guillaume story: "Are you OK if this invalidates your work's claimed value prop?"
 	- You need to connect your research with a decision
 		- Otherwise you run the risk of useless "state of the industry" surveys.
 		- These have marketing/visibility value, but much less decision-enabling value and less potential to create IP.
+		- The rotten low-hanging fruit of SSR
+			- Unfortunately, some of the easier-to-execute SSR approaches are useful only for social signaling, and nearly or completely useless for enabling better decision making.
+			- Because these approaches are easier to execute, they're more common. And because they're more common, the availability heuristic causes us to think of these approaches as the default for SSR. They might be the default, but they're a bad default.
 - Summary
 	- Motive: understand causation.
 	- 4 contexts
-		- Risk management.
-		- Innovation.
-		- Hybrid.
-		- Academic/Scientific.
+		- Risk management
+		- Innovation
+		- Hybrid
+		- Academic/Scientific
 	- We are, coming from a spirit of service, trying to help our clients make better decisions.
-- The rotten low-hanging fruit of SSR
-	- Unfortunately, some of the easier-to-execute SSR approaches are useful only for social signaling, and nearly or completely useless for enabling better decision making.
-	- Because these approaches are easier to execute, they're more common. And because they're more common, the availability heuristic causes us to think of these approaches as the default for SSR. They might be the default, but they're a bad default.
+
 
 
 
@@ -405,7 +403,6 @@ The final "style" of research is academic or scientific research. This style is 
 	- ex: if this professor who is from Europe behaves in a warm way with one group of students and a cold way with others, will there be a halo effect?
 	- ex: if we put this experimental drug into some tissue in a petri dish, will X happen?
 	- ex: If we build this [software tool](https://quantum.country) that uses a [certain approach that we believe can help users memorize difficult subjects](https://numinous.productions/ttft/), what will *actually* happen?
-	- 
 - **4: Structured observation that seeks to comprehend and make sense of the behavior, nuance, context, and variation within a phenomenon, system, or form of thinking.**
 - Overall:
 	- The 3 forms of research design (meta-methods) are:
@@ -415,9 +412,9 @@ The final "style" of research is academic or scientific research. This style is 
 
 ## Specific Methods (is Tools a better word?)
 
-TODO
+### TODO
 
-- [ ] #0-task Skip through my collection of research papers, make sure I haven't missed any high-level category of meta-method 📅 2022-04-20
+- [ ] #0-task Skip through my collection of research papers, make sure I haven't missed any high-level category of meta-method 📅 2022-04-24
 
 "Toy"
 
