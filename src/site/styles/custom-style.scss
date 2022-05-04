@@ -126,10 +126,7 @@ body {
   hr {
     height:0px; border-top:1px solid #dddddd; width:60%; text-align:center; margin: 70px auto 80px auto;
   }
-  
-  .content .transclusion {
-    margin-top:80;
-  }
+ 
 
   img {
       max-width: 100%;
@@ -142,6 +139,10 @@ body {
 
 .markdown-preview-view h1, h2 {
   margin-top:1.8em !important;
+}
+
+.markdown-embed {
+  margin-top: 80px;
 }
 
 
