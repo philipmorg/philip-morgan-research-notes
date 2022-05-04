@@ -42,6 +42,7 @@ I'm automatically interested in any book on sales/marketing that incorporates re
 
 This book joins the [[Philip Morgan Research Notes/Active Research/Marketing/Marketing For Non-Commodities/Useful Books On Marketing And Selling Non-Commodities|canon]]. Welcome! There are too few of this kind of book, and despite particular the ways it doesn't precisely fit my audience's context, it has a lot to offer and it touches on some important, fundamental truths.
 
+---
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
