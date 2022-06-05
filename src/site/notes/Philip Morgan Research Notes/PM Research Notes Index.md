@@ -53,7 +53,7 @@ I am convinced that sharing my research, even in this in-progress form, can be u
 
 80% notes and updates on my research into indie consulting and thought leadership; 20% shitposting about whatever. I share both process and results. I publish up to several times/week. Join up:
 
-<script async data-uid="7f3b9aa331" src="https://philip-morgan-consulting.ck.page/7f3b9aa331/index.js"></script>
+<iframe src="https://pmcresearchnotes.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 </div></div>
 
