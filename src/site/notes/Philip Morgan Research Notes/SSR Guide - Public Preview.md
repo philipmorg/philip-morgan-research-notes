@@ -403,6 +403,7 @@ The final "style" of research is academic or scientific research. This style is 
 	- ex: if this professor who is from Europe behaves in a warm way with one group of students and a cold way with others, will there be a halo effect?
 	- ex: if we put this experimental drug into some tissue in a petri dish, will X happen?
 	- ex: If we build this [software tool](https://quantum.country) that uses a [certain approach that we believe can help users memorize difficult subjects](https://numinous.productions/ttft/), what will *actually* happen?
+	- Another example of a toy experiment design: https://marginalrevolution.com/marginalrevolution/2022/05/systemic-bias-versus-concentrated-bias.html
 - **4: Structured observation that seeks to comprehend and make sense of the behavior, nuance, context, and variation within a phenomenon, system, or form of thinking.**
 - Overall:
 	- The 3 forms of research design (meta-methods) are:
@@ -414,7 +415,7 @@ The final "style" of research is academic or scientific research. This style is 
 
 ### TODO
 
-- [ ] #0-task Skip through my collection of research papers, make sure I haven't missed any high-level category of meta-method 📅 2022-04-24
+- [ ] #0-task Skip through my collection of research papers, make sure I haven't missed any high-level category of meta-method
 
 "Toy"
 
@@ -721,7 +722,7 @@ Outline
 
 80% notes and updates on my research into indie consulting and thought leadership; 20% shitposting about whatever. I share both process and results. I publish up to several times/week. Join up:
 
-<script async data-uid="7f3b9aa331" src="https://philip-morgan-consulting.ck.page/7f3b9aa331/index.js"></script>
+<iframe src="https://pmcresearchnotes.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 </div></div>
 
