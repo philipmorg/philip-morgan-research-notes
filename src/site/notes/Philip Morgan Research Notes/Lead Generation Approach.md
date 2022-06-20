@@ -3,6 +3,8 @@
 ---
 
 
+(This is the first chapter of a book I'm writing. It also pretty well summarizes my approach to lead generation.)
+
 # 1 - To avoid getting discouraged or quitting prematurely, you need to have appropriate expectations about lead generation
 
 Journalists often write using what's known as the "inverted pyramid" structure. The first paragraph of the story contains the most important facts -- the "base of the pyramid". The story doesn't get any more fundamentally accurate if you read the rest of it, it just gets more detailed. That's exactly what I'm trying to do with this book.
@@ -106,8 +108,6 @@ Most of us have a _ton_ of experience with #1 on that list above. In our world, 
 It's possible that, after enough exposure to this way of selling stuff, we start to assume that _this is just how you sell things on the Internet_. We might go further with that assumption and start to believe that _people who have become a lead by filling out a form so they can download something_ are _valuable leads_. In other words, the availability heuristic fools us into thinking that leads generated with this highly automated, scalable approach are valuable leads.
 
 For expensive, custom services, they probably are not valuable leads. They _might be_, but they usually are not.
-
-[@TODO: value tidbit: List of reediculously expensive/profitable/desirable projects sold without "digital marketing" funnel stuff.]
 
 Anytime we look at something that works, we need to remember to also examine the context, because something (the breathing system of a fish, for example) that works in Context A may not work well or at all in Context B (taking the fish out of water).
 
