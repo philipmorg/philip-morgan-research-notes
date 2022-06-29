@@ -12,6 +12,35 @@ This is a public preview of _The Small-Scale Research Guide_. Currently in-progr
 # The Small-Scale Research Guide
 
 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+# 0: The Purpose Of This Guide
+
+I wrote this guide to help you create economically valuable research using constrained resources and beginner-level expertise in research. This purpose leads to a specific approach to research that I call small-scale research. As I wrote this guide, I had in mind the ambitious indie consulting business run by someone who has cultivated expertise in a dynamic or emerging un-commodified field.
+
+The purpose of the small-scale research (SSR) aproach is enabling better decisions, often enabling better decisions by your clients as they are informed by your research output. It's likely that many of us will assume that "making better decisions" means "gaining predictive power over the outcome of the decision we're facing". In rare cases, that can happen. But that's also a too-limited view of the ways in which we can improve decisionmaking. Other ways would include but not be limited to:
+
+- Discovering new options we hadn't considered or been aware of.
+- Reducing uncertainty about the possible outcome (establishing probabilities).
+- Wasting less time considering options that are unlikely to meet our objectives or would represent bad or wasteful paths to those objectives.
+- Gaining a richer, more accurate understanding of the context – the system – within which we are making decisions.
+
+These are all high-value ways of improving decisionmaking. One of the core assumptions built into SSR is that you can improve decision-making dramatically, but you can only create that value for one class of decision, made my a small, niche audiece, at a time. Each SSR initiative needs to be tightly scoped.
+
+SSR also has an application that produces low or no decision-improving value, but high marketing value. This is SSR's _social signaling value_ -- its ability to make you look smart. This is a totally legitimate use of SSR that I tend to discourage because it feels like a waste of potential to me, but you should not let my opinion here influence you too much. I mean this. *Do* be influenced by my guidance on how to conduct SSR, but consider me a cranky old man when it comes to my opinion on using SSR for its signaling value.
+
+To my knowledge, there is no other single information source with this purpose and audience. That's why this book exists, and I hope you find it very benficial.
+
+</div></div>
+
+
+
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
