@@ -3,14 +3,16 @@
 ---
 
 
-This is my (Philip Morgan's) research, meant to benefit entrepreneurial independent experts. Evolving and public.
+My research interests are decisionmaking under conditions of complexity and uncertainty, the explore/exploit tradeoff, and how small-scale entrepreneurs find and exploit opportunity. Evolving and public.
 
-## Questions I'm Actively Researching
+## How Small-Scale Entrepreneurs Find And Exploit Opportunity
+
+### Active Research Questions
 
 1. [[Philip Morgan Research Notes/Active Research/Marketing/For the indie expert what is marketing|For the indie expert, what is marketing?]]
 2. [[Philip Morgan Research Notes/Active Research/RFP-less indie consulting dynamics|How do those who have spent more than $20,000 on a consulting project that did not involve an RFP find the consultant they hired?]]
 
-## Future Research Questions
+### Future Research Questions
 
 1. [[Philip Morgan Research Notes/Future Research Questions/Is there a predictable path to thought leadership|Is there a predictable, reusable path to thought leadership?]]
 2. [[Philip Morgan Research Notes/Future Research Questions/Is there a standard growth path from implementation to strategy work|Is there a standard growth path from implementation to strategy work?]]
@@ -18,9 +20,17 @@ This is my (Philip Morgan's) research, meant to benefit entrepreneurial independ
 4. How do you sell transformation?
 5. How do people parse, remember, and intepret positioning content?
 
-## Previous Research
+### Previous Research
 
 1. [[Philip Morgan Research Notes/Past Research/self employed devs career investment|How do self-employed developers invest in their career?]]
+
+## Decisionmaking Under Conditions Of Complexity And Uncertainty
+(In literature review phase)
+
+## The Explore/Exploit Tradeoff
+(In literature review phase)
+
+---
 
 ## Other Notes
 
