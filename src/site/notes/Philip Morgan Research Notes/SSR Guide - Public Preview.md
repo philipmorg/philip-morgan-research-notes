@@ -20,22 +20,17 @@ This is a public preview of _The Small-Scale Research Guide_. Currently in-progr
 
 </div>
 
-# 0: The Purpose Of This Guide
-
+## 0: The Purpose Of This Guide
 I wrote this guide to help you create economically valuable research using constrained resources and beginner-level expertise in research. This purpose leads to a specific approach to research that I call small-scale research. As I wrote this guide, I had in mind the ambitious indie consulting business run by someone who has cultivated expertise in a dynamic or emerging un-commodified field.
-
-The purpose of the small-scale research (SSR) aproach is enabling better decisions, often enabling better decisions by your clients as they are informed by your research output. It's likely that many of us will assume that "making better decisions" means "gaining predictive power over the outcome of the decision we're facing". In rare cases, that can happen. But that's also a too-limited view of the ways in which we can improve decisionmaking. Other ways would include but not be limited to:
-
-- Discovering new options we hadn't considered or been aware of.
-- Reducing uncertainty about the possible outcome (establishing probabilities).
-- Wasting less time considering options that are unlikely to meet our objectives or would represent bad or wasteful paths to those objectives.
-- Gaining a richer, more accurate understanding of the context – the system – within which we are making decisions.
-
-These are all high-value ways of improving decisionmaking. One of the core assumptions built into SSR is that you can improve decision-making dramatically, but you can only create that value for one class of decision, made my a small, niche audiece, at a time. Each SSR initiative needs to be tightly scoped.
-
-SSR also has an application that produces low or no decision-improving value, but high marketing value. This is SSR's _social signaling value_ -- its ability to make you look smart. This is a totally legitimate use of SSR that I tend to discourage because it feels like a waste of potential to me, but you should not let my opinion here influence you too much. I mean this. *Do* be influenced by my guidance on how to conduct SSR, but consider me a cranky old man when it comes to my opinion on using SSR for its signaling value.
-
-To my knowledge, there is no other single information source with this purpose and audience. That's why this book exists, and I hope you find it very benficial.
+The purpose of the small-scale research (SSR) aproach is enabling better decisions, often enabling better decisions by your clients as they are informed by your research output, though there are plenty of cases where you will be the intended consumer or interpreter of your own research. It's likely that many of us will assume that "making better decisions" means "gaining predictive power over the outcome of the decision we're facing". In rare cases, that can happen. But that's also a too-limited view of the ways in which we can improve decisionmaking. Other ways would include but not be limited to:
+Discovering new options we hadn't considered or been aware of.
+Reducing uncertainty or establishing probabilities about the possible outcome(s).
+Wasting less time considering options that are unlikely to meet our objectives or would represent bad or wasteful paths to those objectives.
+Gaining a richer, more accurate understanding of the context – the system – within which we are making decisions.
+Mapping an immature or emerging domain to help others navigate it with lesss waste.
+These are all high-value ways of improving decisionmaking. One of the core assumptions built into SSR is that you can improve decision-making dramatically, but you can only create that value for one class of decision, made my a small, niche audiece, at a time. Each SSR initiative needs to be tightly scoped to a very specific kind of decision.
+SSR also has an application that produces low or no decision-improving value, but high marketing value. This is SSR's *social signaling value* -- its ability to make you look smart. This is a totally legitimate use of SSR that I usually discourage because it feels like a waste of potential to me, but you should not let my opinion here influence you too much. I really mean this. *Do* be influenced by my guidance on how to conduct SSR, but consider me a cranky old man when it comes to my opinion on using SSR only for its signaling value.
+To my knowledge, there is no other single information source with this purpose and audience. That's why this book exists, and I hope you find it very beneficial.
 
 </div></div>
 
@@ -61,19 +56,19 @@ This was merely the first example I could find of a particular genre that is wel
 
 You see what's going on here, right? The tweeter is mocking those who confidently espouse opinions on Twitter without institutional backing for those opinions.
 
-This is a simplification of a more complex problem:
+This is a nicely simplistic example of a more complex problem that is larger than just the incentives of social media:
 
-1: Deep genuine experts really don't want their expertise undermined by folks farming likes and shares on social media platforms.
+1: Genuine experts really don't want their expertise undermined by folks who are merely farming likes and shares on social media platforms.
 
 2: It is actually possible to mis-use tools we don't have the proper training to master, and that mis-use can lead to harm.
 
-So @deisidiamonia is -- in their own cartoonish like-farming way -- acting in defense of the honor and social position of real expertise. This is a big part of the cultural backdrop we consider when we think about small-scale research.
+So @deisidiamonia is -- in their own cartoonish way -- acting in defense of the honor and social position of real expertise. This is a big part of the cultural backdrop we consider when we think about small-scale research.
 
 If I buy a $5000 vintage Martin guitar to play 3-chord songs on the weekend, nobody's really been harmed by my usage of this tool, it's just that the tool's potential is utterly wasted on my lack of ability to play it well. On the other hand, if my wife complains of abdominal pain and I try to remove her appendix with a $5 X-acto knife, I'm mis-using a tool in a way that almost certainly *will* harm her.
 
 But what if I create a survey instrument, field it and get a few hundred data points, and start advising clients based on what I've learned from that survey? Am I mis-using that tool in a way that can lead to harm?
 
-When we consider doing research, too many of us fear something like the tweet I included above being aimed at us. Either a well-trained master of the tool spots an error that was invisible to us and calls us out, a social media like-farmer takes a pot shot at us, or we cause actual harm to another despite our intentions to help. These fears are not entirely baseless, but they are based on a misapprehension of the world of research that I hope to correct in this guide.
+When we consider doing research, too many of us fear something like the tweet I included above being aimed at us. Either a well-trained master of the tool spots an error that was invisible to us and calls us out, a loudmouth social media user who is chasing likes and retweets takes a pot shot at us, or we cause _actual harm_ to another despite our intentions to help. These fears are not entirely baseless, but they are based on a misapprehension of the world of research that I hope to correct in this guide.
 
 I hope to illuminate a small corner of the much larger world of research: the small-scale research corner. The value of using small-scale research to help your clients make better decisions is high, and -- if you're careful with your usage of the tools -- the risk of causing harm is low.
 
@@ -81,7 +76,7 @@ I hope to illuminate a small corner of the much larger world of research: the sm
 
 Our culture worships data. And rightly so. Data combined with human ingenuity and sweat is a godlike tool that's pulled us out of a nasty, brutish, and short existence into across-the-board increases in comfort, wealth, health, and technological & human potential. But cults form around deities, and so data is more than just a powerful tool.
 
-Data can also be a way to justify taking a quick shortcut from an inner emotional sense to a haughty, external certainty. We can go further and use data as a social cudgel to attack enemies. Or we can assemble enough data to feel that we walk about in priestly vestments, closer to the divine than the unwashed masses.
+Data can also be a way to justify taking a quick shortcut from an inner emotional sense of what's true to an external posture of haughty certainty. We can go further and use data as a social cudgel to attack enemies. Or we can assemble enough data to feel that we walk about in priestly vestments, closer to the divine than the unwashed masses we look down on.
 
 Data is powerful. But data is not an unalloyed good, nor is it always the best tool to guide decisions. Data can only be as good as those who produce and consume it. But data _can be_ an instrument for improving decision making and wellbeing, and an ability to produce and consume it should be accessible to us, not just large well-funded institutions and companies.  For us to do that, we should start with understanding the broader landscape of research.
 
@@ -97,9 +92,13 @@ We'll roughly divide the world of research into 3 not-equally-sized sectors:
 
 **Academic/Scientific research** is what we are most familiar with. Anyone who cites numbers about COVID-19 death rates, case counts, transmissibility, and the like is making use of the output of the academic/scientific research world. If there's one thing that outsiders might know about this world's methods, it's the idea of _statistical validity_. Most of us don't really understand statistical validity, but we know it's important and difficult to achieve, and if we don't like what a given research product seems to say, the easiest way to discredit it is to find some flaw related to statistical validity.
 
-**Small-Scale Research** is something you'll come to understand via this guide. Small-Scale Research (SSR) uses methods that untrained researchers can use without getting wacky results to enable better decision-making within businesses. SSR keeps the cost reasonable by keeping the scope very narrow and using methods that generate insight and contextual richness rather than definitive declarations about cause-effect.
+**Small-Scale Research** is something you'll come to understand via this guide. Small-Scale Research (SSR) can enable better decision-making within businesses using methods that untrained researchers can use without getting wacky results. SSR keeps the cost reasonable by keeping the scope very narrow and using methods that generate insight and contextual richness rather than definitive declarations about cause-effect or extremely precise measurements.
 
-**Business Research** is a superset of SSR that seeks to understand cause-effect in the context of a business decision. Business research also seeks to measure the under-measured in order to help manage risk. And finally, there is a branch of business research that uses inexpensive research methods to earn visibility and trust through social signaling but without supporting (or being on the hook for) any specific decision.
+**Business Research** is a superset of SSR. There are 3 approaches to business research:
+
+1. Seek to understand cause-effect in the context of a business decision. 
+2. Measure the under-measured in order to help manage risk.
+3. Use inexpensive research methods to earn visibility and trust through social signaling but without supporting (or being on the hook for) any specific decision.
 
 The next chapter of this guide will much more fully explain academic/scientific and business research so we can clearly see where SSR fits in between these two much larger worlds.
 
@@ -107,7 +106,7 @@ It's worth thinking about why we should invest in SSR.
 
 ## SSR Forces A Literature Review
 
-After you roughly define your SSR question, you will do a brief literature review. If this sounds intimidating or technical, it's actually not. A SSR literature review is like Googling around for stuff, except using specialized search engines (more and more useful and _free_ options are entering this market all the time). It would be unwise to start a SSR project without doing a literature review, because you don't want or need to duplicate prior efforts. So we could say that SSR _forces_ a literature review.
+After you roughly define your SSR question, you will do a brief literature review. If this sounds intimidating or technical, it's actually not. A SSR literature review is like Googling around for stuff, except using specialized search engines (more and more useful options are entering this market all the time). It would be unwise to start a SSR project without doing a literature review, because you don't want or need to duplicate prior efforts. So we could say that SSR _forces_ a literature review.
 
 This is a very good thing. Through the lit review, we'll get a crash course in the relevant prior art. If our SSR question is roughly aimed at understanding the value of branding, we'll find that there have been serious academic inquiries into this question. [@TODO: link to a few scite and others with pre-populated queries for this] Perhaps this will cause us to refine, narrow, adjust, or abandon our SSR project. This is good!
 
@@ -121,11 +120,13 @@ If your question is "does better branding increase sales?", that's a good starti
 
 Eventually your investigation of the surrounding context needs to resolve into a refinement of your initial SSR question so that you can settle down into research, but this preceding "anxious phase" is good because it forces you to seriously consider context, and if there's one thing that can make you a better consultant, it's a better grasp of your client's context.
 
+@TODO: Good diagram opp of 2 timelines. 1) Anxious phase extends into infinity with sad face, anxios phase is time-limited and yields good byproducts and transitions into research implementation phase with smiley face.
+
 ## SSR Can Create Intellectual Property
 
-Intellectual property (IP) is your expertise packaged and made usable without your direct involvement. For us indie experts, IP is generally not something we invest much effort in protecting in a legal sense or worry about being stolen. Most clients would rather pay us to help apply it, and most competitors are too proud or incompetent to bother with stealing or borrowing it. Sure, there are exceptions, but spending money to protect our IP  would be like buying meteorite strike insurance for a car.
+Intellectual property (IP) is your expertise packaged and made usable without your direct involvement. For us indie experts, IP is generally not something we invest much effort in protecting in a legal sense or worry about being stolen. Most clients would rather pay us to help apply it, and most competitors are too proud or incompetent to bother with stealing or borrowing it. Sure, there are exceptions, but spending money to protect our IP would be like buying meteorite strike insurance for a car.
 
-SSR can create or enrich IP. "I want to create IP" is not the best motivation for investing in SSR. "I want to understand X better so I can help my clients make better decisions" is a much better motivation, but the SSR that fulfills your desire to more deeply understand X can end up being, or contributing to, valuable IP. (If the speculative nature of all of this puts you off, that may be a sign that your business or thinking is not in a place that's compatible with SSR.)
+SSR can create or enrich IP. "I want to create IP" is not the best motivation for investing in SSR. "I want to understand X better so I can help my clients make better decisions" is a much better motivation, but the SSR that fulfills your desire to more deeply understand X can end up being, or contributing to, valuable IP. (If the speculative nature of all of this puts you off, that may be a sign that your business or thinking is not in a place that could leverage SSR.)
 
 ## SSR Can Contribute To Your Point Of View
 
@@ -143,11 +144,12 @@ This is really the bottom line here. It's the ultimate reason to invest in SSR. 
 
 ## SSR Calls For Strength And Humility
 
-Data is powerful. It is also a story we tell ourselves about why we decided a certain way.
+Data is powerful. It can be a powerful way to understand truth and reality. It is more often a fairy tale we tell ourselves about why we decided a certain way.
 
 This is an argument both for getting more fluent at creating and using data, and an argument for humility around the whole idea of data's value. Some suggested reading for you:
 
-"Alchemy" by Rory Sutherland is a fun, worthwhile read here. "How to Measure Anything" by Douglas Hubbard is a much less fun, but equally worthwhile counterbalancing read.
+- "Alchemy" by Rory Sutherland is a fun, worthwhile read here.
+- "How to Measure Anything" by Douglas Hubbard is a much less fun, but equally worthwhile counterbalancing read.
 
 If you're up for it, read these two books back to back. You'll find yourself suspended in a sort of "intellectual hammock", pulled in two opposing directions with respect to the value of *data*. This is the right place from which to think about this stuff.
 
@@ -167,9 +169,9 @@ Let me be clear: well-executed small-scale research is very rare. There are good
 
 All together, these factors cause us to under-utilize research. Again, many of these are good reasons to _not_ invest in SSR. Doing competent but -- let's be honest -- *utterly ordinary work* can be monetized in totally adequate ways. Building a small team, leveraging a bit of luck, and avoiding making any terrible decisions for 10 or 20 years can buy you two really nice houses, a few college educations for kids, a funded retirement account, and quite a few nice vacations and meals in restaurants. All without touching SSR with a ten foot pole. Not bad!
 
-So after accounting for all the reasons to invest in SSR and considering all the reasons we don't, I think your decision will come down to _dissatisfaction_. The folks who are willing to invest in SSR tend to be dissatisfied with the status quo. They have a hunger to advance the state of the art. A hunger that, frankly, I have been unable to fully explain. I have this hunger. Some folks I know who "should" be earning more money have this hunger and invest in SSR anyway, despite the "illogical" nature of the investment. And I know others who are earning way more money than they need to live well, can't explain how exactly the SSR will contribute more revenue, and also have this hunger.
+So after accounting for all the reasons to invest in SSR and considering all the reasons we don't, I think your decision will come down to an emotion rather than an objective decision process. That emotion is _dissatisfaction_. The folks who are willing to invest in SSR tend to be dissatisfied with the status quo. They have a hunger to advance the state of the art. A hunger that, frankly, I have been unable to fully explain. I have this hunger. Some folks I know who "should" be earning more money have this hunger and invest in SSR anyway, despite the "illogical" nature of the investment. And I know others who are earning way more money than they need to live well, can't explain how exactly the SSR will contribute more revenue, and also have this hunger.
 
-The best I've got for an explanation: it's a hunger to understand more deeply. We just _have_ to gain this deeper understanding. Maybe this is driven by even deeper, more primal motivations for status, power, etc. I don't really know.
+The best I've got for an explanation is this: it's a hunger to understand more deeply combined with a concern that our own personal experience to date is limiting our potential to understand. We just _have_ to gain this deeper understanding and maybe this is really driven by even deeper, more primal motivations for status, power, etc. I don't really know.
 
 I _do_ know that you can stop reading this guide if you're sure you *don't* have this hunger. There are easier, less risky ways to optimize your business to make more money and serve your clients better.
 
@@ -212,6 +214,8 @@ The whole, short piece is well worth a read, but I can't help quoting one more b
 This... *this* is absolutely the core motivation of small-scale research (SSR): *wanting to know the answer to an un-answered question that you care deeply about*.  This is, more generally, the motivation of most other styles of research, but the _caring about_ part is particularly important and personal when it comes to SSR.
 
 The way most of us think about research causes us to worry about caring or caring too much. We worry using terms like "bias" and "motivated reasoning" and a few others. Basically, we worry that caring too much will interfere with our general objectivity and the effectiveness of our research. But when it comes to SSR, I've found that the worst output is produced by people who _care too little_. They're often creating the research as a social signaling tool ("I do research, therefore I have authoritative insight into X."), but they actually have little or no _practical use_ for the insight the research generates. As a result, they can overlook nonsensical or perhaps more subtly flawed results because they have no skin in the game when it comes to how the results will be _applied_ in real world situations, and they lack the _context_ that practitioners have, causing them to not even sense when the results are nonsensical or flawed.
+
+Caring too much in the wrong way can lead you astray, but the main place where I've seen this happen is people who care too much about being seen as an infallible expert. In other words, give an insecure asshole the tool of research, and because they care too much about protecting their ego or reputation, they will often produce bad research. The secondary place where caring too much distorts research output is when you put someone in a system that incentivizes them to hit a "quota" of impressive research output. The whole "p-hacking" scandal you may have heard about flows from this inventive structure.
 
 Almost every apparent constraint that comes with the territory of SSR is actually an opportunity in disguise. Small sample sizes are an opportunity to go deeper and gather more nuance. The lack of rigorous statistical controls is an invitation to get dead serious about contextualizing your findings, which helps you avoid self-deception or cluelessly reporting bad data to the world.
 
