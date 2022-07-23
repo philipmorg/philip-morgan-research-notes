@@ -429,140 +429,146 @@ The final "style" of research is academic or scientific research. This style is 
 
 ## Design/Meta-Methods
 
-- **1: Measuring prevalence**
-	- ex: NPS (Among those who respond to this survey, how prevalent are the promoters vs. detractors?)
-	- ex: We think employee morale is a problem, but don't know how big a problem. Let's measure how many employees are satisfied vs. dissatisfied with their workplace.
-	- Tends to reduce down into a dashboard-level number of "great/good/OK/bad/emergency". Tries to abstract complex reality into a number.
-- **2: Measuring the under-measured**
-	- Similar to measuring prevalence, but worth calling out separately because having this as the goal will trickle down into slightly or very different design/methods
-	- ex: what would it cost us if supply chain disruptions shut down our production for a day, week, month, etc?
-	- Often will be a _component_ of a larger or more complex analysis or decision. (ex: is the cost and likelihood of that potential supply chain shutdown big enough that we invest in redundancy?)
-- **3: Toy version of more complex system: does input X produce/fail to produce output/effect Y?**
-	- ex: if this professor who is from Europe behaves in a warm way with one group of students and a cold way with others, will there be a halo effect?
-	- ex: if we put this experimental drug into some tissue in a petri dish, will X happen?
-	- ex: If we build this [software tool](https://quantum.country) that uses a [certain approach that we believe can help users memorize difficult subjects](https://numinous.productions/ttft/), what will *actually* happen?
-	- Another example of a toy experiment design: https://marginalrevolution.com/marginalrevolution/2022/05/systemic-bias-versus-concentrated-bias.html
-- **4: Structured observation that seeks to comprehend and make sense of the behavior, nuance, context, and variation within a phenomenon, system, or form of thinking.**
-- Overall:
-	- The 3 forms of research design (meta-methods) are:
-		- Measurement
-		- Testing (a hypothesis)
-		- Structured overservation -> sense-making/understanding
+- **1: Measuring prevalence**  
+	- ex: NPS (Among those who respond to this survey, how prevalent are the promoters vs. detractors?)  
+	- ex: We think employee morale is a problem, but don't know how big a problem. Let's measure how many employees are satisfied vs. dissatisfied with their workplace.  
+	- Tends to reduce down into a dashboard-level number of "great/good/OK/bad/emergency". Tries to abstract complex reality into a number.  
+	- Helps prioritize resource allocation ("is this really a big enough problem to spend $X on?")  
+- **2: Measuring the under-measured**  
+	- Similar to measuring prevalence, but worth calling out separately because having this as the goal will trickle down into slightly or very different design/methods  
+	- ex: what would it cost us if supply chain disruptions shut down our production for a day, week, month, etc?  
+	- Often will be a *component* of a larger or more complex analysis or decision. (ex: is the cost and likelihood of that potential supply chain shutdown big enough that we invest in redundancy?)  
+	- Helps reduce uncertainty, establish probabilities, or replace guesses/intuition with lower uncertainty probabilities or numerical ranges.  
+- **3: Toy version of more complex system: does input X produce/fail to produce output/effect Y?**  
+	- "Toy"  
+	- when I was a child: plastic toy locomotive and can of sterno  
+	- As an adult: better but not perfect RE: correlation/causation  
+	- But the idea that we can create “toys” for experimentation has stuck with me  
+	- Toy is not a dismissive term. Just means: cheap, simplified (lower resolution and scope vs. the real thing), but usable. Also... you can *play* with it! Meaning, try lots of things in a low-stakes way to observe what happens and, sometimes, *be surprised* by what happens.  
+	- ex: if this professor who is from Europe behaves in a warm way with one group of students and a cold way with others, will there be a halo effect?  
+	- ex: if we put this experimental drug into some tissue in a petri dish, will X happen?  
+	- ex: If we build this [software tool](https://quantum.country) that uses a [certain approach that we believe can help users memorize difficult subjects](https://numinous.productions/ttft/), what will *actually* happen?  
+	- Another example of a toy experiment design: https://marginalrevolution.com/marginalrevolution/2022/05/systemic-bias-versus-concentrated-bias.html  
+	- Another example: Karen Nelson-Field's research on ads and attention, with the "toy" social media + eye tracking stuff. (is a pretty high fidelity toy all in all :) )  
+	- Toys don't have to be built out of atoms or bits; they can be a system of rules (perhaps combined with small amounts of real money, etc.) as is done with prospect theory research ("how much will people risk in this hypothetical situation?") or multi-armed bandit experiments. Ref: lots of social science research that's testing a hypothesis will put students or mechanical turk people in toy situations to see if they behave according to the hypothesis or not.  
+- **4: Structured observation that seeks to comprehend and make sense of the behavior, nuance, context, and variation within a phenomenon, system, or form of thinking.**  
+	- Can be ethnographic in-situ observation, or partially removed from IRL situations (interviews, etc.).  
+	- Can be direct or indirect.  
+	- The notion of saturation (rather than statistical validity) is used to determine adequate sample size and acceptable bias.  
+	- Builds up a theory from structured observation (grounded theory method) rather than testing a hypothesis.  
+- Overall:  
+	- The 3 forms of research design (meta-methods) are:  
+		- Measurement (measuring prevalance, and measuring the under-measured)  
+		- Testing (a hypothesis)  
+		- Structured overservation -> sense-making/understanding  
+- ## Specific Methods (is Tools a better word?)  
+- ### TODO  
+- A survey (har har!) of methods  
+	- Sampling methods  
+		- Census  
+		- Probability sample  
+		- Convenience sample  
+	- Measurement methods  
+		- Surveys  
+			-  
+			  > Why should I hate you, we ain’t that different  
+			  We may act different in some ways, but we still grouped together like a fuckin' survey  
 
-## Specific Methods (is Tools a better word?)
-
-### TODO
-
-- [ ] #0-task Skip through my collection of research papers, make sure I haven't missed any high-level category of meta-method
-
-"Toy"
-
-- when I was a child: plastic toy locomotive and can of sterno  
-- As an adult: better but not perfect RE: correlation/causation  
-- But the idea that we can create “toys” for experimentation has stuck with me  
-- Toy is not a dismissive term. Just means: cheap, simplified, but usable. Also... you can _play_ with it! Meaning, try lots of things in a low-stakes way to observe what happens and, sometimes, *be surprised* by what happens.
-
-- A survey (har har!) of methods
-	- Sampling methods
-		- Census
-		- Probability sample
-		- Convenience sample
-	- Measurement methods
-		- Surveys
-			- Realtime interview
-			- Self-administered
-		- Interviews
-			- Semi-Structured
-		- Direct observation
-		- Merely *collecting and organizing* extant data (meta-measurement)
-		- Analysis of extant quant/qual data
-			- Different from the previous because you don't collect the data yourself.
-	- Recruitment
-		- Reasons people will participate
-			- Goodwill/Interest (they want to)
-			- Desire to "be heard"
-			- They're forced to
-			- They're externally incentivized (gift card, etc.)
-			- Some surveys are institutionalized to the extent that recruitment is pretty easy (ex: "Best of Taos")
-		- Recruitment methods
-			- Outbound
-				- Email
-				- Social/LInkedIn
-					- Can be 1:1 or 1:many
-					- Gabby's "lead with a low-effort survey" then following up with direct outreach
-				- Paid advertising
-				- Appeal from a platform (an email list, an institutional partner's platform, etc.)
-				- These are convenience sampling methods, though you could apply some limited statistical correction for bias
-			- Inbound
-				- The survey itself isn't something anybody would seek out, but...
-				- You can inline it with existing inbound marketing-ish stuff like popular+relevant articles, email list content, and so on.
-				- These are also convenience sampling methods, of course
-			- Outsourced
-				- Pay-per-completion research companies can recruit for you
-				- These companies may have a relevant panel they can put the survey in front of. If they don't they owe it to you to be honest, but since the model usually is pay-per-completion, they should be honest. :)
-					- I don't have any particular negative experience with these companies, but there's a lot of garbage out there, so be careful, and we generally are doing research on groups we should be present with anyway, so involving a third part intermediary is often unnecessary. That's why you're probably getting the vibe that I'm a bit down on using outsourced recruitment.
-					- You probably don't need a... probability sample :) ... but if you did these options would become more attractive. But again, you probably don't need a probability sample. You just contextualize your findings within the less rigorous convenience sampling methods we tend to use with TEI.
-			- For sake of completeness:
-				- We'd probably never use these because they require insider status within a semi-closed system, but for completeness...
-				- Intercept
-					- Census
-					- Convenience
-	- About survey questions
-		- Screener questions
-		- Closed questions
-			- Likert scale/rating
-			- Yes/No, or other forced binary choice
-			- Ranking
-		- Open questions
-			- One word/number
-			- Multi-word/sentence/paragraph response
-		- Demographics
-		- Avoiding bias
-			- Difficult to do, but worth trying!
-				- Outside eyes on your questions can help
-		- 100% of questions delivered every time or conditionals/branching
-	- Mixing methods
-		- Quant/Qual
-			- Surveys can do both (big open-ended questions with paragraph-length answers), but with limitations in terms of qual richness/nuance/interpretation
-		- Inductive/Deductive
-	- About interviews
-		- Range from Indi Young-style listening sessions to facilitated surveys
-			- the latter is technically different than an interview, but still there are "interviews" that are almost as prescribed and rote as a survey
-		- Agenda and prompts
-			- I think this might be the biggest determinant of how an interview unfolds: how detailed is your agenda?
-			- Secondarily: how do you prompt interviewees? Just the question? Do you cave under the pressure of silence and start leading them inappropriately?
-		- Setting and context
-			- Also important is setting and context. How much time is available? How squeezed is the interviewee? How squeezed are YOU?
-		- There's not one "best" approach to interviews.
-			- Even with lots of mistakes, you'll get nuanced, useful information that helps you build context and add shades of meaning and nuance to quant data.
-			- It's hard to recommend a starting point RE: length because uber-short interviews require more skill while longer interviews require stamina and experience.
-				- That said, consider asking for 40m interviews, which are less than an hour by a meaningful amount (good for busy people) and long enough for you to screw up and still walk away with something useful.
-		- Record or take notes during or after?
-			- Potential chilling effect of recording vs. potential distraction of notetaking.
-			- I don't have a recipe for you here. Depnds on your preferences and strengths.
-			- Neither drawback (the chilling effect or the distraction) is so bad you must avoid it no matter what, and avoiding your personal weakness might more than compensate for the weakness of the choice you've made.
-		- Do enough interviews and you will eventually fail spectacularly. Don't worry; it's all in the game, yo. These extreme outliers teach you very little that you can use to improve your technique, so you just dust yourself off and move on.
-	- Analysis			
-		- The "data soak"
-		- Coding
-		- Pulling out vivid data points either of a qual or quant nature
-		- Seeking patterns
-			- Correlations
-			- Instructive outliers
-			- Another "data soak" to absorb the vibe of the data/patterns/outliers/"odors" that feel interesting or unusual or unexpected
-				- In other words, TIME can really help you notice these patterns
-	- Some recommendations
-		- Most questions are likely to benefit from mixed methods with a convenience opt-in sampling method
-		- Don't rule out other approaches, just know that within TEI (again, you might think of this research project as a prototype or first sprint) the mixed method + convenience sampling tends to be most useful and applicable.
-
-## Research Methods Especially Suited To Small-Scale Research
-
-
-- Surveys
-- Semi-structured interviews/listening sessions
-- Measuring through data-scraping
-- Digital toys
-- 
+			    
+			  -madness, deltron  
+			    
+			  I would like to think Deltron wasn't just fishing for a phrase to fit the rhyme scheme, but instead making a perceptive observation about how surveys can collapse the range and nuance of reality into a flat, abstract, low-fidelity/low-value representation. But, we'll probably never know exactly what he had in mind. Still, this is a good place to start thinking about where surveys can produce value in SSR and where they can impede cultivating the insight we'd like to have. #SSRG
+			- Realtime interview  
+			- Self-administered  
+		- Interviews  
+			- Semi-Structured  
+		- Direct observation  
+		- Merely *collecting and organizing* extant data (meta-measurement)  
+		- Analysis of extant quant/qual data  
+			- Different from the previous because you don't collect the data yourself.  
+	- Recruitment  
+		- Reasons people will participate  
+			- Goodwill/Interest (they want to)  
+			- Desire to "be heard"  
+			- They're forced to  
+			- They're externally incentivized (gift card, etc.)  
+			- Some surveys are institutionalized to the extent that recruitment is pretty easy (ex: "Best of Taos")  
+		- Recruitment methods  
+			- Outbound  
+				- Email  
+				- Social/LInkedIn  
+					- Can be 1:1 or 1:many  
+					- Gabby's "lead with a low-effort survey" then following up with direct outreach  
+				- Paid advertising  
+				- Appeal from a platform (an email list, an institutional partner's platform, etc.)  
+				- These are convenience sampling methods, though you could apply some limited statistical correction for bias  
+			- Inbound  
+				- The survey itself isn't something anybody would seek out, but...  
+				- You can inline it with existing inbound marketing-ish stuff like popular+relevant articles, email list content, and so on.  
+				- These are also convenience sampling methods, of course  
+			- Outsourced  
+				- Pay-per-completion research companies can recruit for you  
+				- These companies may have a relevant panel they can put the survey in front of. If they don't they owe it to you to be honest, but since the model usually is pay-per-completion, they should be honest. :)  
+					- I don't have any particular negative experience with these companies, but there's a lot of garbage out there, so be careful, and we generally are doing research on groups we should be present with anyway, so involving a third part intermediary is often unnecessary. That's why you're probably getting the vibe that I'm a bit down on using outsourced recruitment.  
+					- You probably don't need a... probability sample :) ... but if you did these options would become more attractive. But again, you probably don't need a probability sample. You just contextualize your findings within the less rigorous convenience sampling methods we tend to use with TEI.  
+			- For sake of completeness:  
+				- We'd probably never use these because they require insider status within a semi-closed system, but for completeness...  
+				- Intercept  
+					- Census  
+					- Convenience  
+	- About survey questions  
+		- Screener questions  
+		- Closed questions  
+			- Likert scale/rating  
+			- Yes/No, or other forced binary choice  
+			- Ranking  
+		- Open questions  
+			- One word/number  
+			- Multi-word/sentence/paragraph response  
+		- Demographics  
+		- Avoiding bias  
+			- Difficult to do, but worth trying!  
+				- Outside eyes on your questions can help  
+		- 100% of questions delivered every time or conditionals/branching  
+	- @TODO: I need to speak in some useful way to the "toy" set of methods. I'm not sure what to say right now, but I don't want to skip over this.  
+	- Mixing methods  
+		- Quant/Qual  
+			- Surveys can do both (big open-ended questions with paragraph-length answers), but with limitations in terms of qual richness/nuance/interpretation  
+		- Inductive/Deductive  
+	- About interviews  
+		- Range from Indi Young-style listening sessions to facilitated surveys  
+			- the latter is technically different than an interview, but still there are "interviews" that are almost as prescribed and rote as a survey  
+		- Agenda and prompts  
+			- I think this might be the biggest determinant of how an interview unfolds: how detailed is your agenda?  
+			- Secondarily: how do you prompt interviewees? Just the question? Do you cave under the pressure of silence and start leading them inappropriately?  
+		- Setting and context  
+			- Also important is setting and context. How much time is available? How squeezed is the interviewee? How squeezed are YOU?  
+		- There's not one "best" approach to interviews.  
+			- Even with lots of mistakes, you'll get nuanced, useful information that helps you build context and add shades of meaning and nuance to quant data.  
+			- It's hard to recommend a starting point RE: length because uber-short interviews require more skill while longer interviews require stamina and experience.  
+				- That said, consider asking for 40m interviews, which are less than an hour by a meaningful amount (good for busy people) and long enough for you to screw up and still walk away with something useful.  
+		- Record or take notes during or after?  
+			- Potential chilling effect of recording vs. potential distraction of notetaking.  
+			- I don't have a recipe for you here. Depnds on your preferences and strengths.  
+			- Neither drawback (the chilling effect or the distraction) is so bad you must avoid it no matter what, and avoiding your personal weakness might more than compensate for the weakness of the choice you've made.  
+		- Do enough interviews and you will eventually fail spectacularly. Don't worry; it's all in the game, yo. These extreme outliers teach you very little that you can use to improve your technique, so you just dust yourself off and move on.  
+	- Analysis			  
+		- The "data soak"  
+		- Coding  
+		- Pulling out vivid data points either of a qual or quant nature  
+		- Seeking patterns  
+			- Correlations  
+			- Instructive outliers  
+			- Another "data soak" to absorb the vibe of the data/patterns/outliers/"odors" that feel interesting or unusual or unexpected  
+				- In other words, TIME can really help you notice these patterns  
+	- Some recommendations  
+		- Most questions are likely to benefit from mixed methods with a convenience opt-in sampling method  
+		- Don't rule out other approaches, just know that within TEI (again, you might think of this research project as a prototype or first sprint) the mixed method + convenience sampling tends to be most useful and applicable.  
+- ## Research Methods Especially Suited To Small-Scale Research  
+- Surveys  
+- Semi-structured interviews/listening sessions  
+- Measuring through data-scraping  
+- Digital toys  
 
 
 </div></div>
